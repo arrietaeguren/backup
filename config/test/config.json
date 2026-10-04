@@ -272,6 +272,62 @@
           "times": "",
           "title": "",
           "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-a9b02534-49f4-4808-a9a6-b8511e7d2e18",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "09:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-7e9d2440-17d5-4fa9-8fa9-492ad9e09923",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-0d4fe799-7e26-4ee6-8ea7-6a27b921d3e8",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "su"
+          ],
+          "times": "13:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-b19085f4-a0ba-468e-9f42-db135eb87f0b",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "19:00",
+          "type": "mass"
         }
       ],
       "urls": []
@@ -396,7 +452,19 @@
       }
     ],
     "description": "",
-    "places": [],
+    "places": [
+      {
+        "address": "Calle de la iglesia, 10, 28223, Pozuelo de Alarcón, Madrid",
+        "geo": "40.435883, -3.815893",
+        "id": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+        "images": [
+          "https://misas.org/images/photo-1314-thumb.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2011-espanha-madrid-0024_%2836271661444%29.jpg/250px-2011-espanha-madrid-0024_%2836271661444%29.jpg"
+        ],
+        "name": " la Asunción Nuestra Señora",
+        "tags": []
+      }
+    ],
     "social": [],
     "title": "Sitio de pruebas"
   },
