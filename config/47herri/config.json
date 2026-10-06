@@ -857,6 +857,19 @@
           "times": "19:30",
           "title": "Imanol Arotzarena Erro",
           "type": "funeral"
+        },
+        {
+          "date": "2026-10-07",
+          "description": [],
+          "id": "evt-67dac65d-963b-4f82-b2b9-7c41a775ade1",
+          "images": "",
+          "location": [
+            "c7767cb6-8dc4-487c-b0df-781653b1b165"
+          ],
+          "rrule": "",
+          "times": "17:00",
+          "title": "Arantxa Berroeta Alba",
+          "type": "funeral"
         }
       ],
       "urls": [
