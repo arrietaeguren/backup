@@ -870,6 +870,21 @@
           "times": "17:00",
           "title": "Arantxa Berroeta Alba",
           "type": "funeral"
+        },
+        {
+          "date": "2026-10-08",
+          "description": [],
+          "id": "evt-ce654562-356a-456b-a898-56cc3c0ea9d5",
+          "images": "",
+          "location": [
+            "6914c0d4-1751-4afc-beb1-530b85b4d03b"
+          ],
+          "rrule": "",
+          "times": [
+            "19.00"
+          ],
+          "title": "Jose María Hernandorena Huarte",
+          "type": "funeral"
         }
       ],
       "urls": [
