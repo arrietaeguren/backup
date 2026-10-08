@@ -2571,7 +2571,7 @@
     "navStyle": "47herri",
     "preview": "",
     "radius": 0.9,
-    "spacingDensity": 0.9,
+    "spacingDensity": 1,
     "styles": []
   }
 }
