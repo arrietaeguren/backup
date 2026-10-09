@@ -59,7 +59,7 @@
           ],
           "rrule": "",
           "times": "",
-          "title": "Adultos",
+          "title": "Helduen katequesia",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
@@ -276,7 +276,7 @@
           "duration": null,
           "id": "evt-f2dec312-cebb-4e22-be72-04d8975d2680",
           "images": [
-            "https://images.pexels.com/photos/639172/pexels-photo-639172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Oliver+Mussiett&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ffocused-male-lecturer-reading-report-on-tribune-with-microphone-639172%2F"
+            "https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp"
           ],
           "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
@@ -535,6 +535,53 @@
           "times": "11:30",
           "title": "",
           "type": "mass"
+        },
+        {
+          "date": "2026-10-24",
+          "description": [],
+          "id": "evt-9467bb6c-2799-4fe9-bdab-4bd5f2a7dd72",
+          "images": [],
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "El misterio de Cristo (Iñigo Beunza)",
+          "type": "2b212345-ff31-4253-8c6b-b6ddb7957c66"
+        },
+        {
+          "date": "2026-11-28",
+          "description": [],
+          "except": [],
+          "id": "evt-93db2920-7757-49d9-9db7-6908cd328f66",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Dios con nosotros. Jesucristo en los evangelios (Luis Alberto Esteban)",
+          "type": "2b212345-ff31-4253-8c6b-b6ddb7957c66"
+        },
+        {
+          "date": "2026-12-19",
+          "description": [],
+          "except": [],
+          "id": "evt-6eb325d5-83f8-4792-9d68-603461618b02",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Cristo, centro de la Liturgia Cristiana (José Antonio Goñi)",
+          "type": "2b212345-ff31-4253-8c6b-b6ddb7957c66"
+        },
+        {
+          "date": "2027-01-30",
+          "description": [],
+          "except": [],
+          "id": "evt-4dd95b26-292f-4b0c-b68b-13d3ba4ed02d",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Jesús, nuestro acceso al Padre (Teresa Iribarnegaray)",
+          "type": "2b212345-ff31-4253-8c6b-b6ddb7957c66"
         }
       ],
       "urls": []
@@ -661,6 +708,24 @@
         "icon": "heroicons-solid:user-group",
         "id": "b03fd1b0-b491-47fd-84ae-8ab81805009c",
         "label": "Grupos"
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "Escuela diocesana de Teología y Pastoral \"Pedro Axular\" [descargar folleto](https://drive.google.com/file/d/14t7D7iwlubjnunDJoGY7by8zbHypq0WL/view?usp=drive_link)",
+          "images": [
+            "https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp"
+          ],
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": [],
+          "times": "10:00",
+          "title": ""
+        },
+        "icon": "",
+        "id": "2b212345-ff31-4253-8c6b-b6ddb7957c66",
+        "label": "Escuela de teología"
       }
     ]
   },
