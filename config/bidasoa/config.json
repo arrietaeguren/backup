@@ -406,14 +406,134 @@
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
-          "date": null,
-          "description": "",
-          "id": "evt-1ae4e6b6-9be3-4c5b-9fb4-085d29005851",
-          "location": "cca50f59-ae23-4a32-bcaf-880cf22358d5",
+          "date": "",
+          "description": [],
+          "id": "evt-fc8fb89a-984d-4e9a-917c-8b56286e58b4",
+          "images": "",
+          "location": [
+            "ea0a3610-a8de-47eb-b042-de12844e3777"
+          ],
+          "rrule": [
+            "Udan",
+            "su"
+          ],
+          "times": "10:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-0fccad9c-fc82-4ead-82d2-5462b9f9f933",
+          "images": "",
+          "location": [
+            "c47e83d8-b018-416c-b031-222471115ee2"
+          ],
           "rrule": [
             "su"
           ],
-          "times": "11:00",
+          "times": "18:30",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-1a6fe257-570e-4b43-a167-53235b25658f",
+          "images": "",
+          "location": [
+            "c47e83d8-b018-416c-b031-222471115ee2"
+          ],
+          "rrule": [
+            "sa"
+          ],
+          "times": "18:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-5c87129f-b044-4c71-89e4-bfe2b35477d3",
+          "images": "",
+          "location": [
+            "300f03e5-090d-410b-80a4-a6575dcdc67a"
+          ],
+          "rrule": [
+            "sa",
+            "Neguan"
+          ],
+          "times": "17:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-0dde600b-486b-4267-b276-63696860f703",
+          "images": "",
+          "location": [
+            "300f03e5-090d-410b-80a4-a6575dcdc67a"
+          ],
+          "rrule": [
+            "Neguan",
+            "su"
+          ],
+          "times": "09:30",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-168e1365-ab81-4d0c-9b32-be9cc9152925",
+          "images": "",
+          "location": [
+            "02b5a468-e102-4f9e-bf67-171c01d78e88"
+          ],
+          "rrule": [
+            "su",
+            "Verano"
+          ],
+          "times": "12:30",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-417af743-7aee-4685-bedd-5bd96bdbf42e",
+          "images": "",
+          "location": [
+            "2b589836-9e4e-46de-a4a4-9191c3261426"
+          ],
+          "rrule": [
+            "sa"
+          ],
+          "times": "16:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-be6c94be-29ed-4ede-acc2-ee1e8ef7a5b1",
+          "images": "",
+          "location": [
+            "556ab091-756f-40e4-9220-7596c876e2ad"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": "11:30",
+          "title": "",
           "type": "mass"
         }
       ],
@@ -421,7 +541,11 @@
     }
   },
   "dev": {
-    "siteurl": "bidasoa.parrokia.eus"
+    "siteurl": "bidasoa.parrokia.eus",
+    "subscribedto": [
+      "BidasokoParrokiak",
+      "UC7JiMBhG_kJm2DB-mGLtCyg"
+    ]
   },
   "event-types": {
     "list": [
@@ -565,7 +689,7 @@
         "social": []
       }
     ],
-    "description": "",
+    "description": "Bidasoko parrokietarako webgune ofiziala",
     "places": [
       {
         "address": " 31760",
@@ -766,17 +890,6 @@
         "tags": []
       },
       {
-        "address": "Calle Palacio, 11, 31745, Ituren, Navarra",
-        "geo": "43.131166, -1.714989",
-        "id": "cca50f59-ae23-4a32-bcaf-880cf22358d5",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carnavales_de_Ituren_y_Zubieta.jpg/250px-Carnavales_de_Ituren_y_Zubieta.jpg?photographer=Zimbra",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Joaldunak_plaza_garbitzen.jpg/250px-Joaldunak_plaza_garbitzen.jpg?photographer=Birasuegi"
-        ],
-        "name": " San Martín",
-        "tags": []
-      },
-      {
         "address": ", Saldias 31753",
         "geo": "43.0888659, -1.7792157",
         "id": "2b589836-9e4e-46de-a4a4-9191c3261426",
@@ -790,32 +903,56 @@
         "tags": []
       },
       {
-        "address": " 20491",
-        "geo": "43.1164447, -2.0228291",
-        "id": "47b4021b-09b9-472a-a376-619c393789f1",
+        "address": ", Beintza-Labaien 31753",
+        "geo": "43.0858232, -1.7504043",
+        "id": "556ab091-756f-40e4-9220-7596c876e2ad",
+        "images": [],
+        "name": "Labaien",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "43.109458, -1.6870201",
+        "id": "300f03e5-090d-410b-80a4-a6575dcdc67a",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079243618.jpg/250px-Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079243618.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079243932.jpg/250px-Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079243932.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079244296.jpg/250px-Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079244296.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079244593.jpg/250px-Gaztelu_-_Gaztelu_%28Gipuzkoa%29_-_Tagzania_-_1785079244593.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Eliza_Gaztelu_LFOZS_1458.jpg/250px-Eliza_Gaztelu_LFOZS_1458.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gaztelu_monumentua_plazan_26_180211.jpg/250px-Gaztelu_monumentua_plazan_26_180211.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Intxaurpe_1987_Gaztelu_LFOZS_1213.jpg/250px-Intxaurpe_1987_Gaztelu_LFOZS_1213.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Intxaurpe_1987_Gaztelu_LFOZS_1319.jpg/250px-Intxaurpe_1987_Gaztelu_LFOZS_1319.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Latsagia_Gaztelu_LFOZS_1751.jpg/250px-Latsagia_Gaztelu_LFOZS_1751.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latsagia_Gaztelu_LFOZS_1826.jpg/250px-Latsagia_Gaztelu_LFOZS_1826.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Herri_Kirol_Gaztelu_LFOZS_segalariarenak.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_segalariarenak.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Herri_Kirol_Gaztelu_LFOZS_Ingudea.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_Ingudea.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herri_Kirol_Gaztelu_LFOZS_3811.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_3811.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Herri_Kirol_Gaztelu_LFOZS_3824.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_3824.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Herri_Kirol_Gaztelu_LFOZS_3839.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_3839.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Herri_Kirol_Gaztelu_LFOZS_3902.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_3902.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Herri_Kirol_Gaztelu_LFOZS_3923.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_3923.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Herri_Kirol_Gaztelu_LFOZS_3935.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_3935.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Herri_Kirol_Gaztelu_LFOZS_4039.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_4039.jpg?photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Herri_Kirol_Gaztelu_LFOZS_4053.jpg/250px-Herri_Kirol_Gaztelu_LFOZS_4053.jpg?photographer=Luistxo"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oiz_02.jpg/250px-Oiz_02.jpg?photographer=Basotxerri",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Oiz_03.jpg/250px-Oiz_03.jpg?photographer=Basotxerri",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oiz_01.jpg/250px-Oiz_01.jpg?photographer=Basotxerri",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Laxo_pilota-jokoa_01.jpg/250px-Laxo_pilota-jokoa_01.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Laxo_pilota-jokoa_02.jpg/250px-Laxo_pilota-jokoa_02.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Laxo_pilota-jokoa_03.jpg/250px-Laxo_pilota-jokoa_03.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Laxo_pilota-jokoa_04.jpg/250px-Laxo_pilota-jokoa_04.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Laxo_pilota-jokoa_06.jpg/250px-Laxo_pilota-jokoa_06.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Laxo_pilota-jokoa_05.jpg/250px-Laxo_pilota-jokoa_05.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Laxo_pilota-jokoa_07.jpg/250px-Laxo_pilota-jokoa_07.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Laxoa_Oiz_Erran_02.jpg/250px-Laxoa_Oiz_Erran_02.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Doneztebe_Avia_sakean_Erran_01.jpg/250px-Doneztebe_Avia_sakean_Erran_01.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Echecarte_en_Oitz.jpg/250px-Echecarte_en_Oitz.jpg?photographer=JLVwiki"
         ],
-        "name": "Gaztelu",
+        "name": "Oiz",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "43.1122222, -1.6727059",
+        "id": "ea0a3610-a8de-47eb-b042-de12844e3777",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Donamaria%2C_Malerreka_03.jpg/250px-Donamaria%2C_Malerreka_03.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Donamaria%2C_Malerreka_02.jpg/250px-Donamaria%2C_Malerreka_02.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Donamaria%2C_Malerreka_01.jpg/250px-Donamaria%2C_Malerreka_01.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Donamaria%2C_Malerreka_05.jpg/250px-Donamaria%2C_Malerreka_05.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Donamaria%2C_Malerreka_04.jpg/250px-Donamaria%2C_Malerreka_04.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Donamaria%2C_Malerreka_06.jpg/250px-Donamaria%2C_Malerreka_06.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Donamaria%2C_Malerreka_07.jpg/250px-Donamaria%2C_Malerreka_07.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Donamaria%2C_Malerreka_08.jpg/250px-Donamaria%2C_Malerreka_08.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Donamariako_Udala_1.jpg/250px-Donamariako_Udala_1.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Donamariako_Udala_2.jpg/250px-Donamariako_Udala_2.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Donamaria_-_Donamaria_-_Tagzania_-_1780227970894.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227970894.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Donamaria_-_Donamaria_-_Tagzania_-_1780227971023.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971023.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Donamaria_-_Donamaria_-_Tagzania_-_1780227971190.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971190.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg"
+        ],
+        "name": "Donamaria",
         "tags": []
       },
       {
@@ -833,20 +970,19 @@
         "tags": []
       },
       {
-        "address": ", Saldias 31753",
-        "geo": "43.0888659, -1.7792157",
-        "id": "4d578a11-4f3b-44ee-9bba-2332a8c8c0b9",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sunprinu.jpg/250px-Sunprinu.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saldiasko_Udala_1.jpg/250px-Saldiasko_Udala_1.jpg?photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Saldiasko_Udala_2.jpg/250px-Saldiasko_Udala_2.jpg?photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Saldiasko_Udala_3.jpg/250px-Saldiasko_Udala_3.jpg?photographer=Lector_d_Wiki"
-        ],
-        "name": "Saldias",
+        "address": "Gaztelu Kalea, 58, 31750 Gaztelu, Navarre",
+        "geo": "43.12187538538239, -1.657042683203816",
+        "id": "c47e83d8-b018-416c-b031-222471115ee2",
+        "images": [],
+        "name": "Gaztelu",
         "tags": []
       }
     ],
-    "social": [],
+    "social": [
+      "621208210",
+      "https://youtube.com/@BidasokoParrokiak",
+      "bidasoa.parrokia@gmail.com"
+    ],
     "title": "Bidasoa"
   },
   "nerdy": {
