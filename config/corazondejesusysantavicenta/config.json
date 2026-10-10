@@ -445,14 +445,12 @@
           "description": [],
           "duration": null,
           "id": "evt-a168fe0b-8e0e-473c-8444-ce85f3c8fbb5",
-          "images": [
-            "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-09-01-at-15-08-20-bcea70c3.webp"
-          ],
+          "images": [],
           "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
           "rrule": "",
           "times": "",
           "title": "Colecta terremoto en Colombia",
-          "type": "special"
+          "type": ""
         },
         {
           "date": "2026-09-06",
@@ -473,28 +471,24 @@
           "description": [],
           "duration": null,
           "id": "evt-65b741fa-6d6e-4d3c-b850-566b1884b882",
-          "images": [
-            "https://data.parroquia.app/corazondejesusysantavicenta/media-INSCRIPCIONE-CATEQUESIS-DE-INFANCIA-2---Y-3--DE-PRIMARIA---2026-09-02T114709-361-2fc3740a.webp"
-          ],
+          "images": [],
           "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
           "rrule": "",
           "times": "",
           "title": "Peregrinación a Lourdes con el Papa",
-          "type": "special"
+          "type": ""
         },
         {
           "date": "2026-10-03",
           "description": [],
           "duration": null,
           "id": "evt-09a260d1-5e8c-41dd-9ce1-596ab4ef37c9",
-          "images": [
-            "https://data.parroquia.app/corazondejesusysantavicenta/media-images-0a7b72a2.webp"
-          ],
+          "images": [],
           "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
           "rrule": "",
           "times": "",
           "title": "Peregrinación parroquial a Lourdes",
-          "type": "special"
+          "type": ""
         }
       ],
       "urls": []
@@ -666,7 +660,7 @@
         "geo": "42.8060904, -1.6517644",
         "id": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
         "images": [
-          "https://data.parroquia.app/corazondejesusysantavicenta/media-corazondejesus-5116d919.webp"
+          "https://data.parroquia.app/corazondejesusysantavicenta/media-image--8--c3c5ffbe.webp"
         ],
         "name": "Corazón de Jesús",
         "tags": []
@@ -676,7 +670,7 @@
         "geo": "42.8098218, -1.6566207",
         "id": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
         "images": [
-          "https://data.parroquia.app/corazondejesusysantavicenta/media-parroquia-de-santa-vicenta-maria-pamplona-navarra-cc58472a.webp"
+          "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-10-10-at-13-01-26-40e03f52.webp"
         ],
         "name": " Santa Vicenta María",
         "tags": []
@@ -723,9 +717,10 @@
           {
             "id": "237bdc35-b50d-415c-b85f-b66a761072f7",
             "images": [
-              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-09-13T101101-791-82720215.webp",
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-10-10T123127-771-918c968f.webp",
               "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-09-22-at-19-09-52-070827eb.webp",
-              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-10-01T135210-118-69e1c361.webp"
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-10-01T135210-118-69e1c361.webp",
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-09-13T101101-791-82720215.webp"
             ],
             "tags": [],
             "title": "Últimas noticias",

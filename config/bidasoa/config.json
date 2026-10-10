@@ -425,22 +425,6 @@
           "date": "",
           "description": [],
           "except": [],
-          "id": "evt-0fccad9c-fc82-4ead-82d2-5462b9f9f933",
-          "images": "",
-          "location": [
-            "c47e83d8-b018-416c-b031-222471115ee2"
-          ],
-          "rrule": [
-            "su"
-          ],
-          "times": "18:30",
-          "title": "",
-          "type": "mass"
-        },
-        {
-          "date": "",
-          "description": [],
-          "except": [],
           "id": "evt-1a6fe257-570e-4b43-a167-53235b25658f",
           "images": "",
           "location": [
@@ -484,23 +468,6 @@
             "su"
           ],
           "times": "09:30",
-          "title": "",
-          "type": "mass"
-        },
-        {
-          "date": "",
-          "description": [],
-          "except": [],
-          "id": "evt-168e1365-ab81-4d0c-9b32-be9cc9152925",
-          "images": "",
-          "location": [
-            "02b5a468-e102-4f9e-bf67-171c01d78e88"
-          ],
-          "rrule": [
-            "su",
-            "Verano"
-          ],
-          "times": "12:30",
           "title": "",
           "type": "mass"
         },
