@@ -236,18 +236,6 @@
           "type": "mass"
         },
         {
-          "date": "2026-09-20",
-          "description": [],
-          "duration": null,
-          "id": "evt-ac4f1139-bebf-4c77-9f52-9d0bbfbc171a",
-          "images": "",
-          "location": "",
-          "rrule": "",
-          "times": "",
-          "title": "",
-          "type": ""
-        },
-        {
           "date": "",
           "description": "Que guay!",
           "duration": null,
@@ -328,6 +316,29 @@
           ],
           "times": "19:00",
           "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "id": "evt-a4b2fc03-09a9-43cb-9fe2-0994e3a77836",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "catechism"
+        },
+        {
+          "date": "2026-07-15",
+          "description": "## Campamento de Verano en Doneztebe\\n\\n¡Disfruta de unos días inolvidables de convivencia, naturaleza y fe en el entorno incomparable de Navarra!\\n\\n**¿Qué incluye?**\\n- Actividades al aire libre\\n- Talleres y juegos\\n- Excursiones por la zona\\n- Momentos de oración y convivencia",
+          "duration": null,
+          "id": "evt-summer-camp-doneztebe-01",
+          "image": "https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?auto=format&fit=crop&w=1600&q=80",
+          "location": "73f6289d-71b3-4f11-8097-b08e2f83132e",
+          "rrule": "",
+          "times": "09:00",
+          "title": "Campamento de Verano en Doneztebe",
+          "type": "special"
         }
       ],
       "urls": []
@@ -354,6 +365,7 @@
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
+        "pageMode": "",
         "protected": "funeral"
       },
       {
@@ -373,6 +385,7 @@
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
+        "pageMode": "",
         "protected": "eucaristía"
       },
       {
@@ -392,6 +405,7 @@
         "id": "confessions",
         "label": "Confesiones",
         "name": "confessions",
+        "pageMode": "",
         "protected": "confesiones"
       },
       {
@@ -411,6 +425,7 @@
         "id": "catechism",
         "label": "Catequesis",
         "name": "catechism",
+        "pageMode": "",
         "protected": "catequesis"
       },
       {
@@ -429,6 +444,7 @@
         "icon": "ph:star-four",
         "id": "special",
         "label": "Especial",
+        "pageMode": "",
         "protected": "especial"
       }
     ]
@@ -446,7 +462,7 @@
       {
         "id": "1aea87fb-a3e3-4fba-ac4a-46a1acfcaf44",
         "image": "",
-        "name": "",
+        "name": "Pedro Alvarez",
         "phonenumber": "",
         "social": []
       }
@@ -462,6 +478,16 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2011-espanha-madrid-0024_%2836271661444%29.jpg/250px-2011-espanha-madrid-0024_%2836271661444%29.jpg"
         ],
         "name": " la Asunción Nuestra Señora",
+        "tags": []
+      },
+      {
+        "address": "Calle Parroquia, 2, 31740 Santesteban / Doneztebe, Navarra",
+        "geo": "43.13179, -1.66966",
+        "id": "73f6289d-71b3-4f11-8097-b08e2f83132e",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/San_Pedro_eliza_-_Doneztebe.jpg/3840px-San_Pedro_eliza_-_Doneztebe.jpg"
+        ],
+        "name": "San Pedro (Doneztebe)",
         "tags": []
       }
     ],

@@ -51,21 +51,6 @@
           "date": "",
           "description": [],
           "duration": null,
-          "id": "evt-cbe1731e-62f7-43ee-8887-bedab916454b",
-          "images": "",
-          "location": [
-            "27cb795e-8b34-4559-9731-88ccd3e34104",
-            "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
-          ],
-          "rrule": "",
-          "times": "",
-          "title": "Helduen katequesia",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
           "id": "evt-8277f606-fdf9-44e0-a611-2f40b93a4eb6",
           "images": "",
           "location": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
@@ -274,22 +259,6 @@
           "date": "",
           "description": [],
           "duration": null,
-          "id": "evt-f2dec312-cebb-4e22-be72-04d8975d2680",
-          "images": [
-            "https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp"
-          ],
-          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
-          "rrule": [
-            "sa"
-          ],
-          "times": "",
-          "title": "Escuela de teología",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
           "id": "evt-96255a0b-9cab-4d8e-939e-1649722d188a",
           "images": [
             "https://images.pexels.com/photos/36634161/pexels-photo-36634161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=atelierbyvineeth+.+.+.&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fopen-prayer-book-in-irish-church-interior-36634161%2F"
@@ -351,24 +320,6 @@
           "date": "",
           "description": [],
           "duration": null,
-          "id": "evt-2d99b7e8-bbc7-48da-8d37-5c924c3c2a74",
-          "images": "",
-          "location": [
-            "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
-            "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
-            "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
-            "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
-            "27cb795e-8b34-4559-9731-88ccd3e34104"
-          ],
-          "rrule": "",
-          "times": "",
-          "title": "Catequesis primera comunión",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
           "id": "evt-f726f06f-39ff-400e-a693-c7b546ef452e",
           "images": "",
           "location": [
@@ -377,32 +328,6 @@
           "rrule": "",
           "times": "",
           "title": "Formación para catequistas",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
-          "id": "evt-7f56ed8b-494b-47cd-a3c3-1eddc5d70745",
-          "images": "",
-          "location": "",
-          "rrule": "",
-          "times": "",
-          "title": "Viajes parroquiales",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
-          "id": "evt-4d86394d-dbf8-47c3-8ce2-b43353bf3b1d",
-          "images": [
-            "https://data.parroquia.app/bidasoa/media-caritas-2d7510f6.webp"
-          ],
-          "location": "",
-          "rrule": "",
-          "times": "",
-          "title": "Cáritas",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
@@ -539,6 +464,34 @@
           "type": "2b212345-ff31-4253-8c6b-b6ddb7957c66"
         },
         {
+          "date": "",
+          "description": [],
+          "id": "evt-63629518-b399-4b42-a5b0-88ce589e8f84",
+          "images": "",
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": [
+            "tu"
+          ],
+          "times": "19:30",
+          "title": "",
+          "type": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b"
+        },
+        {
+          "date": "",
+          "description": [],
+          "id": "evt-31f9e464-8ada-40a7-b4f0-48473a759cd4",
+          "images": "",
+          "location": [
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b"
+        },
+        {
           "date": "2027-01-30",
           "description": [],
           "except": [],
@@ -549,6 +502,141 @@
           "times": "",
           "title": "Jesús, nuestro acceso al Padre (Teresa Iribarnegaray)",
           "type": "2b212345-ff31-4253-8c6b-b6ddb7957c66"
+        },
+        {
+          "date": "2026-10-15",
+          "description": [],
+          "id": "evt-26d29b99-1fbf-4475-97ba-f135a41187cd",
+          "images": "",
+          "location": [
+            "0e9230e6-312e-4b73-b4e5-72a8b4678b75"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "catechism"
+        },
+        {
+          "date": "2026-12-03",
+          "description": [],
+          "id": "evt-8221b305-c794-4869-a0d2-6688cb4a6b05",
+          "images": [
+            "https://images.pexels.com/photos/6289791/pexels-photo-6289791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=cottonbro+studio&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fa-black-ice-skating-shoes-6289791%2F"
+          ],
+          "location": [
+            "Donosti"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Pista de hielo",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "2027-01-02",
+          "description": [],
+          "except": [],
+          "id": "evt-fd973b02-42b6-445c-b049-43a56be18308",
+          "images": [
+            "https://images.unsplash.com/photo-1636490136197-783e537b0d6c?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8dml0b3JpYXxlbnwwfHx8fDE3OTE5OTE0OTF8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=David%20Vives"
+          ],
+          "location": [
+            "Vitoria"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Vitoria",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "2027-02-06",
+          "description": [],
+          "except": [],
+          "id": "evt-0c707e93-4eb2-4b76-9924-ac92013ae4ca",
+          "images": [
+            "https://images.unsplash.com/photo-1442975695135-50b67a821527?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjR8fGNhbWElMjBlbGFzdGljYXxlbnwwfHx8fDE3OTE5OTE2NTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Jazmin%20Quaynor"
+          ],
+          "location": [
+            "Pamplona"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Salting + Katedrala",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "2027-03-13",
+          "description": [],
+          "except": [],
+          "id": "evt-f10fb1e5-4710-4e98-82e6-1a88b5ac56d3",
+          "images": [
+            "https://data.parroquia.app/bidasoa/media-DSC023731-7c878a7f.webp"
+          ],
+          "location": [
+            "Javier"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Javierada",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "2027-04-16",
+          "description": [],
+          "except": [],
+          "id": "evt-e4a954b0-570e-4aa5-ad8a-10fe20a3b0b8",
+          "images": [
+            "https://images.pexels.com/photos/7429588/pexels-photo-7429588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Pavel+Danilyuk&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ften-pins-in-the-bowling-pin-deck-7429588%2F"
+          ],
+          "location": [
+            "Pamplona"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Bolera + Hakuna",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "2027-03-31",
+          "description": [],
+          "except": [],
+          "id": "evt-7fc0a6dc-9826-4ec4-8e3a-18f7222dc988",
+          "images": [
+            "https://images.unsplash.com/photo-1641070496002-8077aefba51c?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8TG91cmRlc3xlbnwwfHx8fDE3OTE5OTE4NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Nick%20Castelli"
+          ],
+          "location": [
+            "Lourdes"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Lourdes",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "",
+          "description": [],
+          "id": "evt-30ab00b5-5c14-47b7-ae77-c884e877513d",
+          "images": "",
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": [],
+          "except": [],
+          "id": "evt-a31470cc-eba3-4de1-ab4f-064e6606f194",
+          "images": "",
+          "location": [
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "catechism"
         }
       ],
       "urls": []
@@ -578,11 +666,14 @@
           "times": "",
           "title": ""
         },
+        "extra": "",
         "icon": "mdi:coffin",
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
-        "protected": "funeral"
+        "pageMode": "",
+        "protected": "funeral",
+        "sections": []
       },
       {
         "defaults": {
@@ -599,11 +690,14 @@
           "times": "",
           "title": "Meza"
         },
+        "extra": "",
         "icon": "game-icons:jeweled-chalice",
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
-        "protected": "eucaristía"
+        "pageMode": "none",
+        "protected": "eucaristía",
+        "sections": []
       },
       {
         "defaults": {
@@ -618,11 +712,14 @@
           "times": "",
           "title": ""
         },
+        "extra": "",
         "icon": "heroicons-solid:chat-bubble-bottom-center-text",
         "id": "confessions",
         "label": "Confesiones",
         "name": "confessions",
-        "protected": "confesiones"
+        "pageMode": "",
+        "protected": "confesiones",
+        "sections": []
       },
       {
         "defaults": {
@@ -631,35 +728,22 @@
           "description": "",
           "duration": 45,
           "image": "",
-          "images": [],
+          "images": [
+            "https://images.unsplash.com/photo-1548705085-101177834f47?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjZ8fHlvdXRofGVufDB8fHx8MTc5MTk4OTIwNXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Timon%20Studler"
+          ],
           "location": "",
           "rrule": [],
           "times": "",
-          "title": "Catequesis"
+          "title": "Catequesis primera comunión"
         },
+        "extra": "",
         "icon": "heroicons-solid:users",
         "id": "catechism",
-        "label": "Catequesis",
+        "label": "Catequesis primera comunión",
         "name": "catechism",
-        "protected": "catequesis"
-      },
-      {
-        "defaults": {
-          "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": null,
-          "image": "",
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "times": "",
-          "title": ""
-        },
-        "icon": "ph:star-four",
-        "id": "special",
-        "label": "Especial",
-        "protected": "especial"
+        "pageMode": "type",
+        "protected": "catequesis",
+        "sections": []
       },
       {
         "defaults": {
@@ -672,27 +756,98 @@
           "times": "",
           "title": ""
         },
+        "extra": "",
         "icon": "heroicons-solid:user-group",
         "id": "b03fd1b0-b491-47fd-84ae-8ab81805009c",
-        "label": "Grupos"
+        "label": "Grupos",
+        "pageMode": "event",
+        "sections": []
       },
       {
         "defaults": {
           "date": "",
-          "description": "Escuela diocesana de Teología y Pastoral \"Pedro Axular\" [descargar folleto](https://drive.google.com/file/d/14t7D7iwlubjnunDJoGY7by8zbHypq0WL/view?usp=drive_link)",
+          "description": "",
           "images": [
             "https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp"
           ],
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
-          "rrule": [],
+          "rrule": [
+            "never"
+          ],
           "times": "10:00",
           "title": ""
         },
+        "extra": "",
         "icon": "",
         "id": "2b212345-ff31-4253-8c6b-b6ddb7957c66",
-        "label": "Escuela de teología"
+        "label": "Escuela de teología",
+        "pageMode": "type",
+        "sections": [
+          {
+            "html": "Escuela diocesana de Teología y Pastoral \"Pedro Axular\" [+información](https://drive.google.com/file/d/14t7D7iwlubjnunDJoGY7by8zbHypq0WL/view?usp=drive_link)",
+            "id": "9b1ccd68-1f78-48e1-bb6a-6f6c38d2b9c5",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Nnx8VHJhdmVsfGVufDB8fHx8MTc5MjAxNDA5OXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Dino%20Reichmuth"
+          ],
+          "location": [],
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "extra": "",
+        "icon": "",
+        "id": "d29abbbb-7ec5-4905-aba3-699a097691e0",
+        "label": "Viajes parroquiales",
+        "pageMode": "type",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/bidasoa/media-caritas-2d7510f6.webp"
+          ],
+          "location": [],
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "extra": "",
+        "icon": "heroicons-solid:heart",
+        "id": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b",
+        "label": "Cáritas",
+        "pageMode": "type",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [],
+          "times": "",
+          "title": "Helduen katequesia"
+        },
+        "extra": "",
+        "icon": "heroicons-solid:users",
+        "id": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b",
+        "label": "Helduen katequesia",
+        "pageMode": "type",
+        "sections": []
       }
     ]
   },
@@ -709,6 +864,7 @@
       {
         "id": "1f0760c9-acd5-4664-8e4a-9690269f0288",
         "image": "",
+        "images": "",
         "name": "Juan Zabala",
         "phonenumber": "",
         "social": []
@@ -716,6 +872,7 @@
       {
         "id": "7c510085-0f49-4ca6-a133-e73058df7abc",
         "image": "",
+        "images": "",
         "name": "Miguel Arrieta ",
         "phonenumber": "",
         "social": []
@@ -725,6 +882,7 @@
     "places": [
       {
         "address": " 31760",
+        "createPage": true,
         "geo": "43.233558, -1.637321",
         "id": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
         "images": [
@@ -746,10 +904,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Teodoro_Arburua_sortetxea_2.jpg/250px-Teodoro_Arburua_sortetxea_2.jpg"
         ],
         "name": "Etxalar",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.0851129, -1.8248002",
         "id": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
         "images": [
@@ -760,10 +920,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ezcurra_bus.JPG/250px-Ezcurra_bus.JPG"
         ],
         "name": "Ezkurra",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.1249707, -1.742525",
         "id": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
         "images": [
@@ -788,10 +950,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ttuntturroa_Zubietako_Kokotxean.jpg/250px-Ttuntturroa_Zubietako_Kokotxean.jpg?photographer=Birasuegi"
         ],
         "name": "Zubieta",
+        "sections": [],
         "tags": []
       },
       {
         "address": " 31745",
+        "createPage": true,
         "geo": "43.1288633, -1.7073185",
         "id": "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
         "images": [
@@ -803,10 +967,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ituren_-_Ituren_-_Tagzania_-_1781524898948.jpg/250px-Ituren_-_Ituren_-_Tagzania_-_1781524898948.jpg"
         ],
         "name": "Ituren",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.0832607, -1.796793",
         "id": "006081ce-a00c-4554-98cb-7bd40d0c13d4",
         "images": [
@@ -815,10 +981,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eratsungo_Udala_4.jpg/250px-Eratsungo_Udala_4.jpg?photographer=Lector_d_Wiki"
         ],
         "name": "Eratsun",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.1122222, -1.6727059",
         "id": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
         "images": [
@@ -836,10 +1004,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg"
         ],
         "name": "Carmelitas Donamaria",
+        "sections": [],
         "tags": []
       },
       {
         "address": " 31744",
+        "createPage": true,
         "geo": "43.1384243, -1.687207",
         "id": "07e3751c-2c15-45a8-8fb6-c7cd0f9fb3f5",
         "images": [
@@ -851,10 +1021,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Elgorriko_Udala_5.jpg/250px-Elgorriko_Udala_5.jpg?photographer=Lector_d_Wiki"
         ],
         "name": "Elgorri",
+        "sections": [],
         "tags": []
       },
       {
         "address": ", Bertizarana 31793",
+        "createPage": true,
         "geo": "43.1333377, -1.6277938",
         "id": "026c5627-8a62-4c1e-8623-9f085750d007",
         "images": [
@@ -867,10 +1039,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg"
         ],
         "name": "Narbarte",
+        "sections": [],
         "tags": []
       },
       {
         "address": " 31791",
+        "createPage": true,
         "geo": "43.1640996, -1.6710173",
         "id": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
         "images": [
@@ -888,10 +1062,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939773.jpg/250px-Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939773.jpg"
         ],
         "name": "Sunbilla",
+        "sections": [],
         "tags": []
       },
       {
         "address": "Calle Parroquia, 2, 31740, Santesteban, Navarra",
+        "createPage": true,
         "geo": "43.1314091, -1.6690844",
         "id": "27cb795e-8b34-4559-9731-88ccd3e34104",
         "images": [
@@ -919,10 +1095,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551494457.jpg/250px-Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551494457.jpg"
         ],
         "name": "Doneztebe",
+        "sections": [],
         "tags": []
       },
       {
         "address": ", Saldias 31753",
+        "createPage": true,
         "geo": "43.0888659, -1.7792157",
         "id": "2b589836-9e4e-46de-a4a4-9191c3261426",
         "images": [
@@ -932,18 +1110,22 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Saldiasko_Udala_3.jpg/250px-Saldiasko_Udala_3.jpg?photographer=Lector_d_Wiki"
         ],
         "name": "Saldias",
+        "sections": [],
         "tags": []
       },
       {
         "address": ", Beintza-Labaien 31753",
+        "createPage": true,
         "geo": "43.0858232, -1.7504043",
         "id": "556ab091-756f-40e4-9220-7596c876e2ad",
         "images": [],
         "name": "Labaien",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.109458, -1.6870201",
         "id": "300f03e5-090d-410b-80a4-a6575dcdc67a",
         "images": [
@@ -962,10 +1144,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Echecarte_en_Oitz.jpg/250px-Echecarte_en_Oitz.jpg?photographer=JLVwiki"
         ],
         "name": "Oiz",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.1122222, -1.6727059",
         "id": "ea0a3610-a8de-47eb-b042-de12844e3777",
         "images": [
@@ -985,10 +1169,12 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg"
         ],
         "name": "Donamaria",
+        "sections": [],
         "tags": []
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.1001519, -1.7073351",
         "id": "02b5a468-e102-4f9e-bf67-171c01d78e88",
         "images": [
@@ -999,14 +1185,17 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Urrotz_azulejo.jpg/250px-Urrotz_azulejo.jpg?photographer=Xabier_Ca%25C3%25B1as"
         ],
         "name": "Urroz",
+        "sections": [],
         "tags": []
       },
       {
         "address": "Gaztelu Kalea, 58, 31750 Gaztelu, Navarre",
+        "createPage": true,
         "geo": "43.12187538538239, -1.657042683203816",
         "id": "c47e83d8-b018-416c-b031-222471115ee2",
         "images": [],
         "name": "Gaztelu",
+        "sections": [],
         "tags": []
       }
     ],
@@ -1177,20 +1366,12 @@
         "protected": "Plantilla eventos",
         "sections": [
           {
-            "geo": "{geo}",
-            "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
-            "image": "",
-            "name": "{location}",
+            "filter": "\"type\":\"{type}\"",
+            "id": "842fa46a-2934-4d3a-a88a-323eb65558d9",
+            "ordering": "title,dates,skip,times,locations",
             "tags": [],
-            "title": "¿Dónde es el evento?",
-            "type": "map"
-          },
-          {
-            "html": "{description}",
-            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
-            "tags": [],
-            "title": "",
-            "type": "text"
+            "title": "Próximos eventos",
+            "type": "calendar"
           },
           {
             "id": "5191d69a-56cc-4669-84ce-7b8247e8e5d2",
@@ -1198,6 +1379,13 @@
             "tags": [],
             "title": "",
             "type": "gallery"
+          },
+          {
+            "html": "{description}",
+            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
+            "tags": [],
+            "title": "",
+            "type": "text"
           }
         ],
         "title": "{title}"

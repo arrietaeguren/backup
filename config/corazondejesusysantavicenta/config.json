@@ -515,7 +515,9 @@
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
-        "protected": "funeral"
+        "pageMode": "",
+        "protected": "funeral",
+        "sections": []
       },
       {
         "defaults": {
@@ -534,63 +536,9 @@
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
-        "protected": "eucaristía"
-      },
-      {
-        "defaults": {
-          "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": 45,
-          "image": "",
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "times": "",
-          "title": ""
-        },
-        "icon": "heroicons-solid:chat-bubble-bottom-center-text",
-        "id": "confessions",
-        "label": "Confesiones",
-        "name": "confessions",
-        "protected": "confesiones"
-      },
-      {
-        "defaults": {
-          "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": 45,
-          "image": "",
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "times": "",
-          "title": ""
-        },
-        "icon": "heroicons-solid:users",
-        "id": "catechism",
-        "label": "Catequesis",
-        "name": "catechism",
-        "protected": "catequesis"
-      },
-      {
-        "defaults": {
-          "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": null,
-          "image": "",
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "times": "",
-          "title": ""
-        },
-        "icon": "ph:star-four",
-        "id": "special",
-        "label": "Especial",
-        "protected": "especial"
+        "pageMode": "",
+        "protected": "eucaristía",
+        "sections": []
       },
       {
         "defaults": {
@@ -607,7 +555,9 @@
         },
         "icon": "heroicons-solid:user-group",
         "id": "e4c6e1da-d183-473c-8a0d-316420fe9490",
-        "label": "Grupos"
+        "label": "Grupos",
+        "pageMode": "event",
+        "sections": []
       }
     ]
   },
@@ -657,22 +607,26 @@
     "places": [
       {
         "address": "Calle Serafín Olave, 21, 31007 Pamplona, Navarra",
+        "createPage": true,
         "geo": "42.8060904, -1.6517644",
         "id": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
         "images": [
           "https://data.parroquia.app/corazondejesusysantavicenta/media-image--8--c3c5ffbe.webp"
         ],
         "name": "Corazón de Jesús",
+        "sections": [],
         "tags": []
       },
       {
         "address": "Avenida Sancho el Fuerte, 71, 31007 Pamplona, Navarra",
+        "createPage": true,
         "geo": "42.8098218, -1.6566207",
         "id": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
         "images": [
           "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-10-10-at-13-01-26-40e03f52.webp"
         ],
         "name": " Santa Vicenta María",
+        "sections": [],
         "tags": []
       }
     ],

@@ -922,7 +922,9 @@
         "id": "funeral",
         "label": "Hiletak",
         "name": "funeral",
-        "protected": "funeral"
+        "pageMode": "",
+        "protected": "funeral",
+        "sections": []
       },
       {
         "defaults": {
@@ -943,7 +945,9 @@
         "id": "mass",
         "label": "Meza",
         "name": "mass",
-        "protected": "eucaristía"
+        "pageMode": "",
+        "protected": "eucaristía",
+        "sections": []
       },
       {
         "defaults": {
@@ -960,9 +964,11 @@
         },
         "icon": "heroicons-solid:chat-bubble-bottom-center-text",
         "id": "confessions",
-        "label": "Confesiones",
+        "label": "Visita de San Miguel",
         "name": "confessions",
-        "protected": "confesiones"
+        "pageMode": "",
+        "protected": "confesiones",
+        "sections": []
       },
       {
         "defaults": {
@@ -981,25 +987,9 @@
         "id": "catechism",
         "label": "Katekesia",
         "name": "catechism",
-        "protected": "catequesis"
-      },
-      {
-        "defaults": {
-          "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": null,
-          "image": "",
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "times": "",
-          "title": ""
-        },
-        "icon": "ph:star-four",
-        "id": "special",
-        "label": "Especial",
-        "protected": "especial"
+        "pageMode": "none",
+        "protected": "catequesis",
+        "sections": []
       },
       {
         "defaults": {
@@ -1018,7 +1008,9 @@
         },
         "icon": "mdi:cross-celtic",
         "id": "59bd1c60-8644-45b0-9f36-93ae90d4bd6d",
-        "label": "Adoración al Santísimo"
+        "label": "Adoración al Santísimo",
+        "pageMode": "",
+        "sections": []
       }
     ]
   },
@@ -1073,6 +1065,7 @@
     "places": [
       {
         "address": "",
+        "createPage": true,
         "geo": "43.00878, -1.93683",
         "id": "63c0debb-3047-47bd-a2dc-bf3a5efc2207",
         "image": [],
@@ -1082,6 +1075,7 @@
           "https://data.parroquia.app/47herri/Albiasu12.webp"
         ],
         "name": "Albiasu",
+        "sections": [],
         "tags": [
           {
             "id": "afc78530-c952-4994-9f3d-24c986efb419",
@@ -1097,6 +1091,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.00957, -1.85974",
         "id": "60d2f1c5-556f-471c-85b3-0a6105b85c4a",
         "image": [],
@@ -1104,6 +1099,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250329_235624_YouTube.webp"
         ],
         "name": "Aldatz",
+        "sections": [],
         "tags": [
           {
             "id": "f5767033-90fe-4c36-b08d-88440884d22a",
@@ -1119,6 +1115,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.99151, -1.89673",
         "id": "c26b69f9-8ce8-48aa-bf44-2562d5144d8f",
         "image": [],
@@ -1126,6 +1123,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_003103_YouTube.webp"
         ],
         "name": "Alli",
+        "sections": [],
         "tags": [
           {
             "id": "bd65d50e-2a05-48d4-a70f-636349a82711",
@@ -1141,6 +1139,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.19951, -1.89462",
         "id": "7ca74641-5e6d-4248-a80d-3d318905c0e2",
         "image": [],
@@ -1148,6 +1147,7 @@
           "https://data.parroquia.app/47herri/arano.webp"
         ],
         "name": "Arano",
+        "sections": [],
         "tags": [
           {
             "id": "da509f7d-59f4-4f29-9b91-b12e27741b37",
@@ -1163,6 +1163,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.08272, -1.95200",
         "id": "6c3c53ba-58fe-4bec-9d10-bbf59db20fc5",
         "image": [],
@@ -1170,6 +1171,7 @@
           "https://data.parroquia.app/47herri/20250620_201941.webp"
         ],
         "name": "Areso",
+        "sections": [],
         "tags": [
           {
             "id": "916d70fa-b8f7-4553-8a8c-fbe64350664e",
@@ -1185,6 +1187,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.0374485, -1.8039478",
         "id": "7348f5db-9c98-4540-a10c-b436ba8d44ab",
         "image": [],
@@ -1193,6 +1196,7 @@
           "https://data.parroquia.app/47herri/Zarrantz5.webp"
         ],
         "name": "Arrarats",
+        "sections": [],
         "tags": [
           {
             "id": "aefa9001-41dc-4d29-8475-2e67d17b7960",
@@ -1208,6 +1212,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.03161, -1.98289",
         "id": "b434ccdb-f240-4990-a42a-2dc51e11c788",
         "image": [],
@@ -1215,6 +1220,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_004022_YouTube.webp"
         ],
         "name": "Arribe",
+        "sections": [],
         "tags": [
           {
             "id": "101cebd3-b84b-487a-9945-3f8ba6bf2c40",
@@ -1230,6 +1236,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.98189, -1.85630",
         "id": "7608abf6-9ccb-41b8-a1b9-1dc0eb78bf16",
         "image": [],
@@ -1237,6 +1244,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_000339_YouTube.webp"
         ],
         "name": "Arruitz",
+        "sections": [],
         "tags": [
           {
             "id": "87b2b587-391c-49f0-9dc8-18b0928d303b",
@@ -1252,6 +1260,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.97074, -1.87838",
         "id": "4b51ae63-b7ac-4ea3-a673-67e24efdc9d1",
         "image": [],
@@ -1259,6 +1268,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_004656_YouTube.webp"
         ],
         "name": "Astitz",
+        "sections": [],
         "tags": [
           {
             "id": "b7accd56-816b-41ab-ad1c-8dcc660a4937",
@@ -1274,6 +1284,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.04072, -1.98852",
         "id": "0fac0dae-a727-4d8b-8620-e35770ff0193",
         "image": [],
@@ -1281,6 +1292,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_005419_YouTube.webp"
         ],
         "name": "Atallu",
+        "sections": [],
         "tags": [
           {
             "id": "803b5a45-d922-43be-b260-6ace52a3fd95",
@@ -1296,6 +1308,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.03463, -2.01012",
         "id": "eb7f6e13-ccca-4ad1-9ee1-fcf1d05e6dca",
         "image": [],
@@ -1303,6 +1316,7 @@
           "https://data.parroquia.app/47herri/zarate-web-1.webp"
         ],
         "name": "Azkarate",
+        "sections": [],
         "tags": [
           {
             "id": "2acdba37-a5ee-4a14-94b1-efe9749f1777",
@@ -1318,6 +1332,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.02836, -1.93402",
         "id": "46a0e5c6-5cf0-4e88-8d13-3e153bbfac4e",
         "image": [],
@@ -1325,6 +1340,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_010046_YouTube.webp"
         ],
         "name": "Azpirotz",
+        "sections": [],
         "tags": [
           {
             "id": "b125c684-67bd-45bf-aef3-2fd560180e2e",
@@ -1340,6 +1356,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.98953, -1.92347",
         "id": "f802c58f-08f4-4bcf-b148-12e4a27bc0b4",
         "image": [],
@@ -1348,6 +1365,7 @@
           "https://data.parroquia.app/47herri/Baraibar.webp"
         ],
         "name": "Baraibar",
+        "sections": [],
         "tags": [
           {
             "id": "e9c55be1-ed4f-445b-b787-0ab2ba851aec",
@@ -1363,6 +1381,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.980389, -1.822057",
         "id": "c1d31cd5-4afd-4e7c-a6d1-be97a6ddaebc",
         "image": [],
@@ -1370,6 +1389,7 @@
           "https://data.parroquia.app/47herri/beramendi.webp"
         ],
         "name": "Beramendi",
+        "sections": [],
         "tags": [
           {
             "id": "af393978-ecc7-4f31-a736-16cee6b8a355",
@@ -1385,6 +1405,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.02656, -1.82590",
         "id": "b145f105-4110-4e1f-b389-2788265a0101",
         "image": [],
@@ -1395,6 +1416,7 @@
           "https://data.parroquia.app/47herri/Beruete10a.webp"
         ],
         "name": "Beruete",
+        "sections": [],
         "tags": [
           {
             "id": "14748c38-cabe-4c1b-98a2-9df28b1b1d08",
@@ -1410,6 +1432,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.02259, -1.97616",
         "id": "9f66716d-9c97-4ae7-be2b-0b10a924772a",
         "image": [],
@@ -1417,6 +1440,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250324_223949_YouTube-1.webp"
         ],
         "name": "Betelu",
+        "sections": [],
         "tags": [
           {
             "id": "37190e7d-26a9-4ad3-980f-a7c2458c9543",
@@ -1432,6 +1456,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9508406, -1.8054720",
         "id": "830ded67-d26c-40a2-8ab6-72509c1f8f5a",
         "image": [],
@@ -1439,6 +1464,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_010441_YouTube.webp"
         ],
         "name": "Eraso",
+        "sections": [],
         "tags": [
           {
             "id": "d69ccfac-1c67-425f-8b90-cbf5b503e318",
@@ -1454,6 +1480,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9989472, -1.7669464",
         "id": "70aec0be-ce67-43dc-8329-117e47fe5188",
         "image": [],
@@ -1461,6 +1488,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_091555_YouTube.webp"
         ],
         "name": "Erbiti",
+        "sections": [],
         "tags": [
           {
             "id": "d439a5c9-e877-41b7-9f61-ebf3a58547c9",
@@ -1476,6 +1504,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.00658, -1.96063",
         "id": "d39774df-8359-4289-8525-002b1f40d58c",
         "image": [],
@@ -1484,6 +1513,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_091910_YouTube.webp"
         ],
         "name": "Errazkin",
+        "sections": [],
         "tags": [
           {
             "id": "33b13658-c360-4648-93df-72de737a4277",
@@ -1499,6 +1529,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.96943, -1.79024",
         "id": "9023a5b9-ba11-410d-abac-df5b5838d06f",
         "image": [],
@@ -1506,6 +1537,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250323_235734_Gallery.webp"
         ],
         "name": "Etxaleku",
+        "sections": [],
         "tags": [
           {
             "id": "10317050-ee04-442b-b8f0-5b518966f18a",
@@ -1521,6 +1553,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.00218, -1.87298",
         "id": "15e40ab3-5f80-4f9a-bda0-167ab8beb5e0",
         "image": [],
@@ -1532,6 +1565,7 @@
           "https://data.parroquia.app/47herri/Etxarri16a.webp"
         ],
         "name": "Etxarri",
+        "sections": [],
         "tags": [
           {
             "id": "fb999bed-887f-4fe8-a603-b74d071962fe",
@@ -1547,6 +1581,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.0208511, -2.0096471",
         "id": "7c638320-2ca3-4ae7-b9a4-faf0ceda4bb1",
         "image": [],
@@ -1554,6 +1589,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_185501_YouTube.webp"
         ],
         "name": "Gaintza",
+        "sections": [],
         "tags": [
           {
             "id": "b77ad224-7658-4810-801b-25784c9f0a3c",
@@ -1569,6 +1605,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.99744, -1.77401",
         "id": "56f5a953-19ad-4f4b-8274-7e8ef7f48420",
         "image": [],
@@ -1576,6 +1613,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_185731_YouTube.webp"
         ],
         "name": "Gartzaron",
+        "sections": [],
         "tags": [
           {
             "id": "1a427575-a515-4088-ab2e-7c493a4e3297",
@@ -1591,6 +1629,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.21377, -1.79586",
         "id": "c7767cb6-8dc4-487c-b0df-781653b1b165",
         "image": [],
@@ -1599,6 +1638,7 @@
           "https://data.parroquia.app/47herri/Escudo de Goizueta.svg"
         ],
         "name": "Goizueta",
+        "sections": [],
         "tags": [
           {
             "id": "af2595bf-643c-418f-91fa-220211fcd7d2",
@@ -1614,6 +1654,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9496774, -1.8359050",
         "id": "c0916a5d-c8af-425d-8400-6a81dcc88cbb",
         "image": [],
@@ -1625,6 +1666,7 @@
           "https://data.parroquia.app/47herri/Goldaraz7.webp"
         ],
         "name": "Goldaratz",
+        "sections": [],
         "tags": [
           {
             "id": "6fcfa0b8-e319-462d-a7c1-da9923740734",
@@ -1640,6 +1682,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.05145, -1.95463",
         "id": "66cba085-9a6a-4cd9-af42-deaa75045f63",
         "image": [],
@@ -1647,6 +1690,7 @@
           "https://data.parroquia.app/47herri/Iglesia de Gorriti copiar.webp"
         ],
         "name": "Gorriti",
+        "sections": [],
         "tags": [
           {
             "id": "90a97adb-aa9e-435e-a672-6147876639c9",
@@ -1662,6 +1706,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.0312209, -1.7858537",
         "id": "098527eb-e9c8-468e-8719-6a65fabd831c",
         "image": [],
@@ -1671,6 +1716,7 @@
           "https://data.parroquia.app/47herri/Igoa05a.webp"
         ],
         "name": "Igoa eta Aizarotz",
+        "sections": [],
         "tags": [
           {
             "id": "afd22373-9b5c-40d3-a475-e1a7eca1b242",
@@ -1686,6 +1732,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9871091, -1.8071447",
         "id": "a36b2c1d-2ac6-4da2-ae8d-e946f9582dfa",
         "image": [],
@@ -1693,6 +1740,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_190821_YouTube.webp"
         ],
         "name": "Ihaben",
+        "sections": [],
         "tags": [
           {
             "id": "e166be69-6667-4cac-9e57-5f6f5177032d",
@@ -1708,6 +1756,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.01714, -1.99244",
         "id": "e4b7d839-e15d-486d-b1c0-c6ddeb8f2925",
         "image": [],
@@ -1715,6 +1764,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_190929_YouTube.webp"
         ],
         "name": "Intza",
+        "sections": [],
         "tags": [
           {
             "id": "c826f95c-d28a-4f3e-addb-6f15b3624969",
@@ -1730,6 +1780,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.98863, -1.90418",
         "id": "2a93939d-8435-42d5-bfc7-841ffed671a8",
         "image": [],
@@ -1738,6 +1789,7 @@
           "https://data.parroquia.app/47herri/Iribas.webp"
         ],
         "name": "Iribas",
+        "sections": [],
         "tags": [
           {
             "id": "b4a93cb3-8fd2-414e-b2b4-6780c66f3fc6",
@@ -1753,6 +1805,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.99201, -1.83304",
         "id": "7cf60c35-775a-423e-950d-41f2a9a40e8f",
         "image": [],
@@ -1760,6 +1813,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_191241_YouTube.webp"
         ],
         "name": "Itsaso",
+        "sections": [],
         "tags": [
           {
             "id": "2f412291-1888-4eaf-963a-d2e51788b31c",
@@ -1775,6 +1829,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.00132, -1.80225",
         "id": "ed11e015-b7f8-4348-a650-9efda9f4afb9",
         "image": [],
@@ -1785,6 +1840,7 @@
           "https://data.parroquia.app/47herri/Jaunsaras4.webp"
         ],
         "name": "Jauntsarats",
+        "sections": [],
         "tags": [
           {
             "id": "474875ed-0b6c-4f28-a9f5-3f4c36a19376",
@@ -1800,6 +1856,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9544555, -1.8221520",
         "id": "d76008a0-ea2b-4065-95d9-8bb7978414b3",
         "image": [],
@@ -1807,6 +1864,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_193953_YouTube.webp"
         ],
         "name": "Latasa",
+        "sections": [],
         "tags": [
           {
             "id": "1fb3db06-f587-4efb-ba90-f3374823f583",
@@ -1822,6 +1880,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.07797, -1.91260",
         "id": "6914c0d4-1751-4afc-beb1-530b85b4d03b",
         "image": [],
@@ -1830,6 +1889,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250403_221152_YouTube.webp"
         ],
         "name": "Leitza",
+        "sections": [],
         "tags": [
           {
             "id": "7130e4bb-d34e-4c6a-a86b-4f93ea3f9a09",
@@ -1845,6 +1905,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.00596, -1.89541",
         "id": "befe17d4-2024-4618-8ff6-180cb5bdfe6b",
         "image": [],
@@ -1854,6 +1915,7 @@
           "https://data.parroquia.app/47herri/IMG-20260403-WA0014.jpg"
         ],
         "name": "Lekunberri",
+        "sections": [],
         "tags": [
           {
             "id": "9d55ec58-0445-4df9-a77b-14eef5bde730",
@@ -1869,6 +1931,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "",
         "id": "d594b052-45f9-4f6a-8d97-4b4de346a62b",
         "image": [],
@@ -1876,6 +1939,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_194842_YouTube.webp"
         ],
         "name": "Lezaeta",
+        "sections": [],
         "tags": [
           {
             "id": "5651ca60-550e-4bbc-8366-573a223e838b",
@@ -1891,6 +1955,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9378197, -1.8761211",
         "id": "449aeac8-d9a9-429b-b24f-406739aecb0b",
         "image": [],
@@ -1904,6 +1969,7 @@
           "https://data.parroquia.app/47herri/Madoz3.webp"
         ],
         "name": "Madotz",
+        "sections": [],
         "tags": [
           {
             "id": "ff401a60-45f0-4a1a-a1ba-690833b263ac",
@@ -1919,6 +1985,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.99143, -1.88167",
         "id": "a523af19-3539-48b1-9d3b-663dc5a0e128",
         "image": [],
@@ -1926,6 +1993,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250405_182111_YouTube.webp"
         ],
         "name": "Mugiro",
+        "sections": [],
         "tags": [
           {
             "id": "2ff4aa12-ac29-4335-8887-0260d5587388",
@@ -1941,6 +2009,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9359167, -1.7493240",
         "id": "bd1a0f8a-56eb-46a8-a6b0-6d73a4277170",
         "image": [],
@@ -1951,6 +2020,7 @@
           "https://data.parroquia.app/47herri/Muskiz7.webp"
         ],
         "name": "Muskitz",
+        "sections": [],
         "tags": [
           {
             "id": "233409b6-86d2-4127-8dc1-7888265846a7",
@@ -1966,6 +2036,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.9513991, -1.8715113",
         "id": "5c63ce74-bc0b-4280-a58b-20dde3f51790",
         "image": [],
@@ -1973,6 +2044,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_201915_YouTube.webp"
         ],
         "name": "Oderitz",
+        "sections": [],
         "tags": [
           {
             "id": "8763e321-1ba4-4f05-b9cb-85ef1ab1e9d0",
@@ -1988,6 +2060,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.01357, -1.75797",
         "id": "12eb0302-50fc-430a-b925-9be51cfde233",
         "image": [],
@@ -1995,6 +2068,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_202037_YouTube.webp"
         ],
         "name": "Orokieta",
+        "sections": [],
         "tags": [
           {
             "id": "e4de93a8-7c98-4e7c-9eb2-7952b7798f8a",
@@ -2010,6 +2084,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.95939, -1.78165",
         "id": "8673e580-852a-432f-b55d-e5f71ba04b55",
         "image": [],
@@ -2022,6 +2097,7 @@
           "https://data.parroquia.app/47herri/Oskoz4.webp"
         ],
         "name": "Oskotz",
+        "sections": [],
         "tags": [
           {
             "id": "63cef1e0-c290-40c7-b9cb-965b8b2fafa1",
@@ -2037,6 +2113,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "42.97462, -1.82702",
         "id": "915b2757-fa0b-49b0-974f-4123ba38af0f",
         "image": [],
@@ -2044,6 +2121,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_202150_YouTube.webp"
         ],
         "name": "Udabe",
+        "sections": [],
         "tags": [
           {
             "id": "3e7c43b7-c605-48c8-acff-00159bad8e60",
@@ -2059,6 +2137,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "43.04080, -1.92649",
         "id": "271975b9-f58b-4537-905b-881e736a643a",
         "image": [],
@@ -2066,6 +2145,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_091051_YouTube.webp"
         ],
         "name": "Uitzi",
+        "sections": [],
         "tags": [
           {
             "id": "8cc94ba1-890c-4205-8652-6a1d77aa8d4d",
@@ -2081,6 +2161,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "",
         "id": "8777add9-a846-4f82-a822-6461648d9ad9",
         "image": [],
@@ -2088,6 +2169,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_205912_YouTube-1.webp"
         ],
         "name": "Urritza",
+        "sections": [],
         "tags": [
           {
             "id": "36933ce8-f222-4978-a2af-db45089ef4aa",
@@ -2103,6 +2185,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "",
         "id": "7fb677b5-da32-4d1f-8784-99de26a01ff7",
         "image": [],
@@ -2110,6 +2193,7 @@
           "https://data.parroquia.app/47herri/Screenshot_20250330_202431_YouTube.webp"
         ],
         "name": "Uztegi",
+        "sections": [],
         "tags": [
           {
             "id": "3810d20a-7ebd-4d92-ba4a-29100af5e48e",
@@ -2125,6 +2209,7 @@
       },
       {
         "address": "",
+        "createPage": true,
         "geo": "",
         "id": "47c51b04-9222-4e10-9434-c230a3f66146",
         "image": [],
@@ -2134,6 +2219,7 @@
           "https://data.parroquia.app/47herri/Zarrantz5.webp"
         ],
         "name": "Zarrantz",
+        "sections": [],
         "tags": [
           {
             "id": "4b177f58-a19b-4b05-879f-dd297f11ee9b",
@@ -2570,7 +2656,7 @@
     "image": "https://data.parroquia.app/47herri/hero-bg.webp",
     "navStyle": "47herri",
     "preview": "",
-    "radius": 0.9,
+    "radius": 1,
     "spacingDensity": 1,
     "styles": []
   }
