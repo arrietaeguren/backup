@@ -246,7 +246,9 @@
           "description": [],
           "duration": null,
           "id": "evt-c734f597-8a91-47bc-b45a-0eec57fd1628",
-          "images": "",
+          "images": [
+            "https://images.unsplash.com/photo-1496516348160-24b35a31856f?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjB8fFlvdXRofGVufDB8fHx8MTc5MjE2MTU4Nnww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=James%20Baldwin"
+          ],
           "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "fr"
@@ -321,7 +323,9 @@
           "description": [],
           "duration": null,
           "id": "evt-f726f06f-39ff-400e-a693-c7b546ef452e",
-          "images": "",
+          "images": [
+            "https://images.unsplash.com/photo-1529070538774-1843cb3265df?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mnx8Rm9ybWF0aW9ufGVufDB8fHx8MTc5MjE2MTUzMXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Sincerely%20Media"
+          ],
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
@@ -655,7 +659,7 @@
           "type": "catechism"
         },
         {
-          "date": "2027-11-07",
+          "date": "2026-11-07",
           "description": "",
           "id": "evt-327c3d2a-2892-4955-8d7e-44f53a3ae67d",
           "images": "",
@@ -783,9 +787,7 @@
           "date": "",
           "description": "",
           "duration": null,
-          "images": [
-            "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1600&q=80&fit=crop"
-          ],
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -844,9 +846,17 @@
         "extra": "",
         "icon": "",
         "id": "d29abbbb-7ec5-4905-aba3-699a097691e0",
-        "label": "Viajes parroquiales",
+        "label": "Gurekin etorri",
         "pageMode": "type",
-        "sections": []
+        "sections": [
+          {
+            "html": "![](https://data.parroquia.app/bidasoa/media-1000019299-12b8196e.webp)",
+            "id": "615b5296-3261-4d28-be6b-8010e3df210d",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          }
+        ]
       },
       {
         "defaults": {
@@ -1256,7 +1266,8 @@
     "languages": [
       "Euskara:eu",
       "Castellano:es",
-      "English:en"
+      "English:en",
+      "Français:fr"
     ],
     "list": [
       {
@@ -1387,7 +1398,7 @@
             "id": "0e1b7802-9bf6-4ae9-a831-f8a4991ef923",
             "images": [],
             "tags": [],
-            "title": "",
+            "title": "Nuestro pueblo",
             "type": "gallery"
           },
           {
@@ -1396,7 +1407,7 @@
             "image": "",
             "name": "{name}",
             "tags": [],
-            "title": "Descubre {name}",
+            "title": "Non gaude",
             "type": "map"
           }
         ],
@@ -1415,20 +1426,6 @@
             "tags": [],
             "title": "Próximos eventos",
             "type": "calendar"
-          },
-          {
-            "id": "5191d69a-56cc-4669-84ce-7b8247e8e5d2",
-            "images": [],
-            "tags": [],
-            "title": "",
-            "type": "gallery"
-          },
-          {
-            "html": "{description}",
-            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
-            "tags": [],
-            "title": "",
-            "type": "text"
           }
         ],
         "title": "{title}"
