@@ -5,10 +5,10 @@
         {
           "celebrants": "",
           "date": "2026-08-30",
-          "description": "## Nos vamos de campamento!!\n\n  \n\nQue traer:\n\n1.  Botella de agua\n2.  Saco de dormir\n3.  Ganas de pasarlo bien\n\n  \n\n  \n\n[Portada](page:cf950b52-9b46-4da4-a4b9-2d9415b4d393)\n\n![](https://images.pexels.com/photos/26559606/pexels-photo-26559606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Budget+Bizar&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcloseup-of-stone-statue-of-holy-mary-26559606%2F)",
-          "duration": null,
+          "description": "## Nos vamos de campamento!!\\n\\n  \\n\\nQue traer:\\n\\n1.  Botella de agua\\n2.  Saco de dormir\\n3.  Ganas de pasarlo bien\\n\\n  \\n\\n  \\n\\n[Portada](page:cf950b52-9b46-4da4-a4b9-2d9415b4d393)\\n\\n![](https://images.pexels.com/photos/26559606/pexels-photo-26559606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Budget+Bizar&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcloseup-of-stone-statue-of-holy-mary-26559606%2F)",
           "id": "evt-5dc155c5-d3e0-4a18-8cc4-9532d3ac3b1b",
           "image": "https://images.unsplash.com/photo-1544464116-46970b73f7f2?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MTF8fGplc3VzfGVufDB8fHx8MTc4ODExNTM3MXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Alessandro%20Bellone",
+          "images": [],
           "location": "3a4371a6-1845-469e-9ede-841535950c2d",
           "rrule": "",
           "times": "",
@@ -111,8 +111,7 @@
         {
           "celebrants": "",
           "date": "2026-09-10",
-          "description": "## Súper campamento mega guay\n\n  \n\n  \n\nTraer\n\n1.  Saco de dormir\n2.  Ganas de pasarlo bien",
-          "duration": null,
+          "description": "## Súper campamento mega guay\\n\\n  \\n\\n  \\n\\nTraer\\n\\n1.  Saco de dormir\\n2.  Ganas de pasarlo bien",
           "id": "evt-3f5df490-45f7-4d19-b138-8fac6ef3c752",
           "image": "https://data.parroquia.app/test/media-1000002833-3dacc1ee.webp",
           "location": "",
@@ -252,7 +251,6 @@
         {
           "date": "",
           "description": [],
-          "duration": null,
           "id": "evt-d4a1b07e-0ff3-4dd5-afdd-d4df6e4fd301",
           "images": "",
           "location": "",
@@ -330,7 +328,7 @@
         },
         {
           "date": "2026-07-15",
-          "description": "## Campamento de Verano en Doneztebe\\n\\n¡Disfruta de unos días inolvidables de convivencia, naturaleza y fe en el entorno incomparable de Navarra!\\n\\n**¿Qué incluye?**\\n- Actividades al aire libre\\n- Talleres y juegos\\n- Excursiones por la zona\\n- Momentos de oración y convivencia",
+          "description": "## Campamento de Verano en Doneztebe\\\\n\\\\n¡Disfruta de unos días inolvidables de convivencia, naturaleza y fe en el entorno incomparable de Navarra!\\\\n\\\\n**¿Qué incluye?**\\\\n- Actividades al aire libre\\\\n- Talleres y juegos\\\\n- Excursiones por la zona\\\\n- Momentos de oración y convivencia",
           "duration": null,
           "id": "evt-summer-camp-doneztebe-01",
           "image": "https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?auto=format&fit=crop&w=1600&q=80",
@@ -338,6 +336,281 @@
           "rrule": "",
           "times": "09:00",
           "title": "Campamento de Verano en Doneztebe",
+          "type": "special"
+        },
+        {
+          "date": "2026-11-04",
+          "description": "Encuentro coral con agrupaciones de toda la diócesis.",
+          "id": "evt-rand-01",
+          "image": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1600&q=80",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": "",
+          "times": "19:30",
+          "title": "Concierto de Corales Parroquiales",
+          "type": "special"
+        },
+        {
+          "description": "Confesiones los viernes por la tarde.",
+          "id": "evt-rand-02",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "fr"
+          ],
+          "times": "18:00",
+          "type": "confessions"
+        },
+        {
+          "description": "Reunión semanal de jóvenes preparándose para la confirmación.",
+          "id": "evt-rand-03",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": [
+            "sa"
+          ],
+          "times": "17:00",
+          "title": "Catequesis de Confirmación - Grupo Juvenil",
+          "type": "catechism"
+        },
+        {
+          "date": "2026-12-10",
+          "description": "Conferencia formativa abierta a todos los feligreses.",
+          "id": "evt-rand-04",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": "",
+          "times": "20:00",
+          "title": "Charla de Adviento: Esperanza Cristiana",
+          "type": "special"
+        },
+        {
+          "description": "Misa matutina de diario.",
+          "id": "evt-rand-05",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr"
+          ],
+          "times": "08:30",
+          "type": "mass"
+        },
+        {
+          "date": "2026-11-20",
+          "description": "Encuentro oficial del Obispo con la comunidad parroquial y consejos pastorales.",
+          "id": "evt-rand-06",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": "",
+          "times": "11:00",
+          "title": "Visita Pastoral del Obispo",
+          "type": "special"
+        },
+        {
+          "date": "2026-11-28",
+          "description": "Venta de artesanía y artículos de segunda mano para proyectos misioneros.",
+          "duration": 480,
+          "id": "evt-rand-07",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": "",
+          "times": "10:00",
+          "title": "Rastrillo Solidario Parroquial",
+          "type": "special"
+        },
+        {
+          "description": "Sesión dominical de iniciación cristiana para los más pequeños.",
+          "id": "evt-rand-08",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:30",
+          "title": "Catequesis de Infancia (1er año)",
+          "type": "catechism"
+        },
+        {
+          "description": "Confesiones antes de la misa mayor.",
+          "id": "evt-rand-09",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "type": "confessions"
+        },
+        {
+          "date": "2026-10-25",
+          "description": "Eucaristía exequial por nuestro querido feligrés.",
+          "id": "evt-rand-10",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": "",
+          "times": "17:00",
+          "title": "Funeral por D. Fernando Gómez",
+          "type": "funeral"
+        },
+        {
+          "description": "Espacio semanal para aprender a orar y profundizar en la intimidad con Dios.",
+          "id": "evt-rand-11",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "we"
+          ],
+          "times": "18:30",
+          "title": "Taller de Oración y Vida",
+          "type": "special"
+        },
+        {
+          "date": "2026-11-07",
+          "description": "Revisión de proyectos, presupuestos y calendario de actividades del año.",
+          "id": "evt-rand-12",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": "",
+          "times": "17:30",
+          "title": "Asamblea Parroquial de Inicio de Curso",
+          "type": "special"
+        },
+        {
+          "description": "Misa vespertina de diario.",
+          "id": "evt-rand-13",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "tu",
+            "th"
+          ],
+          "times": "19:30",
+          "type": "mass"
+        },
+        {
+          "date": "2026-12-05",
+          "description": "Día de silencio, oración y reflexión en la naturaleza.",
+          "duration": 360,
+          "id": "evt-rand-14",
+          "location": "73f6289d-71b3-4f11-8097-b08e2f83132e",
+          "rrule": "",
+          "times": "09:30",
+          "title": "Retiro Espiritual de Adviento",
+          "type": "special"
+        },
+        {
+          "description": "Formación doctrinal y bíblica para adultos.",
+          "id": "evt-rand-15",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "th"
+          ],
+          "times": "20:15",
+          "title": "Catequesis de Adultos",
+          "type": "catechism"
+        },
+        {
+          "date": "2026-11-13",
+          "description": "Adoración eucarística con cantos y meditación.",
+          "id": "evt-rand-16",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": "",
+          "times": "21:00",
+          "title": "Vigilia de Oración por los Jóvenes",
+          "type": "special"
+        },
+        {
+          "date": "2026-11-15",
+          "description": "Jornada de convivencia al aire libre para familias de la parroquia.",
+          "id": "evt-rand-17",
+          "location": "73f6289d-71b3-4f11-8097-b08e2f83132e",
+          "rrule": "",
+          "times": "09:00",
+          "title": "Excursión Familiar al Valle de Baztán",
+          "type": "special"
+        },
+        {
+          "description": "Eucaristía dominical solemne.",
+          "id": "evt-rand-18",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:30",
+          "type": "mass"
+        },
+        {
+          "date": "2026-11-18",
+          "description": "Proyección de capítulo y coloquio posterior.",
+          "id": "evt-rand-19",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": "",
+          "times": "18:00",
+          "title": "Cine-Forum Parroquial",
+          "type": "special"
+        },
+        {
+          "date": "2026-10-28",
+          "description": "Descanse en paz.",
+          "id": "evt-rand-20",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": "",
+          "times": "12:00",
+          "title": "Funeral por Dña. Carmen Ruiz",
+          "type": "funeral"
+        },
+        {
+          "description": "Lectio Divina semanal sobre el Evangelio del próximo domingo.",
+          "id": "evt-rand-21",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": [
+            "mo"
+          ],
+          "times": "19:00",
+          "title": "Encuentro de Lectura Bíblica",
+          "type": "special"
+        },
+        {
+          "date": "2026-11-22",
+          "description": "Encuentro formativo para voluntarios que visitan enfermos y mayores.",
+          "id": "evt-rand-22",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": "",
+          "times": "10:30",
+          "title": "Jornada Diocesana de Pastoral de la Salud",
+          "type": "special"
+        },
+        {
+          "description": "Preparación semanal para recibir la Primera Comunión.",
+          "id": "evt-rand-23",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": [
+            "we"
+          ],
+          "times": "17:00",
+          "title": "Catequesis de Primera Comunión (2º año)",
+          "type": "catechism"
+        },
+        {
+          "date": "2026-12-13",
+          "description": "Festival de villancicos y cantos religiosos infantiles.",
+          "id": "evt-rand-24",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": "",
+          "times": "17:00",
+          "title": "Encuentro de Coros Infantiles",
+          "type": "special"
+        },
+        {
+          "description": "Misa de jóvenes del viernes por la noche.",
+          "id": "evt-rand-25",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "fr"
+          ],
+          "times": "20:00",
+          "type": "mass"
+        },
+        {
+          "date": "2026-12-18",
+          "description": "Recogida solidaria de alimentos no perecederos para familias necesitadas.",
+          "duration": 720,
+          "id": "evt-rand-26",
+          "location": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
+          "rrule": "",
+          "times": "09:00",
+          "title": "Campaña de Alimentos de Navidad",
           "type": "special"
         }
       ],
@@ -366,7 +639,8 @@
         "label": "Funeral",
         "name": "funeral",
         "pageMode": "",
-        "protected": "funeral"
+        "protected": "funeral",
+        "sections": []
       },
       {
         "defaults": {
@@ -386,7 +660,8 @@
         "label": "Eucaristía",
         "name": "mass",
         "pageMode": "",
-        "protected": "eucaristía"
+        "protected": "eucaristía",
+        "sections": []
       },
       {
         "defaults": {
@@ -406,7 +681,8 @@
         "label": "Confesiones",
         "name": "confessions",
         "pageMode": "",
-        "protected": "confesiones"
+        "protected": "confesiones",
+        "sections": []
       },
       {
         "defaults": {
@@ -426,7 +702,8 @@
         "label": "Catequesis",
         "name": "catechism",
         "pageMode": "",
-        "protected": "catequesis"
+        "protected": "catequesis",
+        "sections": []
       },
       {
         "defaults": {
@@ -445,7 +722,8 @@
         "id": "special",
         "label": "Especial",
         "pageMode": "",
-        "protected": "especial"
+        "protected": "especial",
+        "sections": []
       }
     ]
   },
@@ -471,23 +749,75 @@
     "places": [
       {
         "address": "Calle de la iglesia, 10, 28223, Pozuelo de Alarcón, Madrid",
+        "createPage": true,
         "geo": "40.435883, -3.815893",
         "id": "f836fcbd-a1aa-4b32-8221-745463a97e4a",
         "images": [
           "https://misas.org/images/photo-1314-thumb.jpg",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2011-espanha-madrid-0024_%2836271661444%29.jpg/250px-2011-espanha-madrid-0024_%2836271661444%29.jpg"
         ],
-        "name": " la Asunción Nuestra Señora",
+        "name": "la Asunción Nuestra Señora",
+        "sections": [],
         "tags": []
       },
       {
         "address": "Calle Parroquia, 2, 31740 Santesteban / Doneztebe, Navarra",
+        "createPage": true,
         "geo": "43.13179, -1.66966",
         "id": "73f6289d-71b3-4f11-8097-b08e2f83132e",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/San_Pedro_eliza_-_Doneztebe.jpg/3840px-San_Pedro_eliza_-_Doneztebe.jpg"
         ],
         "name": "San Pedro (Doneztebe)",
+        "sections": [],
+        "tags": []
+      },
+      {
+        "address": "Calle Mayor, 1, 28001 Madrid",
+        "createPage": true,
+        "geo": "40.4168, -3.7038",
+        "id": "3a4371a6-1845-469e-9ede-841535950c2d",
+        "images": [
+          "https://images.unsplash.com/photo-1544464116-46970b73f7f2?auto=format&fit=crop&w=1600&q=80"
+        ],
+        "name": "Parroquia Nuestra Señora de la Paz",
+        "sections": [],
+        "tags": []
+      },
+      {
+        "address": "Avenida de los Pinos, 14, 28029 Madrid",
+        "createPage": true,
+        "geo": "40.462, -3.689",
+        "id": "4c98205d-979d-4c89-ae8f-fc7081800404",
+        "images": [
+          "https://images.unsplash.com/photo-1520629716099-d147346eb224?auto=format&fit=crop&w=1600&q=80"
+        ],
+        "name": "San Juan Bautista",
+        "sections": [],
+        "tags": []
+      },
+      {
+        "address": "Plaza de la Iglesia, 5, 28040 Madrid",
+        "createPage": true,
+        "geo": "40.445, -3.712",
+        "id": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+        "images": [
+          "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1600&q=80"
+        ],
+        "name": "Santa María del Pilar",
+        "sections": [],
+        "tags": []
+      },
+      {
+        "address": "Calle de Toledo, 24, 28005 Madrid",
+        "createPage": true,
+        "geo": "40.411, -3.709",
+        "id": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+        "images": [
+          "https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?auto=format&fit=crop&w=1600&q=80"
+        ],
+        "name": "San Isidro El Real",
+        "sections": [],
         "tags": []
       }
     ],
@@ -512,6 +842,22 @@
         "protected": "Portada",
         "sections": [
           {
+            "filter": "",
+            "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
+            "order": [
+              "title"
+            ],
+            "orderColumna": "dates",
+            "orderFila": "title",
+            "orderNotas": "",
+            "orderSubfila": "empty",
+            "orderTabla": "empty",
+            "ordering": "",
+            "tags": [],
+            "title": "Nuestros eventos",
+            "type": "calendar"
+          },
+          {
             "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
             "tags": [],
             "title": "Nuestro equipo parroquial",
@@ -525,22 +871,6 @@
             "tags": [],
             "title": "Evangelio de cada día",
             "type": "gospel"
-          },
-          {
-            "filter": "!byday:empty&!mass",
-            "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
-            "order": [
-              "title"
-            ],
-            "orderColumna": "dates",
-            "orderFila": "title",
-            "orderNotas": "",
-            "orderSubfila": "empty",
-            "orderTabla": "empty",
-            "ordering": "title,dates,skip,times,locations",
-            "tags": [],
-            "title": "Nuestros eventos",
-            "type": "calendar"
           },
           {
             "id": "24922a34-8536-4681-872b-bb5a93ffa54b",
