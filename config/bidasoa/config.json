@@ -572,7 +572,7 @@
             "https://images.unsplash.com/photo-1442975695135-50b67a821527?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjR8fGNhbWElMjBlbGFzdGljYXxlbnwwfHx8fDE3OTE5OTE2NTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Jazmin%20Quaynor"
           ],
           "location": [
-            "Pamplona"
+            "Iruña"
           ],
           "rrule": "",
           "times": "",
@@ -604,7 +604,7 @@
             "https://images.pexels.com/photos/7429588/pexels-photo-7429588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Pavel+Danilyuk&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ften-pins-in-the-bowling-pin-deck-7429588%2F"
           ],
           "location": [
-            "Pamplona"
+            "Iruña"
           ],
           "rrule": "",
           "times": "",
@@ -653,6 +653,19 @@
           "times": "",
           "title": "",
           "type": "catechism"
+        },
+        {
+          "date": "2027-11-07",
+          "description": "",
+          "id": "evt-327c3d2a-2892-4955-8d7e-44f53a3ae67d",
+          "images": "",
+          "location": [
+            "Iruña"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Scape room + Concierto",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
         }
       ],
       "urls": []
