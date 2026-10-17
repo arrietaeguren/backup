@@ -316,7 +316,7 @@
           "rrule": "",
           "times": "",
           "title": "Mercadillo solidario",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+          "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         },
         {
           "date": "",
@@ -452,9 +452,7 @@
           "description": "Luis Alberto Esteban",
           "except": [],
           "id": "evt-93db2920-7757-49d9-9db7-6908cd328f66",
-          "images": [
-            "https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp"
-          ],
+          "images": [],
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
@@ -468,9 +466,7 @@
           "description": "José Antonio Goñi",
           "except": [],
           "id": "evt-6eb325d5-83f8-4792-9d68-603461618b02",
-          "images": [
-            "https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp"
-          ],
+          "images": [],
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
@@ -502,8 +498,10 @@
           "location": [
             "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
           ],
-          "rrule": "",
-          "times": "",
+          "rrule": [
+            "mo"
+          ],
+          "times": "10:00",
           "title": "",
           "type": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b"
         },
@@ -531,8 +529,10 @@
           "location": [
             "0e9230e6-312e-4b73-b4e5-72a8b4678b75"
           ],
-          "rrule": "",
-          "times": "",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
           "title": "",
           "type": "catechism"
         },
@@ -639,8 +639,10 @@
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
-          "rrule": "",
-          "times": "",
+          "rrule": [
+            "we"
+          ],
+          "times": "15:00",
           "title": "",
           "type": "catechism"
         },
@@ -653,8 +655,10 @@
           "location": [
             "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
           ],
-          "rrule": "",
-          "times": "",
+          "rrule": [
+            "mo"
+          ],
+          "times": "16:45",
           "title": "",
           "type": "catechism"
         },
@@ -670,6 +674,73 @@
           "times": "",
           "title": "Scape room + Concierto",
           "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "",
+          "description": "Segundo",
+          "except": [],
+          "id": "evt-1bff1c67-a211-4cb3-9db5-81c6313c8d4b",
+          "images": "",
+          "location": [
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
+          ],
+          "rrule": [
+            "we"
+          ],
+          "times": "17:00",
+          "title": "",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": "Tercero",
+          "except": [],
+          "id": "evt-5f6ea535-52b0-4b36-9902-eecf1717cf8f",
+          "images": "",
+          "location": [
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
+          ],
+          "rrule": [
+            "tu"
+          ],
+          "times": "15:00",
+          "title": "",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": "Adviento y Cuaresma",
+          "id": "evt-6714af98-a1e4-44f6-826f-09cd7f9f08bf",
+          "images": "",
+          "location": [
+            "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
+            "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
+            "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
+            "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
+            "006081ce-a00c-4554-98cb-7bd40d0c13d4",
+            "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
+            "07e3751c-2c15-45a8-8fb6-c7cd0f9fb3f5",
+            "026c5627-8a62-4c1e-8623-9f085750d007",
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "Confesiones de Adviento y Cuaresma",
+          "type": "confessions"
+        },
+        {
+          "date": "2026-10-31",
+          "description": "",
+          "id": "evt-70e6c7b7-05a9-44e0-b475-6f2cd8aa912e",
+          "images": "",
+          "location": [
+            "Pamplona"
+          ],
+          "rrule": "",
+          "times": "10:00",
+          "title": "Encuentro Diocesano de Cáritas",
+          "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         }
       ],
       "urls": []
