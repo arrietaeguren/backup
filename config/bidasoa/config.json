@@ -1526,7 +1526,7 @@
           {
             "filter": "\"type\":\"{type}\"",
             "id": "842fa46a-2934-4d3a-a88a-323eb65558d9",
-            "ordering": "title,dates,skip,times,locations",
+            "ordering": "",
             "tags": [],
             "title": "Próximos eventos",
             "type": "calendar"
