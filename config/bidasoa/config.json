@@ -741,6 +741,20 @@
           "times": "10:00",
           "title": "Encuentro Diocesano de Cáritas",
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
+        },
+        {
+          "date": "",
+          "description": "",
+          "duration": null,
+          "id": "evt-adoracion-doneztebe",
+          "images": [],
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
+          "rrule": [
+            "th"
+          ],
+          "times": "19:30",
+          "title": "Adoración al Santísimo",
+          "type": "adoration"
         }
       ],
       "urls": []
@@ -964,6 +978,25 @@
         "icon": "heroicons-solid:users",
         "id": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b",
         "label": "Helduen katequesia",
+        "pageMode": "type",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [
+            "https://images.unsplash.com/photo-1776362714114-080ce9162138?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8M3x8YWRvcmF0aW9ufGVufDB8fHx8MTc5MjI1MzA3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Fernanda%20Batzibal"
+          ],
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": [],
+          "times": "",
+          "title": "Adoración al Santísimo"
+        },
+        "id": "adoration",
+        "label": "Adoración al Santísimo",
         "pageMode": "type",
         "sections": []
       }
