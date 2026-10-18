@@ -885,6 +885,1252 @@
           ],
           "title": "Jose María Hernandorena Huarte",
           "type": "funeral"
+        },
+        {
+          "date": "2026-01-03",
+          "id": "evt-funeral-1",
+          "location": [
+            "Errazkin"
+          ],
+          "times": "16:30",
+          "title": "Peio Maria Arricibita Ansorena ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-01-03",
+          "id": "evt-funeral-2",
+          "location": [
+            "Areso"
+          ],
+          "times": "17:30",
+          "title": "Benito Arrayago Hernandorena",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-01-16",
+          "id": "evt-funeral-3",
+          "location": [
+            "Beruete"
+          ],
+          "times": "16:30",
+          "title": "Esther Arano Betelu ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-01-25",
+          "id": "evt-funeral-4",
+          "location": [
+            "Etxarri"
+          ],
+          "times": "16:00",
+          "title": "Concepción Martín Esnaola",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-01-27",
+          "id": "evt-funeral-5",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:00",
+          "title": "Kattalin Arribillaga Baraibar ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-02-03",
+          "id": "evt-funeral-6",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "18:00",
+          "title": "María Jesús Mariñelarena Sarasola",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-02-08",
+          "id": "evt-funeral-7",
+          "location": [
+            "Leitza"
+          ],
+          "times": "11:00",
+          "title": "Catalina Alduncin Arrizurieta ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-02-13",
+          "id": "evt-funeral-8",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:00",
+          "title": "Juana Arrizurieta Azpiroz ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-02-15",
+          "id": "evt-funeral-9",
+          "location": [
+            "Iribas"
+          ],
+          "times": "16:30",
+          "title": "Dolores Arandia Garaicoechea",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-02-21",
+          "id": "evt-funeral-10",
+          "location": [
+            "Uitzi"
+          ],
+          "times": "12:00",
+          "title": "María Jesús Galarza Ezkurdia",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-02-26",
+          "id": "evt-funeral-11",
+          "location": [],
+          "times": "17:00",
+          "title": "Asunción Goldaratz Zarrantz ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-03-02",
+          "id": "evt-funeral-12",
+          "location": [],
+          "times": "17:00",
+          "title": "Andrés Gastón Hernández ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-03-21",
+          "id": "evt-funeral-13",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:00",
+          "title": "María Jesús Zubillaga Gabirondo",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-03-21",
+          "id": "evt-funeral-14",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "18:30",
+          "title": "Josefa Galarza Arangoa ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-03-28",
+          "id": "evt-funeral-15",
+          "location": [
+            "Azkarate"
+          ],
+          "times": "16:30",
+          "title": "Vicente Otamendi",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-03-23",
+          "id": "evt-funeral-16",
+          "location": [
+            "Gartzaron"
+          ],
+          "times": "17:00",
+          "title": "Jesús León Satrustegui",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-01",
+          "id": "evt-funeral-17",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:30",
+          "title": "Juana María Alduncin Arrizurieta",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-06",
+          "id": "evt-funeral-18",
+          "location": [
+            "Aldatz"
+          ],
+          "times": "18:00",
+          "title": "Ana María Garay Unibaso",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-15",
+          "id": "evt-funeral-19",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:30",
+          "title": "Pakita Baztarrika Mariezkurrena",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-18",
+          "id": "evt-funeral-20",
+          "location": [
+            "Etxaleku"
+          ],
+          "times": "17:00",
+          "title": "María Isabel Igelz Azpirotz",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-25",
+          "id": "evt-funeral-21",
+          "location": [
+            "Iribas"
+          ],
+          "times": "17:00",
+          "title": "Felisa Michaus",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-26",
+          "id": "evt-funeral-22",
+          "location": [
+            "Areso"
+          ],
+          "times": "10:00",
+          "title": "Miguel Zabaleta Caballero",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-28",
+          "id": "evt-funeral-23",
+          "location": [],
+          "times": "17:30",
+          "title": "Juan Manuel Urchipia Galarza ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-05-06",
+          "id": "evt-funeral-24",
+          "location": [
+            "Atallu"
+          ],
+          "times": "17:30",
+          "title": "Martín Tolosa Balerdi",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-05-11",
+          "id": "evt-funeral-25",
+          "location": [
+            "Leitza"
+          ],
+          "times": "19:00",
+          "title": "José María Fagoaga Irurtia",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-01",
+          "id": "evt-funeral-26",
+          "location": [
+            "Oderitz"
+          ],
+          "times": "17:30",
+          "title": "Francisco Arroqui Goldaraz",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-02",
+          "id": "evt-funeral-27",
+          "location": [
+            "Betelu"
+          ],
+          "times": "18:00",
+          "title": "Martin Arteaga Fernández",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-04",
+          "id": "evt-funeral-28",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:30",
+          "title": "Milagros Olano Cestorain",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-04",
+          "id": "evt-funeral-29",
+          "location": [
+            "Etxaleku"
+          ],
+          "times": "18:00",
+          "title": "Fermín Beloqui Iriarte",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-08",
+          "id": "evt-funeral-30",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "17:30",
+          "title": "Juan María Arregui Michaus",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-17",
+          "id": "evt-funeral-31",
+          "location": [
+            "Leitza"
+          ],
+          "times": "19:30",
+          "title": "Peio Maria Aguirre Zubitur",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-18",
+          "id": "evt-funeral-32",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:30",
+          "title": "Maite Gomez Lombana",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-27",
+          "id": "evt-funeral-33",
+          "location": [
+            "Astitz"
+          ],
+          "times": "18:00",
+          "title": "Mariano Astiz Zubeldia",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-28",
+          "id": "evt-funeral-34",
+          "location": [
+            "Leitza"
+          ],
+          "times": "11:00",
+          "title": "Miguel María Barriola Zabaleta",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-30",
+          "id": "evt-funeral-35",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "17:00",
+          "title": "José Zarranz Martinicorena ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-06-30",
+          "id": "evt-funeral-36",
+          "location": [
+            "Atallu"
+          ],
+          "times": "18:00",
+          "title": "Kontxi Liziaga Zatarain ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-07-18",
+          "id": "evt-funeral-37",
+          "location": [],
+          "times": "18:30",
+          "title": "Mª Carmen Iribarren Arroki ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-07-22",
+          "id": "evt-funeral-38",
+          "location": [
+            "Uitzi"
+          ],
+          "times": "17:30",
+          "title": "Joaquina Martirena Arraztio ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-07-22",
+          "id": "evt-funeral-39",
+          "location": [
+            "Betelu"
+          ],
+          "times": "18:30",
+          "title": "Teresita Yeregui López ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-07-22",
+          "id": "evt-funeral-40",
+          "location": [
+            "Aldatz"
+          ],
+          "times": "19:30",
+          "title": "Anunciación Barbería Goikoetxea ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-07-23",
+          "id": "evt-funeral-41",
+          "location": [
+            "Leitza"
+          ],
+          "times": "19:30",
+          "title": "Jorge Urrutia Aroztegi",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-07-31",
+          "id": "evt-funeral-42",
+          "location": [
+            "Leitza"
+          ],
+          "times": "19:30",
+          "title": "Martin Alduntzin Zabaleta",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-08-26",
+          "id": "evt-funeral-43",
+          "location": [
+            "Leitza"
+          ],
+          "times": "17:00",
+          "title": "Mercedes Sagastibeltza Arregi ",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-08-28",
+          "description": "Nuestro querido sacristán ",
+          "id": "evt-funeral-44",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "18:30",
+          "title": "Juan Mari Michaus Villanueva",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-04-08",
+          "id": "evt-visita-san-miguel-1",
+          "location": [
+            "Mugiro"
+          ],
+          "times": "17:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-08",
+          "id": "evt-visita-san-miguel-2",
+          "location": [
+            "Aldatz"
+          ],
+          "times": "19:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-08",
+          "id": "evt-visita-san-miguel-3",
+          "location": [
+            "Gorriti"
+          ],
+          "times": "09:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-08",
+          "id": "evt-visita-san-miguel-4",
+          "location": [
+            "Uitzi"
+          ],
+          "times": "10:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-08",
+          "id": "evt-visita-san-miguel-5",
+          "location": [
+            "Arruitz"
+          ],
+          "times": "11:15",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-08",
+          "id": "evt-visita-san-miguel-6",
+          "location": [
+            "Etxarri"
+          ],
+          "times": "12:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "description": "",
+          "id": "evt-visita-san-miguel-7",
+          "location": [
+            "Alli"
+          ],
+          "times": "08:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "id": "evt-visita-san-miguel-8",
+          "location": [
+            "Oderitz"
+          ],
+          "times": "09:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "id": "evt-visita-san-miguel-9",
+          "location": [
+            "Astitz"
+          ],
+          "times": "10:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "id": "evt-visita-san-miguel-10",
+          "location": [
+            "Iribas"
+          ],
+          "times": "11:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "id": "evt-visita-san-miguel-11",
+          "location": [
+            "Madotz"
+          ],
+          "times": "13:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "id": "evt-visita-san-miguel-12",
+          "location": [
+            "Urritza"
+          ],
+          "times": "19:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-09",
+          "id": "evt-visita-san-miguel-13",
+          "location": [
+            "Goldaratz"
+          ],
+          "times": "20:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-10",
+          "id": "evt-visita-san-miguel-14",
+          "location": [
+            "Latasa"
+          ],
+          "times": "08:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-10",
+          "id": "evt-visita-san-miguel-15",
+          "location": [
+            "Zarrantz"
+          ],
+          "times": "09:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-10",
+          "id": "evt-visita-san-miguel-16",
+          "location": [
+            "Eraso"
+          ],
+          "times": "11:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-10",
+          "id": "evt-visita-san-miguel-17",
+          "location": [
+            "Etxaleku"
+          ],
+          "times": "12:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-10",
+          "id": "evt-visita-san-miguel-18",
+          "location": [
+            "Oskotz"
+          ],
+          "times": "18:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-04-10",
+          "id": "evt-visita-san-miguel-19",
+          "location": [
+            "Muskitz"
+          ],
+          "times": "19:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-02",
+          "id": "evt-visita-san-miguel-20",
+          "location": [
+            "Leitza"
+          ],
+          "times": "19:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-03",
+          "id": "evt-visita-san-miguel-21",
+          "location": [
+            "Arano"
+          ],
+          "times": "12:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-03",
+          "id": "evt-visita-san-miguel-22",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "18:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-23",
+          "location": [
+            "Igoa eta Aizarotz"
+          ],
+          "times": "08:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-24",
+          "location": [
+            "Arrarats"
+          ],
+          "times": "09:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-25",
+          "location": [
+            "Orokieta"
+          ],
+          "times": "11:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-26",
+          "location": [
+            "Gartzaron"
+          ],
+          "times": "12:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-27",
+          "location": [
+            "Erbiti"
+          ],
+          "times": "13:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-28",
+          "location": [
+            "Udabe"
+          ],
+          "times": "16:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-29",
+          "location": [
+            "Beramendi"
+          ],
+          "times": "17:15",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-30",
+          "location": [
+            "Itsaso"
+          ],
+          "times": "18:00",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-31",
+          "location": [
+            "Ihaben"
+          ],
+          "times": "18:45",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-32",
+          "location": [
+            "Jauntsarats"
+          ],
+          "times": "19:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-05",
+          "id": "evt-visita-san-miguel-33",
+          "location": [
+            "Beruete"
+          ],
+          "times": "20:15",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-05-09",
+          "id": "evt-visita-san-miguel-34",
+          "location": [
+            "Areso"
+          ],
+          "times": "19:30",
+          "type": "visita-san-miguel"
+        },
+        {
+          "date": "2026-01-06",
+          "description": "",
+          "id": "evt-epifania-1",
+          "location": [
+            "Leitza"
+          ],
+          "times": "09:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "id": "evt-epifania-2",
+          "location": [
+            "Leitza"
+          ],
+          "times": "11:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "description": "",
+          "id": "evt-epifania-3",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "09:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "id": "evt-epifania-4",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "11:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "id": "evt-epifania-5",
+          "location": [
+            "Arano",
+            "Beruete"
+          ],
+          "times": "11:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "id": "evt-epifania-6",
+          "location": [
+            "Areso"
+          ],
+          "times": "10:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "id": "evt-epifania-7",
+          "location": [
+            "Betelu",
+            "Goizueta",
+            "Muskitz"
+          ],
+          "times": "12:30",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "description": "",
+          "id": "evt-epifania-8",
+          "location": [
+            "Aldatz"
+          ],
+          "times": "09:00",
+          "type": "epifania"
+        },
+        {
+          "date": "2026-01-06",
+          "id": "evt-epifania-9",
+          "location": [
+            "Itsaso"
+          ],
+          "times": "10:00",
+          "type": "epifania"
+        },
+        {
+          "description": "",
+          "id": "evt-miercoles-ceniza-1",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "16:00",
+          "type": "miercoles-ceniza"
+        },
+        {
+          "id": "evt-miercoles-ceniza-2",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "18:30",
+          "type": "miercoles-ceniza"
+        },
+        {
+          "id": "evt-miercoles-ceniza-3",
+          "location": [
+            "Leitza"
+          ],
+          "times": "19:30",
+          "type": "miercoles-ceniza"
+        },
+        {
+          "id": "evt-miercoles-ceniza-4",
+          "location": [
+            "Aldatz"
+          ],
+          "times": "09:00",
+          "type": "miercoles-ceniza"
+        },
+        {
+          "id": "evt-jueves-santo-1",
+          "location": [
+            "Areso",
+            "Lekunberri",
+            "Orokieta"
+          ],
+          "times": "18:00",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-jueves-santo-2",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "19:00",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-jueves-santo-3",
+          "location": [
+            "Leitza",
+            "Betelu"
+          ],
+          "times": "19:30",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-jueves-santo-4",
+          "location": [
+            "Agustinas Aldatz",
+            "Ihaben"
+          ],
+          "times": "17:00",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-jueves-santo-5",
+          "location": [
+            "Leitza"
+          ],
+          "times": "20:15",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-jueves-santo-6",
+          "location": [
+            "Betelu"
+          ],
+          "times": "21:00",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-jueves-santo-7",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "19:30",
+          "type": "jueves-santo"
+        },
+        {
+          "id": "evt-viernes-santo-1",
+          "location": [
+            "Lekunberri",
+            "Leitza",
+            "Orokieta"
+          ],
+          "times": "18:00",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-viernes-santo-2",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "19:00",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-viernes-santo-3",
+          "location": [
+            "Betelu",
+            "Areso"
+          ],
+          "times": "16:30",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-viernes-santo-4",
+          "location": [
+            "Agustinas Aldatz",
+            "Itsaso"
+          ],
+          "times": "17:00",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-viernes-santo-5",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "12:00",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-viernes-santo-6",
+          "location": [
+            "Leitza"
+          ],
+          "times": "08:00",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-viernes-santo-7",
+          "location": [
+            "Betelu",
+            "Areso"
+          ],
+          "times": "11:00",
+          "type": "viernes-santo"
+        },
+        {
+          "id": "evt-vigilia-pascual-1",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "23:00",
+          "type": "vigilia-pascual"
+        },
+        {
+          "id": "evt-vigilia-pascual-2",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "19:00",
+          "type": "vigilia-pascual"
+        },
+        {
+          "id": "evt-vigilia-pascual-3",
+          "location": [
+            "Leitza"
+          ],
+          "times": "22:00",
+          "type": "vigilia-pascual"
+        },
+        {
+          "id": "evt-vigilia-pascual-4",
+          "location": [
+            "Betelu",
+            "Agustinas Aldatz"
+          ],
+          "times": "21:00",
+          "type": "vigilia-pascual"
+        },
+        {
+          "id": "evt-vigilia-pascual-5",
+          "location": [
+            "Areso"
+          ],
+          "times": "20:00",
+          "type": "vigilia-pascual"
+        },
+        {
+          "date": "2026-03-30",
+          "id": "evt-confesiones-1",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "18:00",
+          "type": "confesiones-cuaresma"
+        },
+        {
+          "date": "2026-03-31",
+          "id": "evt-confesiones-2",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "18:00",
+          "type": "confesiones-cuaresma"
+        },
+        {
+          "date": "2026-04-01",
+          "id": "evt-confesiones-3",
+          "location": [
+            "Leitza"
+          ],
+          "times": "18:00",
+          "type": "confesiones-cuaresma"
+        },
+        {
+          "date": "2026-04-02",
+          "id": "evt-confesiones-4",
+          "location": [
+            "Betelu"
+          ],
+          "times": "12:00",
+          "type": "confesiones-cuaresma"
+        },
+        {
+          "id": "evt-asuncion-1",
+          "location": [
+            "Agustinas Aldatz",
+            "Leitza",
+            "Lekunberri"
+          ],
+          "times": "09:00",
+          "type": "asuncion"
+        },
+        {
+          "id": "evt-asuncion-2",
+          "location": [
+            "Areso",
+            "Leitza",
+            "Lekunberri",
+            "Goizueta"
+          ],
+          "times": "11:00",
+          "type": "asuncion"
+        },
+        {
+          "id": "evt-asuncion-3",
+          "location": [
+            "Uztegi",
+            "Gartzaron"
+          ],
+          "times": "12:00",
+          "type": "asuncion"
+        },
+        {
+          "id": "evt-asuncion-4",
+          "location": [
+            "Lezaeta",
+            "Betelu",
+            "Jauntsarats"
+          ],
+          "times": "12:30",
+          "type": "asuncion"
+        },
+        {
+          "id": "evt-asuncion-5",
+          "location": [
+            "Latasa"
+          ],
+          "times": "17:00",
+          "type": "asuncion"
+        },
+        {
+          "id": "evt-asuncion-6",
+          "location": [
+            "Etxarri"
+          ],
+          "times": "18:00",
+          "type": "asuncion"
+        },
+        {
+          "date": "2026-04-16",
+          "id": "evt-santa-engracia-1",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "18:00",
+          "type": "santas-y-santos-de-dios"
+        },
+        {
+          "date": "2026-04-19",
+          "id": "evt-santa-engracia-2",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "11:00",
+          "type": "santas-y-santos-de-dios"
+        },
+        {
+          "id": "evt-urte-berria-1",
+          "location": [
+            "Leitza"
+          ],
+          "times": "11:00",
+          "type": "urte-berria"
+        },
+        {
+          "id": "evt-urte-berria-2",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "11:00",
+          "type": "urte-berria"
+        },
+        {
+          "description": "",
+          "id": "evt-san-anton-1",
+          "images": [],
+          "location": [
+            "Betelu"
+          ],
+          "times": "12:30",
+          "type": "santas-y-santos-de-dios"
+        },
+        {
+          "id": "evt-santa-ageda-1",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "12:30",
+          "type": "santas-y-santos-de-dios"
+        },
+        {
+          "id": "evt-xabierraldiak-1",
+          "location": [
+            "Leitza"
+          ],
+          "times": "08:00",
+          "type": "xabierraldiak"
+        },
+        {
+          "id": "evt-encuentro-cuaresma-1",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "10:00",
+          "type": "encuentro-cuaresma"
+        },
+        {
+          "id": "evt-domingo-ramos-1",
+          "location": [
+            "Leitza"
+          ],
+          "times": "11:00",
+          "type": "domingo-ramos"
+        },
+        {
+          "id": "evt-domingo-ramos-2",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "11:00",
+          "type": "domingo-ramos"
+        },
+        {
+          "id": "evt-domingo-ramos-3",
+          "location": [
+            "Betelu"
+          ],
+          "times": "12:30",
+          "type": "domingo-ramos"
+        },
+        {
+          "id": "evt-domingo-ramos-4",
+          "location": [
+            "Goizueta"
+          ],
+          "times": "12:30",
+          "type": "domingo-ramos"
+        },
+        {
+          "id": "evt-oracion-vocaciones-1",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "19:00",
+          "type": "oracion-vocaciones"
+        },
+        {
+          "id": "evt-san-bartolome-1",
+          "location": [
+            "Gaintza"
+          ],
+          "times": "12:00",
+          "type": "santas-y-santos-de-dios"
+        },
+        {
+          "id": "evt-san-agustin-1",
+          "location": [
+            "Lekunberri"
+          ],
+          "times": "19:00",
+          "type": "santas-y-santos-de-dios"
+        },
+        {
+          "id": "evt-gurutze-eguna-1",
+          "location": [
+            "Aralar"
+          ],
+          "times": "12:00",
+          "type": "gurutze-eguna"
         }
       ],
       "urls": [
@@ -955,27 +2201,6 @@
           "date": "",
           "description": "",
           "duration": 45,
-          "image": "",
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "times": "",
-          "title": ""
-        },
-        "icon": "heroicons-solid:chat-bubble-bottom-center-text",
-        "id": "confessions",
-        "label": "Visita de San Miguel",
-        "name": "confessions",
-        "pageMode": "",
-        "protected": "confesiones",
-        "sections": []
-      },
-      {
-        "defaults": {
-          "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": 45,
           "image": "https://images.unsplash.com/photo-1569845177077-2a37322a60c7?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8N3x8Y2F0aG9saWMlMjBDYXRlY2lzbXxlbnwwfHx8fDE3ODgxNTU1MjF8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Anuja%20Tilj",
           "images": [],
           "location": "",
@@ -1009,6 +2234,275 @@
         "icon": "mdi:cross-celtic",
         "id": "59bd1c60-8644-45b0-9f36-93ae90d4bd6d",
         "label": "Adoración al Santísimo",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/47herri/Screenshot_20250530_094045_Gallery.webp"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Visita San Miguel"
+        },
+        "id": "visita-san-miguel",
+        "label": "Visita San Miguel",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-01-06",
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/47herri/EPIFANIA3.webp"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Erregeen eguna Epifania"
+        },
+        "id": "epifania",
+        "label": "Erregeen eguna Epifania",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-02-18",
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/47herri/634dd4f236d5e.webp"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Miércoles de ceniza"
+        },
+        "id": "miercoles-ceniza",
+        "label": "Miércoles de ceniza",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-04-02",
+          "description": "Última Cena",
+          "images": [
+            "https://data.parroquia.app/47herri/IMG-20250410-WA0023.webp"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Jueves Santo"
+        },
+        "id": "jueves-santo",
+        "label": "Jueves Santo",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-04-03",
+          "description": "Crucifixión y muerte del Señor",
+          "images": [
+            "https://data.parroquia.app/47herri/viernesanto.webp"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Viernes Santo"
+        },
+        "id": "viernes-santo",
+        "label": "Viernes Santo",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-04-04",
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/47herri/vigilia.jpeg"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Vigilia Pascual"
+        },
+        "id": "vigilia-pascual",
+        "label": "Vigilia Pascual",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/47herri/semea.webp"
+          ],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Confesiones Cuaresma"
+        },
+        "id": "confesiones-cuaresma",
+        "label": "Confesiones Cuaresma",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-08-15",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Asunción de la Santísima Virgen María"
+        },
+        "id": "asuncion",
+        "label": "Asunción de la Santísima Virgen María",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-01-01",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Urte berria"
+        },
+        "id": "urte-berria",
+        "label": "Urte berria",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-03-14",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Xabierraldiak"
+        },
+        "id": "xabierraldiak",
+        "label": "Xabierraldiak",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-03-28",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Encuentro de cuaresma"
+        },
+        "id": "encuentro-cuaresma",
+        "label": "Encuentro de cuaresma",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-03-29",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Domingo de Ramos"
+        },
+        "id": "domingo-ramos",
+        "label": "Domingo de Ramos",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-04-24",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Oración por las vocaciones"
+        },
+        "id": "oracion-vocaciones",
+        "label": "Oración por las vocaciones",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "2026-09-06",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Gurutze Eguna"
+        },
+        "id": "gurutze-eguna",
+        "label": "Gurutze Eguna",
+        "pageMode": "",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": "Santas y santos de Dios"
+        },
+        "id": "santas-y-santos-de-dios",
+        "label": "Santas y santos de Dios",
         "pageMode": "",
         "sections": []
       }
