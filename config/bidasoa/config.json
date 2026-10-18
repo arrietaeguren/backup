@@ -1493,7 +1493,7 @@
             "orderNotas": "",
             "orderSubfila": "",
             "orderTabla": "",
-            "ordering": "title,weekday,skip,times,byday-weekday+byweek+notes",
+            "ordering": "",
             "tags": [],
             "title": "Nuestras celebraciones",
             "type": "calendar"
