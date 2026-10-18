@@ -2007,15 +2007,19 @@
             "Goizueta"
           ],
           "times": "18:00",
+          "title": "Santa Engracia",
           "type": "santas-y-santos-de-dios"
         },
         {
           "date": "2026-04-19",
+          "description": "",
           "id": "evt-santa-engracia-2",
+          "images": [],
           "location": [
             "Goizueta"
           ],
           "times": "11:00",
+          "title": "Santa Engracia",
           "type": "santas-y-santos-de-dios"
         },
         {
@@ -2035,6 +2039,7 @@
           "type": "urte-berria"
         },
         {
+          "date": "2026-01-17",
           "description": "",
           "id": "evt-san-anton-1",
           "images": [],
@@ -2042,14 +2047,17 @@
             "Betelu"
           ],
           "times": "12:30",
+          "title": "San Antón",
           "type": "santas-y-santos-de-dios"
         },
         {
+          "date": "2026-02-05",
           "id": "evt-santa-ageda-1",
           "location": [
             "Goizueta"
           ],
           "times": "12:30",
+          "title": "Santa Ageda",
           "type": "santas-y-santos-de-dios"
         },
         {
@@ -2109,19 +2117,25 @@
           "type": "oracion-vocaciones"
         },
         {
+          "date": "2026-08-24",
+          "description": "",
           "id": "evt-san-bartolome-1",
+          "images": [],
           "location": [
             "Gaintza"
           ],
           "times": "12:00",
+          "title": "San Bartolome",
           "type": "santas-y-santos-de-dios"
         },
         {
+          "date": "2026-08-28",
           "id": "evt-san-agustin-1",
           "location": [
             "Lekunberri"
           ],
           "times": "19:00",
+          "title": "San Agustín",
           "type": "santas-y-santos-de-dios"
         },
         {
@@ -2499,7 +2513,7 @@
             "never"
           ],
           "times": "",
-          "title": "Santas y santos de Dios"
+          "title": ""
         },
         "id": "santas-y-santos-de-dios",
         "label": "Santas y santos de Dios",
