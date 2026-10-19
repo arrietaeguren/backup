@@ -808,7 +808,7 @@
           "location": "",
           "rrule": [],
           "times": "",
-          "title": "Meza"
+          "title": "Eucaristía"
         },
         "extra": "",
         "icon": "game-icons:jeweled-chalice",
@@ -940,6 +940,15 @@
             "tags": [],
             "title": "",
             "type": "text"
+          },
+          {
+            "id": "92a1f662-cdbe-4c55-9193-790674f83e5b",
+            "images": [
+              "https://data.parroquia.app/bidasoa/media-e32383bf-cdd7-4630-918f-5a2886540887-1_all_50-a1b8c4ca.webp"
+            ],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
           }
         ]
       },
