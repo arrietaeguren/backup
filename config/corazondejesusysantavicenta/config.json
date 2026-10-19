@@ -136,6 +136,7 @@
           "duration": null,
           "id": "evt-bfa2a99d-15e7-4eb6-91d8-3bad7a85d424",
           "image": "",
+          "images": [],
           "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
           "rrule": [
             "su"
@@ -425,20 +426,19 @@
         {
           "celebrants": "",
           "date": "",
-          "description": "2º Primaria: Domingo 11:00 o martes a las 18:00\n\n3º Primaria: Domingo 11:00 o lunes a las 18:00",
+          "description": "2º Primaria ",
           "duration": null,
           "except": [],
           "id": "evt-65402070-1c81-4f49-aec3-0f1a6633bc71",
           "image": "",
+          "images": [],
           "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
           "rrule": [
-            "mo",
-            "tu",
             "su"
           ],
-          "times": "",
-          "title": "Catequesis infancia y primera comunión",
-          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+          "times": "11:00",
+          "title": "",
+          "type": "94950a7e-729a-43c3-872c-9821766e130b"
         },
         {
           "date": "2026-09-06",
@@ -489,6 +489,54 @@
           "times": "",
           "title": "Peregrinación parroquial a Lourdes",
           "type": ""
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "2º Primaria ",
+          "duration": null,
+          "id": "evt-526dfeed-7fe1-4f7d-a797-baf2591286a2",
+          "image": "",
+          "images": [],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "tu"
+          ],
+          "times": "18:00",
+          "title": "",
+          "type": "94950a7e-729a-43c3-872c-9821766e130b"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "3º Primaria ",
+          "duration": null,
+          "id": "evt-7cedabe4-bf45-44d9-ad08-76cd0b0d4ab9",
+          "image": "",
+          "images": [],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "tu"
+          ],
+          "times": "18:00",
+          "title": "",
+          "type": "94950a7e-729a-43c3-872c-9821766e130b"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "3º Primaria ",
+          "duration": null,
+          "id": "evt-36bd602b-f84b-4137-9da7-ada987dc77a0",
+          "image": "",
+          "images": [],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "title": "",
+          "type": "94950a7e-729a-43c3-872c-9821766e130b"
         }
       ],
       "urls": []
@@ -557,6 +605,21 @@
         "id": "e4c6e1da-d183-473c-8a0d-316420fe9490",
         "label": "Grupos",
         "pageMode": "event",
+        "sections": []
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "images": [],
+          "location": [],
+          "rrule": [],
+          "times": "",
+          "title": "Catequesis infancia y primera comunión"
+        },
+        "id": "94950a7e-729a-43c3-872c-9821766e130b",
+        "label": "Catequesis infancia y primera comunión",
+        "pageMode": "type",
         "sections": []
       }
     ]
@@ -645,7 +708,13 @@
     "languages": [
       "Español:es",
       "Euskara:eu",
-      "English:en"
+      "English:en",
+      "Français:fr",
+      "Deutsch:de",
+      "Italiano:it",
+      "Català:ca",
+      "Português:pt",
+      "Polski:pl"
     ],
     "list": [
       {
@@ -698,17 +767,9 @@
             ],
             "filters": [],
             "id": "c9f20704-8efd-49dc-bd62-4432f0103832",
-            "tags": [
-              "3d"
-            ],
+            "tags": [],
             "title": "Grupos parroquiales",
             "type": "eventCards"
-          },
-          {
-            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
-            "tags": [],
-            "title": "Nuestro equipo parroquial",
-            "type": "team"
           },
           {
             "audio": true,
@@ -785,7 +846,7 @@
             "orderNotas": "",
             "orderSubfila": "byday",
             "orderTabla": "title",
-            "ordering": "title,weekday,skip,times,byday-weekday+byweek+notes",
+            "ordering": "",
             "tags": [],
             "title": "Horarios",
             "type": "calendar"
