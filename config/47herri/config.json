@@ -2147,14 +2147,16 @@
           "type": "gurutze-eguna"
         },
         {
-          "date": "",
+          "date": "2026-10-21",
           "description": "",
           "id": "evt-51130822-a742-4fab-8b96-1567d3ac802a",
           "images": "",
-          "location": "",
+          "location": [
+            "c7767cb6-8dc4-487c-b0df-781653b1b165"
+          ],
           "rrule": "",
-          "times": "",
-          "title": "",
+          "times": "17:00",
+          "title": "Julian Etxenike Uitzi ",
           "type": "funeral"
         }
       ],
