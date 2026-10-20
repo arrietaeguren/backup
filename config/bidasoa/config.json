@@ -709,7 +709,7 @@
         },
         {
           "date": "",
-          "description": "Adviento y Cuaresma",
+          "description": "",
           "id": "evt-6714af98-a1e4-44f6-826f-09cd7f9f08bf",
           "images": "",
           "location": [
@@ -1453,21 +1453,6 @@
             "type": "video-podcast"
           },
           {
-            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
-            "tags": [],
-            "title": "Nuestro equipo parroquial",
-            "type": "team"
-          },
-          {
-            "geo": "",
-            "id": "e4439fa1-3b8f-4037-8429-771bb61547fe",
-            "image": "",
-            "name": "",
-            "tags": [],
-            "title": "Ven a conocernos",
-            "type": "map"
-          },
-          {
             "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
             "tags": [],
             "title": "Itun berria",
@@ -1483,6 +1468,15 @@
             "tags": [],
             "title": "No te pierdas",
             "type": "links"
+          },
+          {
+            "geo": "",
+            "id": "e4439fa1-3b8f-4037-8429-771bb61547fe",
+            "image": "",
+            "name": "",
+            "tags": [],
+            "title": "Ven a conocernos",
+            "type": "map"
           }
         ],
         "title": "Bidasoko parrokiak"
