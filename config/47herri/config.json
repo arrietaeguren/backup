@@ -2158,6 +2158,19 @@
           "times": "17:00",
           "title": "Julian Etxenike Uitzi ",
           "type": "funeral"
+        },
+        {
+          "date": "2026-10-27",
+          "description": "",
+          "id": "evt-c855ea06-efb9-4882-b20d-dbea0f4423d6",
+          "images": "",
+          "location": [
+            "befe17d4-2024-4618-8ff6-180cb5bdfe6b"
+          ],
+          "rrule": "",
+          "times": "18:00",
+          "title": "Maritxu Erro Telletxea",
+          "type": "funeral"
         }
       ],
       "urls": [
@@ -2175,6 +2188,7 @@
   "event-types": {
     "list": [
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -2200,6 +2214,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -2223,6 +2238,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -2244,6 +2260,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -2265,6 +2282,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -2284,6 +2302,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-01-06",
           "description": "",
@@ -2303,6 +2322,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-02-18",
           "description": "",
@@ -2322,6 +2342,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-04-02",
           "description": "Última Cena",
@@ -2341,6 +2362,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-04-03",
           "description": "Crucifixión y muerte del Señor",
@@ -2360,6 +2382,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-04-04",
           "description": "",
@@ -2379,6 +2402,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -2398,6 +2422,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-08-15",
           "description": "",
@@ -2415,6 +2440,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-01-01",
           "description": "",
@@ -2432,6 +2458,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-03-14",
           "description": "",
@@ -2449,6 +2476,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-03-28",
           "description": "",
@@ -2466,6 +2494,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-03-29",
           "description": "",
@@ -2483,6 +2512,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-04-24",
           "description": "",
@@ -2500,6 +2530,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "2026-09-06",
           "description": "",
@@ -2517,6 +2548,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
