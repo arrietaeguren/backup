@@ -770,6 +770,7 @@
   "event-types": {
     "list": [
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -796,6 +797,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -820,6 +822,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -844,6 +847,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -868,6 +872,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -886,6 +891,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -917,6 +923,7 @@
         ]
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -953,6 +960,7 @@
         ]
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -972,6 +980,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
@@ -991,6 +1000,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",
