@@ -620,6 +620,7 @@
   "event-types": {
     "list": [
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -643,6 +644,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -664,6 +666,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -685,6 +688,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -706,6 +710,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",

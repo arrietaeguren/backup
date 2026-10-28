@@ -323,30 +323,14 @@
           "images": [
             "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8Y2F0aG9saWMlMjBDbGVhbmluZ3xlbnwwfHx8fDE3ODgxODI3NDh8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=PuroClean%20of%20Fort%20Worth"
           ],
-          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "location": [
+            "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+            "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a"
+          ],
           "rrule": [
             "mo",
-            "th"
-          ],
-          "times": "",
-          "title": "Grupo de limpieza",
-          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
-        },
-        {
-          "celebrants": "",
-          "date": "",
-          "description": "Gran cuidado y servicio de la comunidad. Lunes y jueves por la mañana en Corazón de Jesús. Primer viernes y tercer jueves de mes en Sta. Vicenta María",
-          "duration": null,
-          "except": [],
-          "id": "evt-a4c172e0-bd5e-4d0c-bb79-85a0047e731a",
-          "image": "",
-          "images": [
-            "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8Y2F0aG9saWMlMjBDbGVhbmluZ3xlbnwwfHx8fDE3ODgxODI3NDh8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=PuroClean%20of%20Fort%20Worth"
-          ],
-          "location": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
-          "rrule": [
-            "fr",
-            "week1"
+            "th",
+            "fr"
           ],
           "times": "",
           "title": "Grupo de limpieza",
@@ -545,6 +529,7 @@
   "event-types": {
     "list": [
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -568,6 +553,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "",
@@ -589,6 +575,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "celebrants": [],
           "date": "2026-09-20",
@@ -608,6 +595,7 @@
         "sections": []
       },
       {
+        "calendar": "",
         "defaults": {
           "date": "",
           "description": "",

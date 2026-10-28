@@ -2192,7 +2192,7 @@
         "defaults": {
           "celebrants": [],
           "date": "",
-          "description": "Descanse en paz",
+          "description": "Beti-betiko zoriona gure hileri emon, Jauna; betiko argi zabalean zure argiak argi daizan.",
           "duration": 45,
           "image": "https://data.parroquia.app/47herri/3-estela-lekunberri.webp",
           "images": [
@@ -3915,7 +3915,7 @@
           },
           {
             "_block": "text",
-            "html": "2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\n\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\n\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri. ![](https://data.parroquia.app/47herri/about-img.webp)",
+            "html": "![](https://data.parroquia.app/47herri/media-uap-removebg-preview-d5be79b3.webp)\n\n  \n\n2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\n\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\n\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri. ![](https://data.parroquia.app/47herri/about-img.webp)",
             "id": "c48eeee3-dd2f-4b5e-8abf-349e67629e48",
             "tags": [
               "dark"
@@ -4062,48 +4062,6 @@
       },
       {
         "description": "",
-        "hideHero": true,
-        "id": "acd4f441-634c-416a-9660-8ae8b7180070",
-        "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "f9c05291-f308-4e7a-9b03-1a82b84256a2",
-        "sections": [
-          {
-            "_block": "text",
-            "html": "![](https://data.parroquia.app/47herri/uap.webp)\n2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri.",
-            "id": "da05e825-3b9d-4652-be3c-5db63c2d5ab3",
-            "tags": [],
-            "title": "Nafarroako Pastoral Barrutiak"
-          },
-          {
-            "_block": "map",
-            "geo": "",
-            "id": "62a8e5d8-cbd0-4ec6-8673-3d66b8f4edaa",
-            "image": "",
-            "name": "",
-            "tags": [],
-            "title": ""
-          },
-          {
-            "_block": "town",
-            "category": "pages",
-            "filters": [
-              "Todos",
-              "Larraun",
-              "Urumea",
-              "Leitzaran",
-              "Basaburua",
-              "Araitz",
-              "Imotz"
-            ],
-            "id": "632290d6-6f6d-4962-aa02-fcba1a80b421",
-            "tags": [],
-            "title": "Gure herriak"
-          }
-        ],
-        "title": "Parrokiak"
-      },
-      {
-        "description": "",
         "id": "90c0f27f-ab58-4cd8-8d98-5a7ea5d06aac",
         "image": "{image}",
         "name": "48e5d91a-b7c3-4182-8d04-520f423d90b6",
@@ -4180,17 +4138,7 @@
         "title": "{title}"
       }
     ],
-    "nav": [
-      {
-        "id": "fbe6c62a-de9e-4600-b617-2aef6e1f0a25",
-        "links": [
-          "409863e7-83b9-4a59-babe-5db5364d64e8",
-          "30c9c9f6-5615-4552-8ed4-5ba6110895e0",
-          "acd4f441-634c-416a-9660-8ae8b7180070"
-        ],
-        "title": "Menu"
-      }
-    ],
+    "nav": [],
     "pageperevent": [
       "special"
     ],
