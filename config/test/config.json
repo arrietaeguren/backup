@@ -992,6 +992,14 @@
             "tags": [],
             "title": "",
             "type": "gallery"
+          },
+          {
+            "filter": "",
+            "id": "1cebc4d2-0851-43de-9e1d-a816fb3e5302",
+            "ordering": "",
+            "tags": [],
+            "title": "Nuestros eventos",
+            "type": "calendar"
           }
         ],
         "title": "{title}"

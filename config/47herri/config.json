@@ -2077,7 +2077,9 @@
           "type": "encuentro-cuaresma"
         },
         {
+          "description": "",
           "id": "evt-domingo-ramos-1",
+          "images": [],
           "location": [
             "Leitza"
           ],
@@ -2697,7 +2699,9 @@
         "id": "7ca74641-5e6d-4248-a80d-3d318905c0e2",
         "image": [],
         "images": [
-          "https://data.parroquia.app/47herri/arano.webp"
+          "https://data.parroquia.app/47herri/arano.webp",
+          "https://upload.wikimedia.org/wikipedia/commons/c/c5/Arano_Goiko_Herri-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/3/34/Arano_Goiko_Herri-232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo"
         ],
         "name": "Arano",
         "sections": [],
@@ -2721,7 +2725,10 @@
         "id": "6c3c53ba-58fe-4bec-9d10-bbf59db20fc5",
         "image": [],
         "images": [
-          "https://data.parroquia.app/47herri/20250620_201941.webp"
+          "https://data.parroquia.app/47herri/20250620_201941.webp",
+          "https://upload.wikimedia.org/wikipedia/commons/2/26/Areso_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Basotxerri",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3f/Areso_-_Ayuntamiento_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Basotxerri",
+          "https://upload.wikimedia.org/wikipedia/commons/7/77/Areso_-_Front%C3%B3n_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Basotxerri"
         ],
         "name": "Areso",
         "sections": [],
@@ -2866,7 +2873,9 @@
         "id": "eb7f6e13-ccca-4ad1-9ee1-fcf1d05e6dca",
         "image": [],
         "images": [
-          "https://data.parroquia.app/47herri/zarate-web-1.webp"
+          "https://data.parroquia.app/47herri/zarate-web-1.webp",
+          "https://upload.wikimedia.org/wikipedia/commons/2/25/San_Esteban_Azkarate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Artsuaga",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gaintza_mallopean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Artsuaga"
         ],
         "name": "Azkarate",
         "sections": [],
@@ -3439,7 +3448,10 @@
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/f1.webp",
-          "https://data.parroquia.app/47herri/Screenshot_20250403_221152_YouTube.webp"
+          "https://data.parroquia.app/47herri/Screenshot_20250403_221152_YouTube.webp",
+          "https://upload.wikimedia.org/wikipedia/commons/f/f1/San_Migel_eliza_Leitza_3647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/1/14/Mikel_Mikel_zaitu_Euskalerria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Dd1495",
+          "https://upload.wikimedia.org/wikipedia/commons/9/9f/San_Migel_eliza_Leitza_3802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo"
         ],
         "name": "Leitza",
         "sections": [],
@@ -3463,9 +3475,9 @@
         "id": "befe17d4-2024-4618-8ff6-180cb5bdfe6b",
         "image": [],
         "images": [
-          "https://data.parroquia.app/47herri/f0.webp",
-          "https://data.parroquia.app/47herri/Escudo de Lekunberri.svg",
-          "https://data.parroquia.app/47herri/IMG-20260403-WA0014.jpg"
+          "https://upload.wikimedia.org/wikipedia/commons/1/14/San_Joan_Bataiatzailearen_eliza_%28Lekunberri%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Utolotu",
+          "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lekunberri_2026_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lekunberriko_Udala_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Lector+d+Wiki"
         ],
         "name": "Lekunberri",
         "sections": [],
@@ -3859,24 +3871,12 @@
             "title": "Horario de Misas"
           },
           {
-            "_block": "calendar",
             "filter": "!byday:empty&!mass",
-            "id": "855e275b-533f-436d-b023-bc4743b7984a",
-            "order": [
-              "title",
-              "locations",
-              "skip",
-              "times",
-              "byday+byweek+notes"
-            ],
-            "orderColumna": "",
-            "orderFila": "",
-            "orderNotas": "",
-            "orderSubfila": "",
-            "orderTabla": "",
-            "ordering": "title,locations,skip,times,byday+byweek+notes",
+            "id": "86262f86-57a6-4d3b-859c-2ce7cb12d9d0",
+            "ordering": "",
             "tags": [],
-            "title": "Otros eventos periódicos"
+            "title": "Otros eventos periódicos",
+            "type": "calendar"
           },
           {
             "_block": "video-channel",
