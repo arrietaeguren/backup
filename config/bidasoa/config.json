@@ -254,7 +254,7 @@
             "fr"
           ],
           "times": "20:00",
-          "title": "Confirmación",
+          "title": "Catequesis de confirmación",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
@@ -279,13 +279,13 @@
           "duration": null,
           "id": "evt-5aae2cbe-af8d-4e3d-8e3d-6fbbb2017c76",
           "images": [
-            "https://images.pexels.com/photos/20208219/pexels-photo-20208219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=paul+otero+garcia&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fnewlywed-couple-holding-couple-20208219%2F"
+            "https://images.unsplash.com/photo-1606800052052-a08af7148866?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mnx8V2VkZGluZ3xlbnwwfHx8fDE3OTMzNTEyMTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Sandy%20Millar"
           ],
           "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": "",
           "times": "",
-          "title": "Pre-matrimonial",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+          "title": "Cursillo pre-matrimonial",
+          "type": "0e672811-5413-421d-90c5-3b94cdc889c5"
         },
         {
           "date": "",
@@ -299,7 +299,7 @@
           "rrule": "",
           "times": "",
           "title": "Visitas a nuestros mayores",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+          "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         },
         {
           "date": "",
@@ -501,7 +501,7 @@
           "rrule": [
             "mo"
           ],
-          "times": "10:00",
+          "times": "17:00",
           "title": "",
           "type": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b"
         },
@@ -755,6 +755,173 @@
           "times": "19:30",
           "title": "Adoración al Santísimo",
           "type": "adoration"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-1887b2d7-4571-4771-bb2c-addf74b32c9b",
+          "location": "72483e11-7864-4584-ad36-f7f9e337f3d3",
+          "rrule": [
+            "sa"
+          ],
+          "times": "18:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-ab9afddb-6034-4777-9a4e-8904d1112c9e",
+          "location": "e3fd5522-5935-4c84-a0af-2a7099735927",
+          "rrule": [
+            "su"
+          ],
+          "times": "09:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-64c1b20e-1701-483c-a1f8-d3afa3ae6d05",
+          "location": "e3fd5522-5935-4c84-a0af-2a7099735927",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-a7f117cd-6ec6-4800-9314-124447f19c8a",
+          "location": "e3fd5522-5935-4c84-a0af-2a7099735927",
+          "rrule": [
+            "sa"
+          ],
+          "times": "19:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-16551148-32d2-4e24-919d-200cab583fed",
+          "location": "30445ab2-db18-42c6-8dcd-6ab6a6ed0d95",
+          "rrule": [
+            "sa"
+          ],
+          "times": "20:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-faa88273-50b7-492b-8f0c-ebe7136ea831",
+          "location": "17dc28af-49b0-45a1-8927-b28156aed907",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-44d15936-dd7a-430f-8c86-e086466384fc",
+          "location": "17dc28af-49b0-45a1-8927-b28156aed907",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr"
+          ],
+          "times": "18:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-de2140f9-7c55-46f3-963e-892653d38877",
+          "location": "1e6eabb6-8f3e-401e-ac9a-5b229a01844f",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-29f74652-ac50-4619-8018-379251e6f6aa",
+          "location": "1e6eabb6-8f3e-401e-ac9a-5b229a01844f",
+          "rrule": [
+            "sa"
+          ],
+          "times": "18:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-2d46ad0d-b634-4519-94f7-ef222a7ca359",
+          "location": "1cdf8cd1-2b17-4a93-a926-5614827034ae",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-9211e72e-a456-42a8-8b0f-63518227e8cb",
+          "location": "2b45c1e1-e5e2-447f-bf1c-00ddd3120463",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:30",
+          "type": "mass"
+        },
+        {
+          "date": "2027-07-11",
+          "description": "Peregrinación Europea de Jóvenes y Camino de Santiago (11-20 de julio de 2027)",
+          "id": "evt-pej-2027",
+          "images": [],
+          "location": [
+            "Santiago de Compostela"
+          ],
+          "rrule": "",
+          "times": "16:30",
+          "title": "Peregrinación a Santiago - PEJ 2027",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "2027-08-06",
+          "description": "Encuentro en Javier conectado con la vigilia y misa de clausura (6-8 de agosto de 2027)",
+          "id": "evt-conexion-seul-javier-2027",
+          "images": [],
+          "location": [
+            "Javier"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "¿Conexión Seúl en Javier?",
+          "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "date": "",
+          "description": "",
+          "id": "evt-f62158c2-50de-4803-9d4b-2c2f7f4afc64",
+          "images": "",
+          "location": [
+            "1e6eabb6-8f3e-401e-ac9a-5b229a01844f"
+          ],
+          "rrule": [
+            "fr",
+            "biweekly"
+          ],
+          "times": "20:00",
+          "title": "Alabanza",
+          "type": "adoration"
         }
       ],
       "urls": []
@@ -942,7 +1109,7 @@
         "pageMode": "type",
         "sections": [
           {
-            "html": "![](https://data.parroquia.app/bidasoa/media-1000019299-12b8196e.webp)\n\n### Gurekin etorri 🎒✨\n\n¡Nos ponemos en camino! Este curso tendremos de una salida mensual con jóvenes y adolescentes para disfrutar, convivir y compartir la fe juntos.\n\n### 🚌 Información práctica y transporte\n\n*   **Detalles de las actividades:** Iremos ampliando y publicando información más detallada sobre cada actividad, horarios específicos y requisitos conforme se acerque la fecha de cada salida.\n*   **Transporte:** Dependiendo del plan, el destino y el número de participantes, los desplazamientos se realizarán en **autobús** o en **coches particulares**. En este segundo caso, **se solicitará y agradecerá enormemente la colaboración de las familias y padres** con los vehículos.\n\n* * *\n\n## 📅 Próximo evento: JMJ en la Diócesis\n\n![](https://data.parroquia.app/bidasoa/media-1000021569-8240602a.webp)\n\n_«Tened valor: yo he vencido al mundo»_ (Jn 16,33)\n\n*   **Fecha:** Sábado 7 de noviembre de 2026\n*   **Horario:** De 17:30 a 23:30 h.\n*   **Lugar:** Seminario Diocesano de Pamplona\n\n### 🌟 ¿En qué consiste?\n\nViviremos la Jornada Mundial de la Juventud (JMJ) sin salir de nuestra diócesis. Habrá dos encuentros adaptados por edades (de 13 a 17 años y de 18 a 30 años o desde 2.º de Bachillerato), cada uno en su espacio. En ambos disfrutaremos de:\n\n*   Espectáculo y testimonios (Paul Ponce y su familia).\n*   Taller con Diego Blanco (para mayores) o _Escape Room_ (para los más jóvenes).\n*   Concierto a cargo de **Hakuna Group Music**.\n*   Cena compartida y momentos de convivencia.\n*   Adoración al Santísimo presidida por nuestro Sr. Arzobispo.\n\n👉 **Más información e inscripciones:** [Consulta la web oficial de Deleju Navarra e inscríbete aquí](https://delejunavarra.es/blog/jmj-en-la-diocesis/) _(Plazo hasta el 31 de octubre · Precio: 5 € con cena incluida)._\n\n* * *\n\n### 📞 ¿Tienes dudas o necesitas más información?\n\nNo dudes en ponerte en contacto con nosotros o hablar directamente con el párroco.  \n👉 [Llamar a la parroquia: 621 20 82 10](tel:621208210)",
+            "html": "![](https://data.parroquia.app/bidasoa/media-1000019299-12b8196e.webp)\\n\\n### Gurekin etorri 🎒✨\\n\\n¡Nos ponemos en camino! Este curso tendremos de una salida mensual con jóvenes y adolescentes para disfrutar, convivir y compartir la fe juntos.\\n\\n### 🚌 Información práctica y transporte\\n\\n*   **Detalles de las actividades:** Iremos ampliando y publicando información más detallada sobre cada actividad, horarios específicos y requisitos conforme se acerque la fecha de cada salida.\\n*   **Transporte:** Dependiendo del plan, el destino y el número de participantes, los desplazamientos se realizarán en **autobús** o en **coches particulares**. En este segundo caso, **se solicitará y agradecerá enormemente la colaboración de las familias y padres** con los vehículos.\\n\\n* * *\\n\\n## 📅 Próximo evento: JMJ en la Diócesis\\n\\n![](https://data.parroquia.app/bidasoa/media-1000021569-8240602a.webp)\\n\\n_«Tened valor: yo he vencido al mundo»_ (Jn 16,33)\\n\\n*   **Fecha:** Sábado 7 de noviembre de 2026\\n*   **Horario:** De 17:30 a 23:30 h.\\n*   **Lugar:** Seminario Diocesano de Pamplona\\n\\n### 🌟 ¿En qué consiste?\\n\\nViviremos la Jornada Mundial de la Juventud (JMJ) sin salir de nuestra diócesis. Habrá dos encuentros adaptados por edades (de 13 a 17 años y de 18 a 30 años o desde 2.º de Bachillerato), cada uno en su espacio. En ambos disfrutaremos de:\\n\\n*   Espectáculo y testimonios (Paul Ponce y su familia).\\n*   Taller con Diego Blanco (para mayores) o _Escape Room_ (para los más jóvenes).\\n*   Concierto a cargo de **Hakuna Group Music**.\\n*   Cena compartida y momentos de convivencia.\\n*   Adoración al Santísimo presidida por nuestro Sr. Arzobispo.\\n\\n👉 **Más información e inscripciones:** [Consulta la web oficial de Deleju Navarra e inscríbete aquí](https://delejunavarra.es/blog/jmj-en-la-diocesis/) _(Plazo hasta el 31 de octubre · Precio: 5 € con cena incluida)._\\n\\n* * *\\n\\n## 🥾 Peregrinación Diocesana a Santiago – PEJ 2027\\n\\nCon motivo del Año Santo Compostelano, ¡nos vamos en peregrinación! Del **11 al 20 de julio de 2027**, la Delegación organiza la participación diocesana en la Peregrinación Europea de Jóvenes (PEJ) en Santiago. Para compaginarlo al máximo, este es el emocionante itinerario propuesto:\\n\\n*   **11 de julio:** Salida desde Pamplona hacia Valladolid (16:30 h).\\n*   **12 de julio:** Parada en Fátima.\\n*   **13 de julio:** Fátima – Vila Nova de Cerveira – Tui (Etapa a pie de 19 km).\\n*   **14 de julio:** Tui – Redondela – Pontevedra (Etapa a pie de 20 km).\\n*   **15 de julio:** Pontevedra – Faramello – Santiago (Etapa a pie de 15 km).\\n*   **16 al 18 de julio:** Participación en la PEJ (acogida, vigilia y misa).\\n*   **19 de julio:** Convivencia para compartir lo vivido en A Coruña (o lugar por determinar).\\n*   **20 de julio:** Regreso a Pamplona.\\n\\n🌟 **Opciones e inscripciones:** \\nHabrá opción de inscribirse solo a los días del encuentro en Santiago para quienes no puedan hacer todo el recorrido. La inscripción se abrirá antes de final de año, una vez cerrados transporte y manutención. ¡Anímate a vivir esta experiencia inolvidable! (La Delegación también ofrece apoyo a los grupos que prefieran peregrinar por su cuenta).\\n\\n* * *\\n\\n## ✨ ¿Conexión Seúl en Javier? – Del 6 al 8 de agosto de 2027\\n\\nDado que pocos jóvenes podrán viajar hasta Corea, ¡traemos la experiencia a casa! Del **6 al 8 de agosto de 2027** se plantea un encuentro especial en Javier, conectando en directo con la vigilia y la misa de clausura (adaptándonos a la diferencia horaria). \\n\\nInvitaremos también a las diócesis vecinas a compartir este momento único. El albergue de Javier nos espera con los brazos abiertos para vivir juntos este gran acontecimiento eclesial de verano. ¡No te lo pierdas!\\n\\n* * *\\n\\n### 📞 ¿Tienes dudas o necesitas más información?\\n\\nNo dudes en ponerte en contacto con nosotros o hablar directamente con el párroco.  \\n👉 [Llamar a la parroquia: 621 20 82 10](tel:621208210)",
             "id": "615b5296-3261-4d28-be6b-8010e3df210d",
             "tags": [],
             "title": "Información útil",
@@ -1013,15 +1180,31 @@
           "images": [
             "https://images.unsplash.com/photo-1776362714114-080ce9162138?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8M3x8YWRvcmF0aW9ufGVufDB8fHx8MTc5MjI1MzA3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Fernanda%20Batzibal"
           ],
-          "location": [
-            "27cb795e-8b34-4559-9731-88ccd3e34104"
-          ],
+          "location": [],
           "rrule": [],
           "times": "",
-          "title": "Adoración al Santísimo"
+          "title": ""
         },
         "id": "adoration",
         "label": "Adoración al Santísimo",
+        "pageMode": "type",
+        "sections": []
+      },
+      {
+        "calendar": "",
+        "defaults": {
+          "date": [],
+          "description": "",
+          "images": [
+            "https://images.unsplash.com/photo-1621621667797-e06afc217fb0?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjJ8fENvdXBsZXxlbnwwfHx8fDE3OTMzNzQ3MjB8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Jonathan%20Borba"
+          ],
+          "location": [],
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "id": "0e672811-5413-421d-90c5-3b94cdc889c5",
+        "label": "Novios y matrimonios",
         "pageMode": "type",
         "sections": []
       }
@@ -1062,22 +1245,14 @@
         "geo": "43.233558, -1.637321",
         "id": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Etxalar.jpg/250px-Etxalar.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Errota_Etxalarren.jpg/250px-Errota_Etxalarren.jpg?photographer=Uranzu",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bidasoa_Tximista_erreka_Etxalar_2_20170917_182715.jpg/250px-Bidasoa_Tximista_erreka_Etxalar_2_20170917_182715.jpg?photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bidasoa_Tximista_erreka_Etxalar_3_20170917_182639.jpg/250px-Bidasoa_Tximista_erreka_Etxalar_3_20170917_182639.jpg?photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Karmen_Etxalarkoa_ibilbidea_02.jpg/250px-Karmen_Etxalarkoa_ibilbidea_02.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Karmen_Etxalarkoa_ibilbidea_03.jpg/250px-Karmen_Etxalarkoa_ibilbidea_03.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Karmen_Etxalarkoa_ibilbidea_01.jpg/250px-Karmen_Etxalarkoa_ibilbidea_01.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karmen_Etxalarkoa_ibilbidea_04.jpg/250px-Karmen_Etxalarkoa_ibilbidea_04.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Karmen_Etxalarkoa_ibilbidea_05.jpg/250px-Karmen_Etxalarkoa_ibilbidea_05.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Karmen_Etxalarkoa_ibilbidea_06.jpg/250px-Karmen_Etxalarkoa_ibilbidea_06.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karmen_Etxalarkoa_ibilbidea_07.jpg/250px-Karmen_Etxalarkoa_ibilbidea_07.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Karmen_Etxalarkoa_ibilbidea_08.jpg/250px-Karmen_Etxalarkoa_ibilbidea_08.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Karmen_Etxalarkoa_ibilbidea_09.jpg/250px-Karmen_Etxalarkoa_ibilbidea_09.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eusebio_Etxalarkoa_sortetxea.jpg/250px-Eusebio_Etxalarkoa_sortetxea.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Teodoro_Arburua_sortetxea_1.jpg/250px-Teodoro_Arburua_sortetxea_1.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Teodoro_Arburua_sortetxea_2.jpg/250px-Teodoro_Arburua_sortetxea_2.jpg"
+          "https://data.parroquia.app/bidasoa/media-1000021947-f4e1fc26.webp",
+          "https://data.parroquia.app/bidasoa/media-1000021967-96962508.webp",
+          "https://data.parroquia.app/bidasoa/media-1000021975-06d5dbb2.webp",
+          "https://data.parroquia.app/bidasoa/media-1000022003-29266aa0.webp",
+          "https://data.parroquia.app/bidasoa/media-1000021971-0ba5e1e6.webp",
+          "https://data.parroquia.app/bidasoa/media-1000021967-96962508.webp",
+          "https://data.parroquia.app/bidasoa/media-1000021951-01c11507.webp",
+          "https://data.parroquia.app/bidasoa/media-1000021947-f4e1fc26.webp"
         ],
         "name": "Etxalar",
         "sections": [],
@@ -1363,6 +1538,87 @@
         "name": "Gaztelu",
         "sections": [],
         "tags": []
+      },
+      {
+        "address": "Koskontako Bidea, 8, 31770, Lesaka, Navarra",
+        "createPage": false,
+        "geo": "43.249776, -1.700694",
+        "id": "72483e11-7864-4584-ad36-f7f9e337f3d3",
+        "images": [],
+        "name": "Residencia Andra Mari (Lesaka)",
+        "sections": []
+      },
+      {
+        "address": "Calle Zarandia, 17, 31770, Lesaka, Navarra",
+        "createPage": true,
+        "geo": "43.246837, -1.701216",
+        "id": "e3fd5522-5935-4c84-a0af-2a7099735927",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iglesia_de_Lesaca%2C_Navarra._-_panoramio.jpg/250px-Iglesia_de_Lesaca%2C_Navarra._-_panoramio.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lesaka_-_panoramio.jpg/250px-Lesaka_-_panoramio.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Zabaleta_dorretxea.jpg/250px-Zabaleta_dorretxea.jpg?photographer=Xabier_Ca%25C3%25B1as",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bikarioenea.jpg/250px-Bikarioenea.jpg?photographer=Pcm%26amp%3Baction%3Dedit%26amp%3Bredlink%3D1",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lesaka_Inauteriak_Zakuzarrak_2023_03.jpg/250px-Lesaka_Inauteriak_Zakuzarrak_2023_03.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lesaka_Inauteriak_Zakuzarrak_2023_07.jpg/250px-Lesaka_Inauteriak_Zakuzarrak_2023_07.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Gurutzea_%28Zarandia_16%29.jpg/250px-Gurutzea_%28Zarandia_16%29.jpg?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Matxinbeltzenea.jpg/250px-Matxinbeltzenea.jpg?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Zaldarriaga.jpg/250px-Zaldarriaga.jpg?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Juanamenea.png/250px-Juanamenea.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lurriztenea.png/250px-Lurriztenea.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alde_Zaharra.png/250px-Alde_Zaharra.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sastri%C3%B1enea.png/250px-Sastri%C3%B1enea.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oberenea.png/250px-Oberenea.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Katalinmotzenea.png/250px-Katalinmotzenea.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Urraba_Erreka.png/250px-Urraba_Erreka.png?photographer=Josi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Antoiu_22.png/250px-Antoiu_22.png?photographer=Josi"
+        ],
+        "name": "Lesaka",
+        "sections": []
+      },
+      {
+        "address": "Bera, 31780, Bera, Navarra",
+        "createPage": false,
+        "geo": "43.275674, -1.652702",
+        "id": "30445ab2-db18-42c6-8dcd-6ab6a6ed0d95",
+        "images": [],
+        "name": "Nuestra Señora los Dolores (Bera)",
+        "sections": []
+      },
+      {
+        "address": "Calle Kanttonberri, 14, 31780, Bera, Navarra",
+        "createPage": false,
+        "geo": "43.281129, -1.683095",
+        "id": "17dc28af-49b0-45a1-8927-b28156aed907",
+        "images": [],
+        "name": "Residencia San José (Bera)",
+        "sections": []
+      },
+      {
+        "address": "Calle Legia, 20, 31780, Bera, Navarra",
+        "createPage": true,
+        "geo": "43.281666, -1.684460",
+        "id": "1e6eabb6-8f3e-401e-ac9a-5b229a01844f",
+        "images": [],
+        "name": "Sagrado Corazón (Bera)",
+        "sections": []
+      },
+      {
+        "address": "Altzate Karrika, 10, 31780, Bera, Navarra",
+        "createPage": true,
+        "geo": "43.281521, -1.680343",
+        "id": "1cdf8cd1-2b17-4a93-a926-5614827034ae",
+        "images": [],
+        "name": "Bera",
+        "sections": []
+      },
+      {
+        "address": "Lesaka, 31770, Lesaka, Navarra",
+        "createPage": false,
+        "geo": "43.274391, -1.769521",
+        "id": "2b45c1e1-e5e2-447f-bf1c-00ddd3120463",
+        "images": [],
+        "name": "San Antón Baseliza (Lesaka)",
+        "sections": []
       }
     ],
     "social": [
@@ -1429,7 +1685,7 @@
           {
             "audio": false,
             "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
-            "images": true,
+            "images": false,
             "readings": false,
             "tags": [],
             "title": "Eguneroko ebangelioa",
