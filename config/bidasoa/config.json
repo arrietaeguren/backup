@@ -1660,7 +1660,7 @@
         "protected": "Portada",
         "sections": [
           {
-            "filter": "!dates:empty&byday:empty",
+            "filter": "!dates:empty&byday:empty&withinHorizon",
             "id": "0d13ab2f-dde4-4e76-ba5a-4de30063ede4",
             "ordering": "",
             "tags": [],
