@@ -2191,8 +2191,10 @@
     "list": [
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "Beti-betiko zoriona gure hileri emon, Jauna; betiko argi zabalean zure argiak argi daizan.",
           "duration": 45,
@@ -2211,14 +2213,15 @@
         "id": "funeral",
         "label": "Hiletak",
         "name": "funeral",
-        "pageMode": "",
         "protected": "funeral",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -2235,14 +2238,15 @@
         "id": "mass",
         "label": "Meza",
         "name": "mass",
-        "pageMode": "",
         "protected": "eucaristía",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -2257,14 +2261,15 @@
         "id": "catechism",
         "label": "Katekesia",
         "name": "catechism",
-        "pageMode": "none",
         "protected": "catequesis",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 60,
@@ -2280,12 +2285,13 @@
         "icon": "mdi:cross-celtic",
         "id": "59bd1c60-8644-45b0-9f36-93ae90d4bd6d",
         "label": "Adoración al Santísimo",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -2300,12 +2306,13 @@
         },
         "id": "visita-san-miguel",
         "label": "Visita San Miguel",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-01-06",
           "description": "",
           "images": [
@@ -2320,12 +2327,13 @@
         },
         "id": "epifania",
         "label": "Erregeen eguna Epifania",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-02-18",
           "description": "",
           "images": [
@@ -2340,12 +2348,13 @@
         },
         "id": "miercoles-ceniza",
         "label": "Miércoles de ceniza",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-04-02",
           "description": "Última Cena",
           "images": [
@@ -2360,12 +2369,13 @@
         },
         "id": "jueves-santo",
         "label": "Jueves Santo",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-04-03",
           "description": "Crucifixión y muerte del Señor",
           "images": [
@@ -2380,12 +2390,13 @@
         },
         "id": "viernes-santo",
         "label": "Viernes Santo",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-04-04",
           "description": "",
           "images": [
@@ -2400,12 +2411,13 @@
         },
         "id": "vigilia-pascual",
         "label": "Vigilia Pascual",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -2420,12 +2432,13 @@
         },
         "id": "confesiones-cuaresma",
         "label": "Confesiones Cuaresma",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-08-15",
           "description": "",
           "images": [],
@@ -2438,12 +2451,13 @@
         },
         "id": "asuncion",
         "label": "Asunción de la Santísima Virgen María",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-01-01",
           "description": "",
           "images": [],
@@ -2456,12 +2470,13 @@
         },
         "id": "urte-berria",
         "label": "Urte berria",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-03-14",
           "description": "",
           "images": [],
@@ -2474,12 +2489,13 @@
         },
         "id": "xabierraldiak",
         "label": "Xabierraldiak",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-03-28",
           "description": "",
           "images": [],
@@ -2492,12 +2508,13 @@
         },
         "id": "encuentro-cuaresma",
         "label": "Encuentro de cuaresma",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-03-29",
           "description": "",
           "images": [],
@@ -2510,12 +2527,13 @@
         },
         "id": "domingo-ramos",
         "label": "Domingo de Ramos",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-04-24",
           "description": "",
           "images": [],
@@ -2528,12 +2546,13 @@
         },
         "id": "oracion-vocaciones",
         "label": "Oración por las vocaciones",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "2026-09-06",
           "description": "",
           "images": [],
@@ -2546,12 +2565,13 @@
         },
         "id": "gurutze-eguna",
         "label": "Gurutze Eguna",
-        "pageMode": "",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [],
@@ -2564,7 +2584,6 @@
         },
         "id": "santas-y-santos-de-dios",
         "label": "Santas y santos de Dios",
-        "pageMode": "",
         "sections": []
       }
     ]

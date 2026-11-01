@@ -274,6 +274,7 @@
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
+          "createPage": false,
           "date": "",
           "description": [],
           "duration": null,
@@ -743,6 +744,7 @@
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         },
         {
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": null,
@@ -920,7 +922,7 @@
             "biweekly"
           ],
           "times": "20:00",
-          "title": "Alabanza",
+          "title": "Alabanza carismática",
           "type": "adoration"
         }
       ],
@@ -938,8 +940,10 @@
     "list": [
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "Descanse en paz",
           "duration": 45,
@@ -959,14 +963,15 @@
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
-        "pageMode": "",
         "protected": "funeral",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -984,14 +989,15 @@
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
-        "pageMode": "none",
         "protected": "eucaristía",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -1009,14 +1015,15 @@
         "id": "confessions",
         "label": "Confesiones",
         "name": "confessions",
-        "pageMode": "",
         "protected": "confesiones",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -1034,13 +1041,14 @@
         "id": "catechism",
         "label": "Catequesis primera comunión",
         "name": "catechism",
-        "pageMode": "type",
         "protected": "catequesis",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
+          "createPage": true,
           "date": "",
           "description": "",
           "duration": null,
@@ -1054,12 +1062,13 @@
         "icon": "heroicons-solid:user-group",
         "id": "b03fd1b0-b491-47fd-84ae-8ab81805009c",
         "label": "Grupos",
-        "pageMode": "event",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -1078,7 +1087,6 @@
         "icon": "",
         "id": "2b212345-ff31-4253-8c6b-b6ddb7957c66",
         "label": "Escuela de teología",
-        "pageMode": "type",
         "sections": [
           {
             "html": "![Escuela Diocesana de Teología y Pastoral Pedro Axular](https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp)\\n\\n### Escuela Diocesana de Teología y Pastoral \\\"Pedro Axular\\\" (Baztan-Bidasoa)\\n**Curso 2026-2027**\\n\\nEn este curso 2026-2027 queremos seguir profundizando en los contenidos fundamentales de la fe cristiana, del mensaje cristiano que queremos vivir y comunicar.\\n\\nDurante este curso profundizaremos en **el misterio de Cristo**, centro de la fe cristiana, desde diferentes perspectivas: teología bíblica, espiritualidad, teología dogmática, liturgia...\\n\\n---\\n\\n### 📋 Información práctica\\n* **Período de matrícula:** del 5 al 23 de octubre\\n* **Matrícula:** Gratuita\\n* **Número mínimo de alumnos:** 10\\n* **Días de clase:** 24 de octubre, 28 de noviembre, 19 de diciembre de 2026 y 30 de enero de 2027\\n* **Horario:** Sábados, de 10:00 a 11:00 y de 11:30 a 12:30 horas\\n* **Lugar:** Doneztebe/Santesteban (Casa parroquial)\\n\\n### 📞 Inscripciones y contacto\\nPara apuntarse o solicitar más información:\\n* **Correo electrónico:** jonatanruiz@csetpamplona.com\\n* **Teléfono (Jonatan Ruiz):** 649 661 401\\n\\n*Organizan: Instituto Superior de Ciencias Religiosas \\\"San Francisco Javier\\\" y Arzobispado de Pamplona y Tudela (Vicaría General).*",
@@ -1091,7 +1099,9 @@
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -1106,7 +1116,6 @@
         "icon": "",
         "id": "d29abbbb-7ec5-4905-aba3-699a097691e0",
         "label": "Gurekin etorri",
-        "pageMode": "type",
         "sections": [
           {
             "html": "![](https://data.parroquia.app/bidasoa/media-1000019299-12b8196e.webp)\\n\\n### Gurekin etorri 🎒✨\\n\\n¡Nos ponemos en camino! Este curso tendremos de una salida mensual con jóvenes y adolescentes para disfrutar, convivir y compartir la fe juntos.\\n\\n### 🚌 Información práctica y transporte\\n\\n*   **Detalles de las actividades:** Iremos ampliando y publicando información más detallada sobre cada actividad, horarios específicos y requisitos conforme se acerque la fecha de cada salida.\\n*   **Transporte:** Dependiendo del plan, el destino y el número de participantes, los desplazamientos se realizarán en **autobús** o en **coches particulares**. En este segundo caso, **se solicitará y agradecerá enormemente la colaboración de las familias y padres** con los vehículos.\\n\\n* * *\\n\\n## 📅 Próximo evento: JMJ en la Diócesis\\n\\n![](https://data.parroquia.app/bidasoa/media-1000021569-8240602a.webp)\\n\\n_«Tened valor: yo he vencido al mundo»_ (Jn 16,33)\\n\\n*   **Fecha:** Sábado 7 de noviembre de 2026\\n*   **Horario:** De 17:30 a 23:30 h.\\n*   **Lugar:** Seminario Diocesano de Pamplona\\n\\n### 🌟 ¿En qué consiste?\\n\\nViviremos la Jornada Mundial de la Juventud (JMJ) sin salir de nuestra diócesis. Habrá dos encuentros adaptados por edades (de 13 a 17 años y de 18 a 30 años o desde 2.º de Bachillerato), cada uno en su espacio. En ambos disfrutaremos de:\\n\\n*   Espectáculo y testimonios (Paul Ponce y su familia).\\n*   Taller con Diego Blanco (para mayores) o _Escape Room_ (para los más jóvenes).\\n*   Concierto a cargo de **Hakuna Group Music**.\\n*   Cena compartida y momentos de convivencia.\\n*   Adoración al Santísimo presidida por nuestro Sr. Arzobispo.\\n\\n👉 **Más información e inscripciones:** [Consulta la web oficial de Deleju Navarra e inscríbete aquí](https://delejunavarra.es/blog/jmj-en-la-diocesis/) _(Plazo hasta el 31 de octubre · Precio: 5 € con cena incluida)._\\n\\n* * *\\n\\n## 🥾 Peregrinación Diocesana a Santiago – PEJ 2027\\n\\nCon motivo del Año Santo Compostelano, ¡nos vamos en peregrinación! Del **11 al 20 de julio de 2027**, la Delegación organiza la participación diocesana en la Peregrinación Europea de Jóvenes (PEJ) en Santiago. Para compaginarlo al máximo, este es el emocionante itinerario propuesto:\\n\\n*   **11 de julio:** Salida desde Pamplona hacia Valladolid (16:30 h).\\n*   **12 de julio:** Parada en Fátima.\\n*   **13 de julio:** Fátima – Vila Nova de Cerveira – Tui (Etapa a pie de 19 km).\\n*   **14 de julio:** Tui – Redondela – Pontevedra (Etapa a pie de 20 km).\\n*   **15 de julio:** Pontevedra – Faramello – Santiago (Etapa a pie de 15 km).\\n*   **16 al 18 de julio:** Participación en la PEJ (acogida, vigilia y misa).\\n*   **19 de julio:** Convivencia para compartir lo vivido en A Coruña (o lugar por determinar).\\n*   **20 de julio:** Regreso a Pamplona.\\n\\n🌟 **Opciones e inscripciones:** \\nHabrá opción de inscribirse solo a los días del encuentro en Santiago para quienes no puedan hacer todo el recorrido. La inscripción se abrirá antes de final de año, una vez cerrados transporte y manutención. ¡Anímate a vivir esta experiencia inolvidable! (La Delegación también ofrece apoyo a los grupos que prefieran peregrinar por su cuenta).\\n\\n* * *\\n\\n## ✨ ¿Conexión Seúl en Javier? – Del 6 al 8 de agosto de 2027\\n\\nDado que pocos jóvenes podrán viajar hasta Corea, ¡traemos la experiencia a casa! Del **6 al 8 de agosto de 2027** se plantea un encuentro especial en Javier, conectando en directo con la vigilia y la misa de clausura (adaptándonos a la diferencia horaria). \\n\\nInvitaremos también a las diócesis vecinas a compartir este momento único. El albergue de Javier nos espera con los brazos abiertos para vivir juntos este gran acontecimiento eclesial de verano. ¡No te lo pierdas!\\n\\n* * *\\n\\n### 📞 ¿Tienes dudas o necesitas más información?\\n\\nNo dudes en ponerte en contacto con nosotros o hablar directamente con el párroco.  \\n👉 [Llamar a la parroquia: 621 20 82 10](tel:621208210)",
@@ -1134,7 +1143,9 @@
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -1149,12 +1160,13 @@
         "icon": "heroicons-solid:heart",
         "id": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b",
         "label": "Cáritas",
-        "pageMode": "type",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -1169,12 +1181,13 @@
         "icon": "heroicons-solid:users",
         "id": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b",
         "label": "Helduen katequesia",
-        "pageMode": "type",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [
@@ -1187,12 +1200,13 @@
         },
         "id": "adoration",
         "label": "Adoración al Santísimo",
-        "pageMode": "type",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": [],
           "description": "",
           "images": [
@@ -1204,8 +1218,7 @@
           "title": ""
         },
         "id": "0e672811-5413-421d-90c5-3b94cdc889c5",
-        "label": "Novios y matrimonios",
-        "pageMode": "type",
+        "label": "Bikoteei eta ezkongaiei bidelaguntza",
         "sections": []
       }
     ]
@@ -1646,6 +1659,14 @@
         "image": "",
         "protected": "Portada",
         "sections": [
+          {
+            "filter": "!dates:empty&byday:empty",
+            "id": "0d13ab2f-dde4-4e76-ba5a-4de30063ede4",
+            "ordering": "",
+            "tags": [],
+            "title": "Próximas celebraciones",
+            "type": "calendar"
+          },
           {
             "filter": "mass",
             "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",

@@ -22,8 +22,11 @@
   "event-types": {
     "list": [
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "Descanse en paz",
           "duration": 45,
@@ -40,11 +43,15 @@
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
-        "protected": "funeral"
+        "protected": "funeral",
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -59,11 +66,15 @@
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
-        "protected": "eucaristía"
+        "protected": "eucaristía",
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -78,11 +89,15 @@
         "id": "confessions",
         "label": "Confesiones",
         "name": "confessions",
-        "protected": "confesiones"
+        "protected": "confesiones",
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -97,11 +112,15 @@
         "id": "catechism",
         "label": "Catequesis",
         "name": "catechism",
-        "protected": "catequesis"
+        "protected": "catequesis",
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": null,
@@ -115,7 +134,8 @@
         "icon": "ph:star-four",
         "id": "special",
         "label": "Especial",
-        "protected": "especial"
+        "protected": "especial",
+        "sections": []
       }
     ]
   },

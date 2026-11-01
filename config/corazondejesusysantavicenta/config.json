@@ -530,8 +530,10 @@
     "list": [
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "Descanse en paz",
           "duration": 45,
@@ -548,14 +550,15 @@
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
-        "pageMode": "",
         "protected": "funeral",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -570,14 +573,15 @@
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
-        "pageMode": "",
         "protected": "eucaristía",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": true,
           "date": "2026-09-20",
           "description": "",
           "duration": null,
@@ -591,12 +595,13 @@
         "icon": "heroicons-solid:user-group",
         "id": "e4c6e1da-d183-473c-8a0d-316420fe9490",
         "label": "Grupos",
-        "pageMode": "event",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": true,
         "defaults": {
+          "createPage": false,
           "date": "",
           "description": "",
           "images": [],
@@ -607,7 +612,6 @@
         },
         "id": "94950a7e-729a-43c3-872c-9821766e130b",
         "label": "Catequesis infancia y primera comunión",
-        "pageMode": "type",
         "sections": []
       }
     ]
