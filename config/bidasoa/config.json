@@ -1255,7 +1255,7 @@
       {
         "address": "Calle Principal, 31760 Etxalar, Navarra",
         "createPage": true,
-        "geo": "43.233558, -1.637321",
+        "geo": "43.23381155615313, -1.6372695666153412",
         "id": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
         "images": [
           "https://data.parroquia.app/bidasoa/media-1000021947-f4e1fc26.webp",
@@ -1274,7 +1274,7 @@
       {
         "address": "Calle Mayor, 31754 Ezkurra, Navarra",
         "createPage": true,
-        "geo": "43.0851129, -1.8248002",
+        "geo": "43.08528212348558, -1.8253777633662895",
         "id": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ezkurrako_Udala_1.jpg/250px-Ezkurrako_Udala_1.jpg?photographer=Lector_d_Wiki",
@@ -1290,7 +1290,7 @@
       {
         "address": "Calle Principal, 31746 Zubieta, Navarra",
         "createPage": true,
-        "geo": "43.1249707, -1.742525",
+        "geo": "43.12401418207012, -1.7419980945942872",
         "id": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Zubieta_%281%29.jpg/250px-Zubieta_%281%29.jpg",
@@ -1384,13 +1384,10 @@
         "geo": "43.1333377, -1.6277938",
         "id": "026c5627-8a62-4c1e-8623-9f085750d007",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Donamaria%2C_Malerreka_09.jpg/250px-Donamaria%2C_Malerreka_09.jpg?photographer=Theklan",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bertizaranako_Udala_1.jpg/250px-Bertizaranako_Udala_1.jpg?photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bertizaranako_Udala_2.jpg/250px-Bertizaranako_Udala_2.jpg?photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bertizaranako_Udala_3.jpg/250px-Bertizaranako_Udala_3.jpg?photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483698.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483698.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483961.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483961.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3f/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484489.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/3/38/Bertizaranako_Udala_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Lector+d+Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d3/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29"
         ],
         "name": "Narbarte",
         "sections": [],
@@ -1462,13 +1459,12 @@
         "tags": []
       },
       {
-        "address": "Beintza-Labaien, 31753 Beintza-Labaien, Navarra",
+        "address": "Udaletxeko Karrika, s/n, 31753 Beintza-Labaien, Navarre",
         "createPage": true,
         "geo": "43.0858232, -1.7504043",
         "id": "556ab091-756f-40e4-9220-7596c876e2ad",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sunprinu.jpg/250px-Sunprinu.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saldiasko_Udala_1.jpg/250px-Saldiasko_Udala_1.jpg"
+          "https://data.parroquia.app/bidasoa/media-1000022483-70f42228.webp"
         ],
         "name": "Labaien",
         "sections": [],
@@ -1504,9 +1500,6 @@
         "geo": "43.1122222, -1.6727059",
         "id": "ea0a3610-a8de-47eb-b042-de12844e3777",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Donamaria%2C_Malerreka_03.jpg/250px-Donamaria%2C_Malerreka_03.jpg?photographer=Theklan",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Donamaria%2C_Malerreka_02.jpg/250px-Donamaria%2C_Malerreka_02.jpg?photographer=Theklan",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Donamaria%2C_Malerreka_01.jpg/250px-Donamaria%2C_Malerreka_01.jpg?photographer=Theklan",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Donamaria%2C_Malerreka_05.jpg/250px-Donamaria%2C_Malerreka_05.jpg?photographer=Theklan",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Donamaria%2C_Malerreka_04.jpg/250px-Donamaria%2C_Malerreka_04.jpg?photographer=Theklan",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Donamaria%2C_Malerreka_06.jpg/250px-Donamaria%2C_Malerreka_06.jpg?photographer=Theklan",
