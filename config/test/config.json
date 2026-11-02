@@ -621,8 +621,10 @@
     "list": [
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "Descanse en paz",
           "duration": 45,
@@ -632,6 +634,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -639,14 +642,15 @@
         "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
-        "pageMode": "",
         "protected": "funeral",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -654,6 +658,7 @@
           "images": [],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Eucaristía"
         },
@@ -661,14 +666,15 @@
         "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
-        "pageMode": "",
         "protected": "eucaristía",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -676,6 +682,7 @@
           "images": [],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -683,14 +690,15 @@
         "id": "confessions",
         "label": "Confesiones",
         "name": "confessions",
-        "pageMode": "",
         "protected": "confesiones",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -698,6 +706,7 @@
           "images": [],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Catequesis"
         },
@@ -705,14 +714,15 @@
         "id": "catechism",
         "label": "Catequesis",
         "name": "catechism",
-        "pageMode": "",
         "protected": "catequesis",
         "sections": []
       },
       {
         "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": null,
@@ -720,13 +730,13 @@
           "images": [],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
         "icon": "ph:star-four",
         "id": "special",
         "label": "Especial",
-        "pageMode": "",
         "protected": "especial",
         "sections": []
       }

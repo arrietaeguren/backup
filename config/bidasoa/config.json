@@ -48,6 +48,7 @@
           "type": "mass"
         },
         {
+          "createPage": false,
           "date": "",
           "description": [],
           "duration": null,
@@ -258,6 +259,7 @@
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
+          "createPage": false,
           "date": "",
           "description": [],
           "duration": null,
@@ -269,6 +271,7 @@
           "rrule": [
             "sa"
           ],
+          "sections": [],
           "times": "",
           "title": "Grupo de liturgia",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
@@ -284,6 +287,7 @@
           ],
           "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": "",
+          "sections": [],
           "times": "",
           "title": "Cursillo pre-matrimonial",
           "type": "0e672811-5413-421d-90c5-3b94cdc889c5"
@@ -315,6 +319,7 @@
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
           "rrule": "",
+          "sections": [],
           "times": "",
           "title": "Mercadillo solidario",
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
@@ -754,6 +759,7 @@
           "rrule": [
             "th"
           ],
+          "sections": [],
           "times": "19:30",
           "title": "Adoración al Santísimo",
           "type": "adoration"
@@ -955,6 +961,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -981,6 +988,7 @@
           ],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Eucaristía"
         },
@@ -1007,6 +1015,7 @@
           ],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -1033,6 +1042,7 @@
           ],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Catequesis primera comunión"
         },
@@ -1055,6 +1065,7 @@
           "images": [],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -1080,6 +1091,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "10:00",
           "title": ""
         },
@@ -1109,6 +1121,7 @@
           ],
           "location": [],
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -1153,6 +1166,7 @@
           ],
           "location": [],
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -1174,6 +1188,7 @@
           ],
           "location": [],
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Helduen katequesia"
         },
@@ -1195,6 +1210,7 @@
           ],
           "location": [],
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -1214,6 +1230,7 @@
           ],
           "location": [],
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
