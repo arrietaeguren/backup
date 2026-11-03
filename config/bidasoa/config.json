@@ -243,23 +243,25 @@
           "type": "mass"
         },
         {
+          "createPage": true,
           "date": "",
           "description": [],
           "duration": null,
           "id": "evt-c734f597-8a91-47bc-b45a-0eec57fd1628",
           "images": [
-            "https://images.unsplash.com/photo-1496516348160-24b35a31856f?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjB8fFlvdXRofGVufDB8fHx8MTc5MjE2MTU4Nnww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=James%20Baldwin"
+            "https://images.unsplash.com/photo-1570585703502-1375b93e7a97?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MzB8fFRlZW5hZ2VyfGVufDB8fHx8MTc5MzY1NjkyNHww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Alex%20Guillaume"
           ],
           "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "fr"
           ],
+          "sections": [],
           "times": "20:00",
           "title": "Catequesis de confirmación",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
-          "createPage": false,
+          "createPage": true,
           "date": "",
           "description": [],
           "duration": null,
@@ -325,6 +327,7 @@
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         },
         {
+          "createPage": true,
           "date": "",
           "description": [],
           "duration": null,
@@ -336,6 +339,7 @@
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
           "rrule": "",
+          "sections": [],
           "times": "",
           "title": "Formación para catequistas",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
@@ -1038,7 +1042,7 @@
           "duration": 45,
           "image": "",
           "images": [
-            "https://images.unsplash.com/photo-1548705085-101177834f47?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjZ8fHlvdXRofGVufDB8fHx8MTc5MTk4OTIwNXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Timon%20Studler"
+            "https://images.pexels.com/photos/30010819/pexels-photo-30010819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Nico+Rueda&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fyoung-girl-s-first-communion-ceremony-30010819%2F"
           ],
           "location": "",
           "rrule": [],
