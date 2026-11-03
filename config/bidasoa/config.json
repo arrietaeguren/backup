@@ -261,7 +261,7 @@
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
-          "createPage": true,
+          "createPage": false,
           "date": "",
           "description": [],
           "duration": null,
@@ -276,7 +276,7 @@
           "sections": [],
           "times": "",
           "title": "Grupo de liturgia",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+          "type": "b2df16fb-dfc0-4157-8551-89c5f00c6563"
         },
         {
           "createPage": false,
@@ -934,6 +934,19 @@
           "times": "20:00",
           "title": "Alabanza carismática",
           "type": "adoration"
+        },
+        {
+          "createPage": false,
+          "date": "",
+          "description": "",
+          "id": "evt-d8861c5e-9ba5-4497-8452-388db14539e2",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Coros parroquiales",
+          "type": "b2df16fb-dfc0-4157-8551-89c5f00c6563"
         }
       ],
       "urls": []
@@ -1239,7 +1252,27 @@
           "title": ""
         },
         "id": "0e672811-5413-421d-90c5-3b94cdc889c5",
-        "label": "Bikoteei eta ezkongaiei bidelaguntza",
+        "label": "Bikoteei eta ezkongaiei",
+        "sections": []
+      },
+      {
+        "calendar": "",
+        "createPage": true,
+        "defaults": {
+          "createPage": false,
+          "date": [],
+          "description": "",
+          "images": [
+            "https://images.pexels.com/photos/36634161/pexels-photo-36634161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=atelierbyvineeth+.+.+.&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fopen-prayer-book-in-irish-church-interior-36634161%2F"
+          ],
+          "location": [],
+          "rrule": [],
+          "sections": [],
+          "times": "",
+          "title": ""
+        },
+        "id": "b2df16fb-dfc0-4157-8551-89c5f00c6563",
+        "label": "Liturgia",
         "sections": []
       }
     ]
