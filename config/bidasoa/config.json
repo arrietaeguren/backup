@@ -258,7 +258,7 @@
           "sections": [],
           "times": "20:00",
           "title": "Catequesis de confirmación",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+          "type": "f86b481d-be06-48e4-84d8-1c4368e16080"
         },
         {
           "createPage": false,
@@ -288,13 +288,16 @@
             "https://images.unsplash.com/photo-1606800052052-a08af7148866?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mnx8V2VkZGluZ3xlbnwwfHx8fDE3OTMzNTEyMTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Sandy%20Millar"
           ],
           "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
-          "rrule": "",
+          "rrule": [
+            "sa"
+          ],
           "sections": [],
           "times": "",
           "title": "Cursillo pre-matrimonial",
           "type": "0e672811-5413-421d-90c5-3b94cdc889c5"
         },
         {
+          "createPage": true,
           "date": "",
           "description": [],
           "duration": null,
@@ -304,6 +307,7 @@
           ],
           "location": "",
           "rrule": "",
+          "sections": [],
           "times": "",
           "title": "Visitas a nuestros mayores",
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
@@ -327,7 +331,7 @@
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         },
         {
-          "createPage": true,
+          "createPage": false,
           "date": "",
           "description": [],
           "duration": null,
@@ -342,7 +346,7 @@
           "sections": [],
           "times": "",
           "title": "Formación para catequistas",
-          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+          "type": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b"
         },
         {
           "date": "",
@@ -947,6 +951,54 @@
           "times": "",
           "title": "Coros parroquiales",
           "type": "b2df16fb-dfc0-4157-8551-89c5f00c6563"
+        },
+        {
+          "createPage": false,
+          "date": "",
+          "description": "Dos días de escapada para redescubrir el amor conyugal",
+          "id": "evt-bafdbfc6-5a86-4dc5-a36c-0fa903664cd8",
+          "images": "",
+          "location": [
+            "Javier",
+            "Donosti"
+          ],
+          "rrule": [
+            "yearly"
+          ],
+          "sections": [],
+          "times": "",
+          "title": "Retiros amor conyugal",
+          "type": "0e672811-5413-421d-90c5-3b94cdc889c5"
+        },
+        {
+          "createPage": false,
+          "date": "",
+          "description": "",
+          "id": "evt-4ea2775e-4e72-48d4-b0d1-4fba1a732218",
+          "images": "",
+          "location": [
+            "1cdf8cd1-2b17-4a93-a926-5614827034ae"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Banco alimentos",
+          "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
+        },
+        {
+          "createPage": false,
+          "date": "",
+          "description": "Recogida y distribución de ropa",
+          "id": "evt-cae87ce4-6b79-458b-b447-153309ee9126",
+          "images": "",
+          "location": [
+            "1cdf8cd1-2b17-4a93-a926-5614827034ae"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Ropa solidaria",
+          "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         }
       ],
       "urls": []
@@ -1069,27 +1121,6 @@
         "label": "Catequesis primera comunión",
         "name": "catechism",
         "protected": "catequesis",
-        "sections": []
-      },
-      {
-        "calendar": "",
-        "createPage": false,
-        "defaults": {
-          "createPage": true,
-          "date": "",
-          "description": "",
-          "duration": null,
-          "images": [],
-          "location": "",
-          "rrule": [],
-          "sections": [],
-          "times": "",
-          "title": ""
-        },
-        "extra": "",
-        "icon": "heroicons-solid:user-group",
-        "id": "b03fd1b0-b491-47fd-84ae-8ab81805009c",
-        "label": "Grupos",
         "sections": []
       },
       {
@@ -1272,7 +1303,27 @@
           "title": ""
         },
         "id": "b2df16fb-dfc0-4157-8551-89c5f00c6563",
-        "label": "Liturgia",
+        "label": "Música y liturgia",
+        "sections": []
+      },
+      {
+        "calendar": "",
+        "createPage": false,
+        "defaults": {
+          "createPage": false,
+          "date": [],
+          "description": "",
+          "images": [
+            "https://images.unsplash.com/photo-1570585703502-1375b93e7a97?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MzB8fFRlZW5hZ2VyfGVufDB8fHx8MTc5MzY1NjkyNHww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Alex%20Guillaume"
+          ],
+          "location": [],
+          "rrule": [],
+          "sections": [],
+          "times": "",
+          "title": ""
+        },
+        "id": "f86b481d-be06-48e4-84d8-1c4368e16080",
+        "label": "Catequesis confirmación",
         "sections": []
       }
     ]
@@ -1696,7 +1747,8 @@
       "Euskara:eu",
       "Castellano:es",
       "English:en",
-      "Français:fr"
+      "Français:fr",
+      "Català:ca"
     ],
     "list": [
       {
