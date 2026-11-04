@@ -307,7 +307,21 @@
           ],
           "location": "",
           "rrule": "",
-          "sections": [],
+          "sections": [
+            {
+              "elements": [
+                {
+                  "html": "Según necesidad",
+                  "id": "139efcd3-7a8c-44ef-8f3d-771445b4980b",
+                  "title": "Que días?"
+                }
+              ],
+              "id": "653dbb86-bf51-458e-a26e-3c4958b75d40",
+              "tags": [],
+              "title": "Preguntas frecuentes",
+              "type": "accordion"
+            }
+          ],
           "times": "",
           "title": "Visitas a nuestros mayores",
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
@@ -999,19 +1013,6 @@
           "times": "",
           "title": "Ropa solidaria",
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
-        },
-        {
-          "createPage": false,
-          "date": "",
-          "description": "",
-          "id": "evt-97325a3e-3b89-4f2b-80fe-7b175023e758",
-          "images": "",
-          "location": "",
-          "rrule": "",
-          "sections": [],
-          "times": "",
-          "title": "",
-          "type": "funeral"
         }
       ],
       "urls": []
@@ -1386,7 +1387,20 @@
           "https://data.parroquia.app/bidasoa/media-1000021947-f4e1fc26.webp"
         ],
         "name": "Etxalar",
-        "sections": [],
+        "sections": [
+          {
+            "action": "Donar",
+            "description": "Nuestra parroquia necesita un tejado nuevo",
+            "goal": 200000,
+            "id": "bda8ea14-8aa6-4a0b-862a-e11bb3294586",
+            "image": "https://data.parroquia.app/bidasoa/media-1000022003-29266aa0.webp",
+            "name": "Nuevo tejado",
+            "raised": 0,
+            "tags": [],
+            "title": "Auzolan",
+            "type": "fundraising"
+          }
+        ],
         "tags": []
       },
       {
