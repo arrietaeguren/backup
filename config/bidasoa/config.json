@@ -307,21 +307,7 @@
           ],
           "location": "",
           "rrule": "",
-          "sections": [
-            {
-              "elements": [
-                {
-                  "html": "Según necesidad",
-                  "id": "139efcd3-7a8c-44ef-8f3d-771445b4980b",
-                  "title": "Que días?"
-                }
-              ],
-              "id": "653dbb86-bf51-458e-a26e-3c4958b75d40",
-              "tags": [],
-              "title": "Preguntas frecuentes",
-              "type": "accordion"
-            }
-          ],
+          "sections": [],
           "times": "",
           "title": "Visitas a nuestros mayores",
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"

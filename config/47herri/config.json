@@ -2173,6 +2173,23 @@
           "times": "18:00",
           "title": "Maritxu Erro Telletxea",
           "type": "funeral"
+        },
+        {
+          "createPage": false,
+          "date": [
+            "2026-11-05"
+          ],
+          "description": "",
+          "id": "evt-50d0b06c-3352-41fb-bfc8-c55d1e9335ec",
+          "images": "",
+          "location": [
+            "6914c0d4-1751-4afc-beb1-530b85b4d03b"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "17:00",
+          "title": "Juana Olano Barriola",
+          "type": "funeral"
         }
       ],
       "urls": [
@@ -2206,6 +2223,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -2231,6 +2249,7 @@
           ],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Meza"
         },
@@ -2254,6 +2273,7 @@
           "images": [],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Katequesia"
         },
@@ -2279,6 +2299,7 @@
           ],
           "location": "",
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Adoración al Santísimo"
         },
@@ -2301,6 +2322,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Visita San Miguel"
         },
@@ -2322,6 +2344,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Erregeen eguna Epifania"
         },
@@ -2343,6 +2366,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Miércoles de ceniza"
         },
@@ -2364,6 +2388,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Jueves Santo"
         },
@@ -2385,6 +2410,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Viernes Santo"
         },
@@ -2406,6 +2432,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Vigilia Pascual"
         },
@@ -2427,6 +2454,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Confesiones Cuaresma"
         },
@@ -2446,6 +2474,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Asunción de la Santísima Virgen María"
         },
@@ -2465,6 +2494,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Urte berria"
         },
@@ -2484,6 +2514,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Xabierraldiak"
         },
@@ -2503,6 +2534,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Encuentro de cuaresma"
         },
@@ -2522,6 +2554,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Domingo de Ramos"
         },
@@ -2541,6 +2574,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Oración por las vocaciones"
         },
@@ -2560,6 +2594,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": "Gurutze Eguna"
         },
@@ -2579,6 +2614,7 @@
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": ""
         },
