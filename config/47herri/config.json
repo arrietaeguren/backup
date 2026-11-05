@@ -2190,6 +2190,23 @@
           "times": "17:00",
           "title": "Juana Olano Barriola",
           "type": "funeral"
+        },
+        {
+          "createPage": false,
+          "date": [
+            "2026-11-06"
+          ],
+          "description": "",
+          "id": "evt-8da675c7-cc23-4481-8e86-2220d90ca80d",
+          "images": "",
+          "location": [
+            "12eb0302-50fc-430a-b925-9be51cfde233"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "16:00",
+          "title": "José Echeverría Muguruza",
+          "type": "funeral"
         }
       ],
       "urls": [
