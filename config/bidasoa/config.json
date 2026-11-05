@@ -1014,6 +1014,25 @@
           "times": "",
           "title": "Udalekua",
           "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
+        },
+        {
+          "createPage": false,
+          "date": [
+            "2026-12-11"
+          ],
+          "description": "Charla sobre el sufrimiento como punto de encuentro con el Amor impartida por Juan Encio.",
+          "id": "evt-retiro-adviento-juan-encio",
+          "images": [
+            "https://data.parroquia.app/bidasoa/media-portada-desdeeldolor-rect5cznv400368jbibq9nt5f9kpt5etvpl97h12r4-08462397.webp"
+          ],
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": [],
+          "sections": [],
+          "times": "18:00",
+          "title": "Desde el dolor a ti grito",
+          "type": "retiro-adviento"
         }
       ],
       "urls": []
@@ -1340,6 +1359,36 @@
         "id": "f86b481d-be06-48e4-84d8-1c4368e16080",
         "label": "Catequesis confirmación",
         "sections": []
+      },
+      {
+        "calendar": "",
+        "createPage": true,
+        "defaults": {
+          "createPage": false,
+          "date": "",
+          "description": "Un tiempo de gracia y preparación con grandes ponentes e invitados especiales.",
+          "images": [
+            "https://images.pexels.com/photos/14745924/pexels-photo-14745924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Georg+Manfred+Heinlein&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fwax-candles-and-decorations-14745924%2F"
+          ],
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": [],
+          "sections": [],
+          "times": "",
+          "title": "Retiro de Adviento"
+        },
+        "id": "retiro-adviento",
+        "label": "Retiro de Adviento",
+        "sections": [
+          {
+            "html": "![Desde el dolor a ti grito](https://data.parroquia.app/bidasoa/media-portada-desdeeldolor-rect5cznv400368jbibq9nt5f9kpt5etvpl97h12r4-08462397.webp)\n\n### ¡Prepárate para el Adviento! 🌟\n\nEste Adviento en las parroquias del Bidasoa viviremos un retiro muy especial. Contaremos con **invitados especiales** que nos ayudarán a profundizar en nuestra fe y caminar hacia la Navidad con el corazón bien abierto.\n\n---\n\n### 📖 Conoce al autor y su libro: Juan Encio\n\nTendremos el inmenso placer de contar con **Juan Encio**, autor del libro **\"Desde el dolor a ti grito: El sufrimiento como punto de encuentro con el Amor\"** (Editorial Nueva Eva).\n\n* **Sobre el libro:** Una obra profunda y luminosa que aborda el misterio del sufrimiento humano no como un callejón sin salida, sino como el lugar privilegiado donde Dios sale a nuestro encuentro para llenarnos de Su amor.\n* **Más información y compra del libro:** Puedes consultar todos los detalles en la [web oficial de Nueva Eva](https://nuevaeva.es/desde-el-dolor-a-ti-grito/).\n\n¡No te lo pierdas! Ven a compartir, reflexionar y rezar juntos.",
+            "id": "sec-retiro-adviento-info",
+            "tags": [],
+            "title": "Retiro de Adviento y Ponentes",
+            "type": "text"
+          }
+        ]
       }
     ]
   },
