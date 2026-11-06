@@ -791,7 +791,7 @@
           "rrule": [
             "su"
           ],
-          "times": "09:30",
+          "times": "11:00",
           "type": "mass"
         },
         {
@@ -813,18 +813,7 @@
           "rrule": [
             "sa"
           ],
-          "times": "19:00",
-          "type": "mass"
-        },
-        {
-          "date": null,
-          "description": "",
-          "id": "evt-16551148-32d2-4e24-919d-200cab583fed",
-          "location": "30445ab2-db18-42c6-8dcd-6ab6a6ed0d95",
-          "rrule": [
-            "sa"
-          ],
-          "times": "20:00",
+          "times": "19:30",
           "type": "mass"
         },
         {
@@ -835,7 +824,7 @@
           "rrule": [
             "su"
           ],
-          "times": "10:00",
+          "times": "11:00",
           "type": "mass"
         },
         {
@@ -848,7 +837,8 @@
             "tu",
             "we",
             "th",
-            "fr"
+            "fr",
+            "sa"
           ],
           "times": "18:00",
           "type": "mass"
@@ -884,17 +874,6 @@
             "su"
           ],
           "times": "11:00",
-          "type": "mass"
-        },
-        {
-          "date": null,
-          "description": "",
-          "id": "evt-9211e72e-a456-42a8-8b0f-63518227e8cb",
-          "location": "2b45c1e1-e5e2-447f-bf1c-00ddd3120463",
-          "rrule": [
-            "su"
-          ],
-          "times": "10:30",
           "type": "mass"
         },
         {
@@ -1033,6 +1012,23 @@
           "times": "18:00",
           "title": "Desde el dolor a ti grito",
           "type": "retiro-adviento"
+        },
+        {
+          "createPage": false,
+          "date": [
+            "2026-12-12"
+          ],
+          "description": "",
+          "id": "evt-78dd6c08-df31-43d2-a39c-e2b89f393747",
+          "images": "",
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "10:00",
+          "title": "Presentación plan pastoral y UAP",
+          "type": "1338460a-cc78-4ac5-8b9c-d202ced4be29"
         }
       ],
       "urls": []
@@ -1386,6 +1382,43 @@
             "id": "sec-retiro-adviento-info",
             "tags": [],
             "title": "Retiro de Adviento y Ponentes",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "calendar": "",
+        "createPage": true,
+        "defaults": {
+          "createPage": false,
+          "date": [],
+          "description": "",
+          "images": [
+            "https://data.parroquia.app/bidasoa/media-Poster-A3-Plan-Diocesano-Pastoral_EUSKERA-724x1024-1-001eba13.webp"
+          ],
+          "location": [],
+          "rrule": [],
+          "sections": [],
+          "times": "",
+          "title": ""
+        },
+        "id": "1338460a-cc78-4ac5-8b9c-d202ced4be29",
+        "label": "Plan Pastoral Diocesano",
+        "sections": [
+          {
+            "id": "sec-plan-pastoral-video",
+            "links": [
+              "https://www.youtube.com/watch?v=11sIvVUo904"
+            ],
+            "tags": [],
+            "title": "Vídeo Oficial de Presentación",
+            "type": "video"
+          },
+          {
+            "html": "![](https://data.parroquia.app/bidasoa/media-Poster-A3-Plan-Diocesano-Pastoral_EUSKERA-724x1024-1-001eba13.webp)\n\n\\\\n\\\\n### ¡Ponte en camino! 🚶‍♂️🔥\\\\n\\\\n\\*\\*¡Ponte en camino!\\*\\* es una invitación abierta a la participación activa en la vida de nuestra Iglesia diocesana de Pamplona y Tudela. Todos tenemos algo que aportar, y esa variedad enriquece el mensaje de la Iglesia. Participar significa sentirse parte viva de la comunidad, asumir la misión como propia y colaborar según las posibilidades de cada uno.\\\\n\\\\nEste Plan Pastoral Diocesano quiere ser una invitación a la esperanza que nos ayude a renovar nuestra fe, fortalecer la comunión y reavivar el impulso misionero en nuestra Diócesis, para que, caminando juntos, seamos testigos creíbles y alegres del amor de Dios en nuestro tiempo.\\\\n\\\\n---\\\\n\\\\n### 🌟 Los 12 Temas Principales del Plan\\\\nEl plan se articula en torno a **12 caminos y compromisos** fundamentales para caminar juntos en cada uno de los temas:\\\\n\\\\n1. **Anuncio del Evangelio:** Potenciaremos el Primer Anuncio, la iniciación cristiana y la catequesis.\\\\n2. **Unidades de Atención Pastoral (UAP):** Analizaremos la implantación real de las UAP, las impulsaremos y haremos un mapa parroquial.\\\\n3. **Formación:** Potenciaremos la formación existente y la haremos más accesible.\\\\n4. **Comunicación:** Elaboraremos un Plan de Comunicación para mejorar la comunicación interna y externa.\\\\n5. **Laicado:** Potenciaremos los consejos de pastoral y economía en las parroquias.\\\\n6. **Los pobres:** Coordinaremos la acción social de nuestra Iglesia Diocesana.\\\\n7. **Familias:** Daremos apoyo y soporte a las familias, con encuentros, grupos de reflexión, oración y escuelas de padres.\\\\n8. **Jóvenes:** Crearemos un programa de formación integral para los jóvenes orientado a su crecimiento en la fe.\\\\n9. **Sacerdotes:** Vamos a impulsar la formación y el apoyo a nuestro clero.\\\\n10. **Vida consagrada:** Apostamos por la integración de la Vida Consagrada en la pastoral de la diócesis.\\\\n11. **Mundo rural:** Se organizarán nuevos grupos de acompañamiento rural para llegar a todos.\\\\n12. **Protección y entornos seguros:** Formación en la cultura del buen trato, con menores y personas vulnerables, para agentes de pastoral.\\\\n\\\\n---\\\\n\\\\n### 📥 Descarga del Plan Pastoral en PDF y Enlaces de Interés\\\\n\\\\n\\* **Página web oficial:** [Consulta el espacio diocesano del Plan Pastoral](https://iglesianavarra.org/plan-pastoral-diocesano/)\\\\n\\* **Descargas en PDF:**\\\\n \\* [Descargar Plan Pastoral en Castellano](https://iglesianavarra.org/wp-content/uploads/2026/04/Flyer-A6-Plan-Pastoral-Diocesano_Castellano.pdf)\\\\n \\* [Descargar Plan Pastoral en Euskera](https://iglesianavarra.org/wp-content/uploads/2026/05/Poster-A3-Plan-Diocesano-Pastoral_EUSKERA-724x1024-1.jpg)\\\\n\\\\n\\*¡Un proceso compartido y transparente con evaluación final al servicio de la misión diocesana!\\*",
+            "id": "sec-plan-pastoral-info",
+            "tags": [],
+            "title": "Plan Pastoral Diocesano 2026-2029: ¡Ponte en camino!",
             "type": "text"
           }
         ]
