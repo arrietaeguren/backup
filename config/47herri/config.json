@@ -2207,6 +2207,40 @@
           "times": "16:00",
           "title": "José Echeverría Muguruza",
           "type": "funeral"
+        },
+        {
+          "createPage": false,
+          "date": [
+            "2026-11-07"
+          ],
+          "description": "",
+          "id": "evt-cbe6a5be-0c0e-407c-ad90-762fe5e3e1f4",
+          "images": "",
+          "location": [
+            "c7767cb6-8dc4-487c-b0df-781653b1b165"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "17:00",
+          "title": "Antonio Zubeldia Huici",
+          "type": "funeral"
+        },
+        {
+          "createPage": false,
+          "date": [
+            "2026-11-08"
+          ],
+          "description": "",
+          "id": "evt-62970bc7-647b-4ab1-9576-3262159f5ecf",
+          "images": "",
+          "location": [
+            "2a93939d-8435-42d5-bfc7-841ffed671a8"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "17:30",
+          "title": "Valeriano Astitz Garaikoetxea",
+          "type": "funeral"
         }
       ],
       "urls": [
@@ -3264,7 +3298,7 @@
       {
         "address": "",
         "createPage": true,
-        "geo": "43.21377, -1.79586",
+        "geo": "43.171157,-1.864682",
         "id": "c7767cb6-8dc4-487c-b0df-781653b1b165",
         "image": [],
         "images": [
