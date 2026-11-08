@@ -866,17 +866,6 @@
           "type": "mass"
         },
         {
-          "date": null,
-          "description": "",
-          "id": "evt-2d46ad0d-b634-4519-94f7-ef222a7ca359",
-          "location": "1cdf8cd1-2b17-4a93-a926-5614827034ae",
-          "rrule": [
-            "su"
-          ],
-          "times": "11:00",
-          "type": "mass"
-        },
-        {
           "date": "2027-07-11",
           "description": "Peregrinación Europea de Jóvenes y Camino de Santiago (11-20 de julio de 2027)",
           "id": "evt-pej-2027",
@@ -1015,6 +1004,23 @@
         },
         {
           "createPage": false,
+          "date": "",
+          "description": "Última semana mes",
+          "id": "evt-6e2199f6-ceb3-4516-bc19-57793fa2de20",
+          "images": "",
+          "location": [
+            "2b45c1e1-e5e2-447f-bf1c-00ddd3120463"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "sections": [],
+          "times": "09:45",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "createPage": false,
           "date": [
             "2026-12-12"
           ],
@@ -1029,6 +1035,24 @@
           "times": "10:00",
           "title": "Presentación plan pastoral y UAP",
           "type": "1338460a-cc78-4ac5-8b9c-d202ced4be29"
+        },
+        {
+          "createPage": false,
+          "date": "",
+          "description": "",
+          "id": "evt-0e0aaee7-295f-4c57-8e1f-c29e34ede2cd",
+          "images": "",
+          "location": [
+            "2b45c1e1-e5e2-447f-bf1c-00ddd3120463"
+          ],
+          "rrule": [
+            "mo",
+            "we"
+          ],
+          "sections": [],
+          "times": "09:00",
+          "title": "",
+          "type": "mass"
         }
       ],
       "urls": []
