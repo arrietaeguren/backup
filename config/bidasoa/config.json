@@ -551,6 +551,7 @@
           "type": "catechism"
         },
         {
+          "createPage": true,
           "date": "2026-12-03",
           "description": [],
           "id": "evt-8221b305-c794-4869-a0d2-6688cb4a6b05",
@@ -560,7 +561,17 @@
           "location": [
             "Donosti"
           ],
+          "registration": true,
           "rrule": "",
+          "sections": [
+            {
+              "html": "![Pista de hielo Txuri Urdin](https://images.pexels.com/photos/6289791/pexels-photo-6289791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)\\n\\n### ⛸️ ¡Nos vamos a la pista de hielo! ❄️✨\\n\\n¡Prepárate para una jornada inolvidable de diversión, risas y patinaje! Este año nos juntamos para pasar un día genial sobre el hielo. ¡No te lo puedes perder!\\n\\n---\\n\\n### 👶 Edad recomendada\\n* **Para todos:** ¡Abierto a cualquier edad! Los más pequeños, eso sí, mejor acompañados por sus padres para disfrutar y patinar con total tranquilidad.\\n\\n---\\n\\n### 🚌 Transporte y Horarios\\n* **Autobús con paradas en:** Elizondo, Doneztebe y Bera.\\n* **Horarios orientativos (por concretar):** Salida sobre las **9:00 h** de la mañana y regreso sobre las **17:00 h** de la tarde.\\n* **Precio del autobús:** Por concretar (¡avisaremos muy pronto con todos los detalles!).\\n\\n---\\n\\n### ⛸️ El Plan en la Pista de Hielo Txuri Urdin\\n* **Destino:** [Pista de hielo de Txuri Urdin](https://www.txuriurdin.info/).\\n* **Instructor profesional:** Contaremos con la ayuda de un monitor experto para que todos (¡tanto si eres un pro como si es tu primera vez!) disfrutes al máximo y patines con seguridad.\\n* **Coste todo incluido:** ¡Solo **5€**!\\n\\n---\\n\\n### 🥪 Comida en el Seminario de San Sebastián\\n* **Lugar:** Al terminar de patinar nos trasladaremos al **Seminario de San Sebastián**, que nos deja unos locales muy bien acondicionados y calentitos para nosotros.\\n* **Qué llevar:** Bocatas que cada uno trae de su casa para comer todos juntos compartiendo un buen rato.\\n\\n---\\n\\n### 🎉 Dinámicas Breves y Vuelta a Casa\\n* **Tarde divertida:** Después de comer haremos unas dinámicas y juegos muy breves para continuar con la energía a tope.\\n* **Regreso:** Subiremos de nuevo al autobús para volver a casa con las pilas cargadas tras un día redondo.\\n\\n*Nota especial:* ¡También vienen nuestros amigos de **Leitza/Larraun**, aunque ellos se organizan y vienen en su propio autobús! ¡Nos veremos allí para compartir la experiencia! \\n\\n¡Anímate a participar y apúntate ya! ¡Te esperamos con los brazos abiertos! 🎒💙",
+              "id": "sec-pista-hielo-info",
+              "tags": [],
+              "title": "Información y detalles del plan",
+              "type": "text"
+            }
+          ],
           "times": "",
           "title": "Pista de hielo",
           "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
@@ -1081,6 +1092,7 @@
             "https://images.unsplash.com/photo-1519817650390-64a93db51149?w=1600&q=80&fit=crop"
           ],
           "location": "",
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -1094,6 +1106,7 @@
         "label": "Funeral",
         "name": "funeral",
         "protected": "funeral",
+        "registration": false,
         "sections": []
       },
       {
@@ -1110,6 +1123,7 @@
             "https://images.unsplash.com/photo-1520629716099-d147346eb224?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MTF8fGNhdGhvbGljJTIwQnJlYWR8ZW58MHx8fHwxNzg4NDQ4NzU0fDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Debby%20Hudson"
           ],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1121,6 +1135,7 @@
         "label": "Eucaristía",
         "name": "mass",
         "protected": "eucaristía",
+        "registration": false,
         "sections": []
       },
       {
@@ -1137,6 +1152,7 @@
             "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=1600&q=80&fit=crop"
           ],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1148,6 +1164,7 @@
         "label": "Confesiones",
         "name": "confessions",
         "protected": "confesiones",
+        "registration": false,
         "sections": []
       },
       {
@@ -1164,6 +1181,7 @@
             "https://images.pexels.com/photos/30010819/pexels-photo-30010819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Nico+Rueda&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fyoung-girl-s-first-communion-ceremony-30010819%2F"
           ],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1175,6 +1193,7 @@
         "label": "Catequesis primera comunión",
         "name": "catechism",
         "protected": "catequesis",
+        "registration": false,
         "sections": []
       },
       {
@@ -1190,6 +1209,7 @@
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -1201,6 +1221,7 @@
         "icon": "",
         "id": "2b212345-ff31-4253-8c6b-b6ddb7957c66",
         "label": "Escuela de teología",
+        "registration": false,
         "sections": [
           {
             "html": "![Escuela Diocesana de Teología y Pastoral Pedro Axular](https://data.parroquia.app/bidasoa/media-Angelsatmamre-trinity-rublev-1410-a4854ef4.webp)\\n\\n### Escuela Diocesana de Teología y Pastoral \\\"Pedro Axular\\\" (Baztan-Bidasoa)\\n**Curso 2026-2027**\\n\\nEn este curso 2026-2027 queremos seguir profundizando en los contenidos fundamentales de la fe cristiana, del mensaje cristiano que queremos vivir y comunicar.\\n\\nDurante este curso profundizaremos en **el misterio de Cristo**, centro de la fe cristiana, desde diferentes perspectivas: teología bíblica, espiritualidad, teología dogmática, liturgia...\\n\\n---\\n\\n### 📋 Información práctica\\n* **Período de matrícula:** del 5 al 23 de octubre\\n* **Matrícula:** Gratuita\\n* **Número mínimo de alumnos:** 10\\n* **Días de clase:** 24 de octubre, 28 de noviembre, 19 de diciembre de 2026 y 30 de enero de 2027\\n* **Horario:** Sábados, de 10:00 a 11:00 y de 11:30 a 12:30 horas\\n* **Lugar:** Doneztebe/Santesteban (Casa parroquial)\\n\\n### 📞 Inscripciones y contacto\\nPara apuntarse o solicitar más información:\\n* **Correo electrónico:** jonatanruiz@csetpamplona.com\\n* **Teléfono (Jonatan Ruiz):** 649 661 401\\n\\n*Organizan: Instituto Superior de Ciencias Religiosas \\\"San Francisco Javier\\\" y Arzobispado de Pamplona y Tudela (Vicaría General).*",
@@ -1222,6 +1243,7 @@
             "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Nnx8VHJhdmVsfGVufDB8fHx8MTc5MjAxNDA5OXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Dino%20Reichmuth"
           ],
           "location": [],
+          "registration": true,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1231,6 +1253,7 @@
         "icon": "",
         "id": "d29abbbb-7ec5-4905-aba3-699a097691e0",
         "label": "Gazteentzako",
+        "registration": true,
         "sections": [
           {
             "html": "![](https://data.parroquia.app/bidasoa/media-1000019299-12b8196e.webp)\\n\\n### Gurekin etorri 🎒✨\\n\\n¡Nos ponemos en camino! Este curso tendremos una salida mensual con jóvenes y adolescentes para disfrutar, convivir y compartir la fe juntos.\\n\\n### 🚌 Información práctica y transporte\\n\\n* **Detalles de las actividades:** Iremos ampliando y publicando información más detallada sobre cada actividad, horarios específicos y requisitos conforme se acerque la fecha de cada salida.\\n* **Transporte:** Dependiendo del plan, el destino y el número de participantes, los desplazamientos se realizarán en **autobús** o en **coches particulares**. En este segundo caso, **se solicitará y agradecerá enormemente la colaboración de las familias y padres** con los vehículos.\\n\\n---\\n\\n## 🥾 Peregrinación Diocesana a Santiago – PEJ 2027\\n\\nCon motivo del Año Santo Compostelano, ¡nos vamos en peregrinación! Del **11 al 20 de julio de 2027**, la Delegación organiza la participación diocesana en la Peregrinación Europea de Jóvenes (PEJ) en Santiago. Para compaginarlo al máximo, este es el emocionante itinerario propuesto:\\n\\n* **11 de julio:** Salida desde Pamplona hacia Valladolid (16:30 h).\\n* **12 de julio:** Parada en Fátima.\\n* **13 de julio:** Fátima – Vila Nova de Cerveira – Tui (Etapa a pie de 19 km).\\n* **14 de julio:** Tui – Redondela – Pontevedra (Etapa a pie de 20 km).\\n* **15 de julio:** Pontevedra – Faramello – Santiago (Etapa a pie de 15 km).\\n* **16 al 18 de julio:** Participación en la PEJ (acogida, vigilia y misa).\\n* **19 de julio:** Convivencia para compartir lo vivido en A Coruña (o lugar por determinar).\\n* **20 de julio:** Regreso a Pamplona.\\n\\n🌟 **Opciones e inscripciones:** \\nHabrá opción de inscribirse solo a los días del encuentro en Santiago para quienes no puedan hacer todo el recorrido. La inscripción se abrirá antes de final de año, una vez cerrados transporte y manutención. ¡Anímate a vivir esta experiencia inolvidable! (La Delegación también ofrece apoyo a los grupos que prefieran peregrinar por su cuenta).\\n\\n---\\n\\n## ✨ ¿Conexión Seúl en Javier? – Del 6 al 8 de agosto de 2027\\n\\n Este año tendrá lugar la Jornada Mundial de la Juventud con el Papa y millones de jóvenes de todo el mundo en Corea. Como muchos jóvenes no podremos viajar hasta Corea, ¡traemos la experiencia a casa! Del **6 al 8 de agosto de 2027** tendremos un encuentro especial en Javier, conectando en directo con la vigilia y la misa de clausura (adaptándonos a la diferencia horaria). \\n\\nInvitaremos también a las diócesis vecinas a compartir este momento único. El albergue de Javier nos espera con los brazos abiertos para vivir juntos este gran acontecimiento eclesial de verano. ¡No te lo pierdas!\\n\\n---\\n\\n### 📞 ¿Tienes dudas o necesitas más información?\\n\\nNo dudes en ponerte en contacto con nosotros o hablar directamente con el párroco. \\n👉 [Llamar a la parroquia: 621 20 82 10](tel:621208210)",
@@ -1267,6 +1290,7 @@
             "https://data.parroquia.app/bidasoa/media-caritas-2d7510f6.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1276,6 +1300,7 @@
         "icon": "heroicons-solid:heart",
         "id": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b",
         "label": "Cáritas",
+        "registration": false,
         "sections": []
       },
       {
@@ -1289,6 +1314,7 @@
             "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1600&q=80&fit=crop"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1298,6 +1324,7 @@
         "icon": "heroicons-solid:users",
         "id": "be4119a3-450e-47e9-ad7a-e94f3fd0f47b",
         "label": "Helduen katequesia",
+        "registration": false,
         "sections": []
       },
       {
@@ -1311,6 +1338,7 @@
             "https://images.unsplash.com/photo-1776362714114-080ce9162138?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8M3x8YWRvcmF0aW9ufGVufDB8fHx8MTc5MjI1MzA3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Fernanda%20Batzibal"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1318,6 +1346,7 @@
         },
         "id": "adoration",
         "label": "Adoración al Santísimo",
+        "registration": false,
         "sections": []
       },
       {
@@ -1331,6 +1360,7 @@
             "https://images.unsplash.com/photo-1621621667797-e06afc217fb0?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjJ8fENvdXBsZXxlbnwwfHx8fDE3OTMzNzQ3MjB8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Jonathan%20Borba"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1338,6 +1368,7 @@
         },
         "id": "0e672811-5413-421d-90c5-3b94cdc889c5",
         "label": "Bikoteei eta ezkongaiei",
+        "registration": false,
         "sections": []
       },
       {
@@ -1351,6 +1382,7 @@
             "https://images.pexels.com/photos/36634161/pexels-photo-36634161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=atelierbyvineeth+.+.+.&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fopen-prayer-book-in-irish-church-interior-36634161%2F"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1358,6 +1390,7 @@
         },
         "id": "b2df16fb-dfc0-4157-8551-89c5f00c6563",
         "label": "Música y liturgia",
+        "registration": false,
         "sections": []
       },
       {
@@ -1371,6 +1404,7 @@
             "https://images.unsplash.com/photo-1570585703502-1375b93e7a97?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MzB8fFRlZW5hZ2VyfGVufDB8fHx8MTc5MzY1NjkyNHww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Alex%20Guillaume"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1378,6 +1412,7 @@
         },
         "id": "f86b481d-be06-48e4-84d8-1c4368e16080",
         "label": "Catequesis confirmación",
+        "registration": false,
         "sections": []
       },
       {
@@ -1393,6 +1428,7 @@
           "location": [
             "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1400,6 +1436,7 @@
         },
         "id": "retiro-adviento",
         "label": "Retiro de Adviento",
+        "registration": false,
         "sections": [
           {
             "html": "![Desde el dolor a ti grito](https://data.parroquia.app/bidasoa/media-portada-desdeeldolor-rect5cznv400368jbibq9nt5f9kpt5etvpl97h12r4-08462397.webp)\n\n### ¡Prepárate para el Adviento! 🌟\n\nEste Adviento en las parroquias del Bidasoa viviremos un retiro muy especial. Contaremos con **invitados especiales** que nos ayudarán a profundizar en nuestra fe y caminar hacia la Navidad con el corazón bien abierto.\n\n---\n\n### 📖 Conoce al autor y su libro: Juan Encio\n\nTendremos el inmenso placer de contar con **Juan Encio**, autor del libro **\"Desde el dolor a ti grito: El sufrimiento como punto de encuentro con el Amor\"** (Editorial Nueva Eva).\n\n* **Sobre el libro:** Una obra profunda y luminosa que aborda el misterio del sufrimiento humano no como un callejón sin salida, sino como el lugar privilegiado donde Dios sale a nuestro encuentro para llenarnos de Su amor.\n* **Más información y compra del libro:** Puedes consultar todos los detalles en la [web oficial de Nueva Eva](https://nuevaeva.es/desde-el-dolor-a-ti-grito/).\n\n¡No te lo pierdas! Ven a compartir, reflexionar y rezar juntos.",
@@ -1421,6 +1458,7 @@
             "https://data.parroquia.app/bidasoa/media-Poster-A3-Plan-Diocesano-Pastoral_EUSKERA-724x1024-1-001eba13.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -1428,6 +1466,7 @@
         },
         "id": "1338460a-cc78-4ac5-8b9c-d202ced4be29",
         "label": "Plan Pastoral Diocesano",
+        "registration": false,
         "sections": [
           {
             "id": "sec-plan-pastoral-video",
