@@ -941,6 +941,7 @@
             "Javier",
             "Donosti"
           ],
+          "registration": false,
           "rrule": [
             "yearly"
           ],

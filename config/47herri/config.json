@@ -2271,6 +2271,7 @@
             "https://data.parroquia.app/47herri/3-estela-lekunberri.webp"
           ],
           "location": "",
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2283,6 +2284,7 @@
         "label": "Hiletak",
         "name": "funeral",
         "protected": "funeral",
+        "registration": false,
         "sections": []
       },
       {
@@ -2299,6 +2301,7 @@
             "https://data.parroquia.app/47herri/mass.webp"
           ],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -2309,6 +2312,7 @@
         "label": "Meza",
         "name": "mass",
         "protected": "eucaristía",
+        "registration": false,
         "sections": []
       },
       {
@@ -2323,6 +2327,7 @@
           "image": "https://images.unsplash.com/photo-1569845177077-2a37322a60c7?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8N3x8Y2F0aG9saWMlMjBDYXRlY2lzbXxlbnwwfHx8fDE3ODgxNTU1MjF8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Anuja%20Tilj",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -2333,6 +2338,7 @@
         "label": "Katekesia",
         "name": "catechism",
         "protected": "catequesis",
+        "registration": false,
         "sections": []
       },
       {
@@ -2349,6 +2355,7 @@
             "https://images.unsplash.com/photo-1574786790595-94c66b8740fd?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8Y2F0aG9saWMlMjBBZG9yYXRpb258ZW58MHx8fHwxNzg4MTgwMTg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Jacob%20Bentzinger"
           ],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -2357,6 +2364,7 @@
         "icon": "mdi:cross-celtic",
         "id": "59bd1c60-8644-45b0-9f36-93ae90d4bd6d",
         "label": "Adoración al Santísimo",
+        "registration": false,
         "sections": []
       },
       {
@@ -2370,6 +2378,7 @@
             "https://data.parroquia.app/47herri/Screenshot_20250530_094045_Gallery.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2379,6 +2388,7 @@
         },
         "id": "visita-san-miguel",
         "label": "Visita San Miguel",
+        "registration": false,
         "sections": []
       },
       {
@@ -2392,6 +2402,7 @@
             "https://data.parroquia.app/47herri/EPIFANIA3.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2401,6 +2412,7 @@
         },
         "id": "epifania",
         "label": "Erregeen eguna Epifania",
+        "registration": false,
         "sections": []
       },
       {
@@ -2414,6 +2426,7 @@
             "https://data.parroquia.app/47herri/634dd4f236d5e.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2423,6 +2436,7 @@
         },
         "id": "miercoles-ceniza",
         "label": "Miércoles de ceniza",
+        "registration": false,
         "sections": []
       },
       {
@@ -2436,6 +2450,7 @@
             "https://data.parroquia.app/47herri/IMG-20250410-WA0023.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2445,6 +2460,7 @@
         },
         "id": "jueves-santo",
         "label": "Jueves Santo",
+        "registration": false,
         "sections": []
       },
       {
@@ -2458,6 +2474,7 @@
             "https://data.parroquia.app/47herri/viernesanto.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2467,6 +2484,7 @@
         },
         "id": "viernes-santo",
         "label": "Viernes Santo",
+        "registration": false,
         "sections": []
       },
       {
@@ -2480,6 +2498,7 @@
             "https://data.parroquia.app/47herri/vigilia.jpeg"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2489,6 +2508,7 @@
         },
         "id": "vigilia-pascual",
         "label": "Vigilia Pascual",
+        "registration": false,
         "sections": []
       },
       {
@@ -2502,6 +2522,7 @@
             "https://data.parroquia.app/47herri/semea.webp"
           ],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2511,6 +2532,7 @@
         },
         "id": "confesiones-cuaresma",
         "label": "Confesiones Cuaresma",
+        "registration": false,
         "sections": []
       },
       {
@@ -2522,6 +2544,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2531,6 +2554,7 @@
         },
         "id": "asuncion",
         "label": "Asunción de la Santísima Virgen María",
+        "registration": false,
         "sections": []
       },
       {
@@ -2542,6 +2566,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2551,6 +2576,7 @@
         },
         "id": "urte-berria",
         "label": "Urte berria",
+        "registration": false,
         "sections": []
       },
       {
@@ -2562,6 +2588,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2571,6 +2598,7 @@
         },
         "id": "xabierraldiak",
         "label": "Xabierraldiak",
+        "registration": false,
         "sections": []
       },
       {
@@ -2582,6 +2610,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2591,6 +2620,7 @@
         },
         "id": "encuentro-cuaresma",
         "label": "Encuentro de cuaresma",
+        "registration": false,
         "sections": []
       },
       {
@@ -2602,6 +2632,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2611,6 +2642,7 @@
         },
         "id": "domingo-ramos",
         "label": "Domingo de Ramos",
+        "registration": false,
         "sections": []
       },
       {
@@ -2622,6 +2654,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2631,6 +2664,7 @@
         },
         "id": "oracion-vocaciones",
         "label": "Oración por las vocaciones",
+        "registration": false,
         "sections": []
       },
       {
@@ -2642,6 +2676,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2651,6 +2686,7 @@
         },
         "id": "gurutze-eguna",
         "label": "Gurutze Eguna",
+        "registration": false,
         "sections": []
       },
       {
@@ -2662,6 +2698,7 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -2671,6 +2708,7 @@
         },
         "id": "santas-y-santos-de-dios",
         "label": "Santas y santos de Dios",
+        "registration": false,
         "sections": []
       }
     ]
