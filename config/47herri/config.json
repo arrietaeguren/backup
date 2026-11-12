@@ -2241,6 +2241,22 @@
           "times": "17:30",
           "title": "Valeriano Astitz Garaikoetxea",
           "type": "funeral"
+        },
+        {
+          "date": [
+            "2026-11-13"
+          ],
+          "description": "",
+          "id": "evt-b3614c21-0d37-4f16-926f-18b4810db5bd",
+          "images": "",
+          "location": [
+            "6914c0d4-1751-4afc-beb1-530b85b4d03b"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "16:30",
+          "title": "Mari Carmen Mariezcurrena Zabalo",
+          "type": "funeral"
         }
       ],
       "urls": [
