@@ -261,7 +261,6 @@
           "type": "f86b481d-be06-48e4-84d8-1c4368e16080"
         },
         {
-          "createPage": false,
           "date": "",
           "description": [],
           "duration": null,
@@ -279,7 +278,6 @@
           "type": "b2df16fb-dfc0-4157-8551-89c5f00c6563"
         },
         {
-          "createPage": false,
           "date": [],
           "description": [],
           "duration": null,
@@ -768,7 +766,6 @@
           "type": "a50ef9b5-aa7a-4ec8-98bc-d34b03d0c73b"
         },
         {
-          "createPage": false,
           "date": "",
           "description": "",
           "duration": null,
@@ -935,7 +932,6 @@
           "type": "b2df16fb-dfc0-4157-8551-89c5f00c6563"
         },
         {
-          "createPage": false,
           "date": "",
           "description": "Dos días de escapada para redescubrir el amor conyugal",
           "id": "evt-bafdbfc6-5a86-4dc5-a36c-0fa903664cd8",
@@ -944,7 +940,6 @@
             "Javier",
             "Donosti"
           ],
-          "registration": false,
           "rrule": [
             "yearly"
           ],

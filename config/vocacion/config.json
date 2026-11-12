@@ -1,21 +1,7 @@
 {
   "calendar": {
     "events": {
-      "list": [
-        {
-          "celebrants": "",
-          "date": "",
-          "description": [],
-          "duration": null,
-          "id": "evt-99de2761-62ae-4d1e-a5f0-e35330b5e737",
-          "image": "",
-          "location": "",
-          "rrule": "",
-          "times": "",
-          "title": "",
-          "type": "funeral"
-        }
-      ],
+      "list": [],
       "urls": []
     }
   },
