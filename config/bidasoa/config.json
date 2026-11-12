@@ -903,6 +903,7 @@
           "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
         },
         {
+          "createPage": false,
           "date": "",
           "description": "",
           "id": "evt-f62158c2-50de-4803-9d4b-2c2f7f4afc64",
@@ -910,10 +911,12 @@
           "location": [
             "1e6eabb6-8f3e-401e-ac9a-5b229a01844f"
           ],
+          "registration": false,
           "rrule": [
             "fr",
             "biweekly"
           ],
+          "sections": [],
           "times": "20:00",
           "title": "Alabanza carismática",
           "type": "adoration"
