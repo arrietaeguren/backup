@@ -540,9 +540,11 @@
           "image": "/media/undefined",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -551,6 +553,7 @@
         "label": "Funeral",
         "name": "funeral",
         "protected": "funeral",
+        "registration": false,
         "sections": []
       },
       {
@@ -565,7 +568,9 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Eucaristía"
         },
@@ -574,6 +579,7 @@
         "label": "Eucaristía",
         "name": "mass",
         "protected": "eucaristía",
+        "registration": false,
         "sections": []
       },
       {
@@ -588,13 +594,16 @@
           "image": "",
           "images": [],
           "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "registration": false,
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Inicio de catequesis de Comunión y postcomunión"
         },
         "icon": "heroicons-solid:user-group",
         "id": "e4c6e1da-d183-473c-8a0d-316420fe9490",
         "label": "Grupos",
+        "registration": false,
         "sections": []
       },
       {
@@ -606,12 +615,15 @@
           "description": "",
           "images": [],
           "location": [],
+          "registration": false,
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Catequesis infancia y primera comunión"
         },
         "id": "94950a7e-729a-43c3-872c-9821766e130b",
         "label": "Catequesis infancia y primera comunión",
+        "registration": false,
         "sections": []
       }
     ]
@@ -732,10 +744,11 @@
           {
             "id": "237bdc35-b50d-415c-b85f-b66a761072f7",
             "images": [
-              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-10-10T123127-771-918c968f.webp",
-              "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-09-22-at-19-09-52-070827eb.webp",
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-11-13-at-11-38-11-7acd6634.webp",
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-Cartel-2x--1--264f25d1.webp",
               "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-10-01T135210-118-69e1c361.webp",
-              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-09-13T101101-791-82720215.webp"
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-Orange-Beige-Photo-Fancy-Promotional-Coffee-Poster---2026-09-13T101101-791-82720215.webp",
+              "https://data.parroquia.app/corazondejesusysantavicenta/media-WhatsApp-Image-2026-09-22-at-19-09-52-070827eb.webp"
             ],
             "tags": [],
             "title": "Últimas noticias",
