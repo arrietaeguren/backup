@@ -2257,6 +2257,22 @@
           "times": "16:30",
           "title": "Mari Carmen Mariezcurrena Zabalo",
           "type": "funeral"
+        },
+        {
+          "date": [
+            "2026-11-14"
+          ],
+          "description": "",
+          "id": "evt-92adc52f-20dd-4424-b835-0b54bfc1c0eb",
+          "images": "",
+          "location": [
+            "c7767cb6-8dc4-487c-b0df-781653b1b165"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "17:00",
+          "title": "Aniceta Salaberria Salaberria ",
+          "type": "funeral"
         }
       ],
       "urls": [

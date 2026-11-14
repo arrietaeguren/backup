@@ -1570,8 +1570,6 @@
         "geo": "43.12401418207012, -1.7419980945942872",
         "id": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Zubieta_%281%29.jpg/250px-Zubieta_%281%29.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Puskak_biltzen_Zubietan.jpg/250px-Puskak_biltzen_Zubietan.jpg?photographer=Birasuegi",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zubietako_joaldunak_iturendarren_bila.jpg/250px-Zubietako_joaldunak_iturendarren_bila.jpg?photographer=Birasuegi",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rayos_De_Sol_%28152979863%29.jpeg/250px-Rayos_De_Sol_%28152979863%29.jpeg",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Diente_De_Leon_%28152863059%29.jpeg/250px-Diente_De_Leon_%28152863059%29.jpeg",
@@ -1881,16 +1879,39 @@
         "createPage": true,
         "geo": "43.281666, -1.684460",
         "id": "1e6eabb6-8f3e-401e-ac9a-5b229a01844f",
-        "images": [],
-        "name": "Sagrado Corazón (Bera)",
-        "sections": []
+        "images": [
+          "https://data.parroquia.app/bidasoa/media-1000025022-c3ba3fa6.webp"
+        ],
+        "name": "Jesusen Bihotza (Bera)",
+        "sections": [
+          {
+            "action": "Donar",
+            "description": "Algunos de los focos de nuestro campo de fútbol necesitan una reparación",
+            "goal": 300,
+            "id": "5e57d25a-4536-438c-911b-c323d8984aab",
+            "image": "https://images.pexels.com/photos/16826135/pexels-photo-16826135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Abdulvahap+Demir&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Flight-over-ball-on-football-pitch-16826135%2F",
+            "name": "Nuevos focos para el colegio",
+            "raised": 0,
+            "tags": [],
+            "title": "Juntos llegamos a más",
+            "type": "fundraising"
+          }
+        ]
       },
       {
         "address": "Altzate Karrika, 10, 31780, Bera, Navarra",
         "createPage": true,
         "geo": "43.281521, -1.680343",
         "id": "1cdf8cd1-2b17-4a93-a926-5614827034ae",
-        "images": [],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vera_de_Bidasoa_-_%C3%89glise_Saint-%C3%89tienne_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=This+illustration+was+made+by+Peter+Potrowl.+Please+credit+this+with+%3A+%C2%A9+Peter+P",
+          "https://upload.wikimedia.org/wikipedia/commons/2/22/Vera_de_Bidasoa_-_%C3%89glise_Saint-%C3%89tienne_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=This+illustration+was+made+by+Peter+Potrowl.+Please+credit+this+with+%3A+%C2%A9+Peter+P",
+          "https://upload.wikimedia.org/wikipedia/commons/b/bc/Herriko_Etxea_Plaza%2C_Bera_-_Herriko_Etxeko_Plaza_%28Bera%29_-_Tagzania_-_1785171314867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/f/f4/Herriko_Etxea_Plaza%2C_Bera_-_Herriko_Etxeko_Plaza_%28Bera%29_-_Tagzania_-_1785171314557.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/a/ac/Herriko_Etxea_Plaza%2C_Bera_-_Herriko_Etxeko_Plaza_%28Bera%29_-_Tagzania_-_1785171315246.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vera_de_Bidasoa_-_Chapelle_Saint-Martin_de_Zalain_Auzoa_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=This+illustration+was+made+by+Peter+Potrowl.+Please+credit+this+with+%3A+%C2%A9+Peter+P",
+          "https://upload.wikimedia.org/wikipedia/commons/f/fd/Vera_de_Bidasoa_-_Chapelle_Saint-Martin_de_Zalain_Auzoa_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=This+illustration+was+made+by+Peter+Potrowl.+Please+credit+this+with+%3A+%C2%A9+Peter+P"
+        ],
         "name": "Bera",
         "sections": []
       },
