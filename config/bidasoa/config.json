@@ -1493,7 +1493,8 @@
       {
         "account": "https://www.donoamiiglesia.es",
         "id": "c2ea92a2-f4a9-4bc5-a90d-1a7842dc58bb",
-        "title": "Dono a mi Iglesia "
+        "title": "Dono a mi Iglesia ",
+        "type": ""
       }
     ],
     "collaborators": [
@@ -1517,7 +1518,7 @@
     "description": "Bidasoko parrokietarako webgune ofiziala",
     "places": [
       {
-        "address": "Calle Principal, 31760 Etxalar, Navarra",
+        "address": "C. Jauregieta, 2, 31760 Etxalar, Navarra",
         "createPage": true,
         "geo": "43.23381155615313, -1.6372695666153412",
         "id": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
@@ -1535,12 +1536,15 @@
         "sections": [
           {
             "action": "Donar",
+            "code": "",
             "description": "Nuestra parroquia necesita un tejado nuevo",
             "goal": 200000,
             "id": "bda8ea14-8aa6-4a0b-862a-e11bb3294586",
             "image": "https://data.parroquia.app/bidasoa/media-1000022003-29266aa0.webp",
             "name": "Nuevo tejado",
+            "notes": "Los donativos a la Iglesia son deducibles en la declaración de la renta (Ley 49/2002): 80 % de los primeros 250 € y 40 % del resto (45 % si llevas 3 años seguidos donando lo mismo o más a la misma entidad). Pide tu certificado indicando nombre y NIF. En Navarra y País Vasco se aplica la normativa foral: consulta con tu gestor.",
             "raised": 0,
+            "sources": [],
             "tags": [],
             "title": "Auzolan",
             "type": "fundraising"
@@ -1549,7 +1553,7 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31754 Ezkurra, Navarra",
+        "address": "C. Asunción, 8, 31749 Ezkurra, Navarra",
         "createPage": true,
         "geo": "43.08528212348558, -1.8253777633662895",
         "id": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
@@ -1565,7 +1569,7 @@
         "tags": []
       },
       {
-        "address": "Calle Principal, 31746 Zubieta, Navarra",
+        "address": "C. Mayor, s/n, 31746 Zubieta, Navarra",
         "createPage": true,
         "geo": "43.12401418207012, -1.7419980945942872",
         "id": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
@@ -1610,7 +1614,7 @@
         "tags": []
       },
       {
-        "address": "Calle San Pedro, 31752 Eratsun, Navarra",
+        "address": "C. Mayor, 17, 31748 Eratsun, Navarra",
         "createPage": true,
         "geo": "43.0832607, -1.796793",
         "id": "006081ce-a00c-4554-98cb-7bd40d0c13d4",
@@ -1624,7 +1628,7 @@
         "tags": []
       },
       {
-        "address": "Convento, 31750 Donamaria, Navarra",
+        "address": "Uxarrea Auzoa, 97, 31750 Donamaria, Navarra",
         "createPage": true,
         "geo": "43.1122222, -1.6727059",
         "id": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
@@ -1654,7 +1658,7 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31793 Bertizarana, Navarra",
+        "address": "Plaza del Frontón, 16, 31793 Narbarte, Navarra",
         "createPage": true,
         "geo": "43.1333377, -1.6277938",
         "id": "026c5627-8a62-4c1e-8623-9f085750d007",
@@ -1669,7 +1673,7 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31791 Sunbilla, Navarra",
+        "address": "Donibane Karrika, 5, 31791 Sunbilla, Navarra",
         "createPage": true,
         "geo": "43.1640996, -1.6710173",
         "id": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
@@ -1719,7 +1723,7 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31753 Saldias, Navarra",
+        "address": "Pl. San Juan, 8, 31747 Saldías, Navarra",
         "createPage": true,
         "geo": "43.0888659, -1.7792157",
         "id": "2b589836-9e4e-46de-a4a4-9191c3261426",
@@ -1734,7 +1738,7 @@
         "tags": []
       },
       {
-        "address": "Udaletxeko Karrika, s/n, 31753 Beintza-Labaien, Navarre",
+        "address": "Udaletxeko Karrika, s/n, 31753 Beintza-Labaien, Navarra",
         "createPage": true,
         "geo": "43.0858232, -1.7504043",
         "id": "556ab091-756f-40e4-9220-7596c876e2ad",
@@ -1746,7 +1750,7 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31752 Oiz, Navarra",
+        "address": "C. Única, 55, 31751 Oitz, Navarra",
         "createPage": true,
         "geo": "43.109458, -1.6870201",
         "id": "300f03e5-090d-410b-80a4-a6575dcdc67a",
@@ -1770,9 +1774,9 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31750 Donamaria, Navarra",
+        "address": "Uxarrea Auzoa, 6, 31750 Donamaria, Navarra",
         "createPage": true,
-        "geo": "43.1122222, -1.6727059",
+        "geo": "43.111250, -1.673650",
         "id": "ea0a3610-a8de-47eb-b042-de12844e3777",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Donamaria%2C_Malerreka_05.jpg/250px-Donamaria%2C_Malerreka_05.jpg?photographer=Theklan",
@@ -1792,7 +1796,7 @@
         "tags": []
       },
       {
-        "address": "Calle Mayor, 31742 Urroz, Navarra",
+        "address": "C. Mayor, s/n, 31752 Urroz, Navarra",
         "createPage": true,
         "geo": "43.1001519, -1.7073351",
         "id": "02b5a468-e102-4f9e-bf67-171c01d78e88",
@@ -1830,9 +1834,9 @@
         "sections": []
       },
       {
-        "address": "Calle Zarandia, 17, 31770, Lesaka, Navarra",
+        "address": "Zarandia Kalea, 22, 31770 Lesaka, Navarra",
         "createPage": true,
-        "geo": "43.246837, -1.701216",
+        "geo": "43.246460, -1.701820",
         "id": "e3fd5522-5935-4c84-a0af-2a7099735927",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iglesia_de_Lesaca%2C_Navarra._-_panoramio.jpg/250px-Iglesia_de_Lesaca%2C_Navarra._-_panoramio.jpg",
@@ -1857,7 +1861,7 @@
         "sections": []
       },
       {
-        "address": "Bera, 31780, Bera, Navarra",
+        "address": "Diseminado Bera, s/n, 31780 Bera, Navarra",
         "createPage": false,
         "geo": "43.275674, -1.652702",
         "id": "30445ab2-db18-42c6-8dcd-6ab6a6ed0d95",
@@ -1886,12 +1890,15 @@
         "sections": [
           {
             "action": "Donar",
+            "code": "",
             "description": "Algunos de los focos de nuestro campo de fútbol necesitan una reparación",
             "goal": 300,
             "id": "5e57d25a-4536-438c-911b-c323d8984aab",
             "image": "https://images.pexels.com/photos/16826135/pexels-photo-16826135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Abdulvahap+Demir&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Flight-over-ball-on-football-pitch-16826135%2F",
             "name": "Nuevos focos para el colegio",
+            "notes": "Los donativos a la Iglesia son deducibles en la declaración de la renta (Ley 49/2002): 80 % de los primeros 250 € y 40 % del resto (45 % si llevas 3 años seguidos donando lo mismo o más a la misma entidad). Pide tu certificado indicando nombre y NIF. En Navarra y País Vasco se aplica la normativa foral: consulta con tu gestor.",
             "raised": 0,
+            "sources": [],
             "tags": [],
             "title": "Juntos llegamos a más",
             "type": "fundraising"
@@ -1899,9 +1906,9 @@
         ]
       },
       {
-        "address": "Altzate Karrika, 10, 31780, Bera, Navarra",
+        "address": "Herriko Etxea Plaza, 8, 31780 Bera, Navarra",
         "createPage": true,
-        "geo": "43.281521, -1.680343",
+        "geo": "43.282150, -1.677550",
         "id": "1cdf8cd1-2b17-4a93-a926-5614827034ae",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vera_de_Bidasoa_-_%C3%89glise_Saint-%C3%89tienne_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=This+illustration+was+made+by+Peter+Potrowl.+Please+credit+this+with+%3A+%C2%A9+Peter+P",
@@ -1916,12 +1923,55 @@
         "sections": []
       },
       {
-        "address": "Lesaka, 31770, Lesaka, Navarra",
+        "address": "Diseminado Ermita San Anton, 2077, 31770 Lesaka, Navarra",
         "createPage": false,
         "geo": "43.274391, -1.769521",
         "id": "2b45c1e1-e5e2-447f-bf1c-00ddd3120463",
         "images": [],
         "name": "San Antón Baseliza (Lesaka)",
+        "sections": []
+      },
+      {
+        "address": "Karrika Nagusia, 9, 31790 Arantza, Navarra",
+        "createPage": true,
+        "geo": "43.195920, -1.725480",
+        "id": "34bad933-24a3-4b88-8c37-33fc1e739a49",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arantza_-_Arantza_-_Tagzania_-_1775470403008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Jon+%28Tagzania+user+ID%3A+4105%29",
+          "https://upload.wikimedia.org/wikipedia/commons/5/56/Arantza_-_Arantza_-_Tagzania_-_1775470403180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Jon+%28Tagzania+user+ID%3A+4105%29",
+          "https://upload.wikimedia.org/wikipedia/commons/5/5e/Arantza_Nafarroa_detailetxoak_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/6/67/Arantza_Nafarroa_detailetxoak_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/e/e7/Arantza_Nafarroa_detailetxoak_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/f/f3/Arantza_Nafarroa_detailetxoak_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/1/12/Arantzako_herriko_etxea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Asier+Iturralde+Sarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/7/7a/Arantza_-_Arantza_-_Tagzania_-_1775470402819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Jon+%28Tagzania+user+ID%3A+4105%29",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arantza_Nafarroa_detailetxoak_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola"
+        ],
+        "name": "Arantza",
+        "sections": []
+      },
+      {
+        "address": "Karrika Nagusia, 8, 31790 Igantzi, Navarra",
+        "createPage": true,
+        "geo": "43.225460, -1.700390",
+        "id": "4eabfd9f-c787-4270-aa2b-cce251913e86",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/7/7b/Igantzi_-_Buildings_in_Igantzi_-_Tagzania_-_1791804724681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Bordatxo+%28Tagzania+user+ID%3A+3131%29",
+          "https://upload.wikimedia.org/wikipedia/commons/5/5e/Igantzi_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/7/75/Igantzi_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/9/95/Igantzi_Pilotalekua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3f/Igantzi_Udaletxea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/0/0f/Igantzi_-_Buildings_in_Igantzi_-_Tagzania_-_1791804724781.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Bordatxo+%28Tagzania+user+ID%3A+3131%29",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d5/Igantzi_-_Buildings_in_Igantzi_-_Tagzania_-_1791804724597.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Bordatxo+%28Tagzania+user+ID%3A+3131%29",
+          "https://upload.wikimedia.org/wikipedia/commons/0/08/Igantzi_-_Buildings_in_Igantzi_-_Tagzania_-_1791804724484.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Bordatxo+%28Tagzania+user+ID%3A+3131%29",
+          "https://upload.wikimedia.org/wikipedia/commons/8/85/Igantzi_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/e/ee/Igantzi_2025_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/2/25/Igantzi_2025_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/1/1c/Igantzi_eliz_ataria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/7/7f/Igantzi_191310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/e/ed/Putzubeltz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Mazkue004"
+        ],
+        "name": "Igantzi",
         "sections": []
       }
     ],
