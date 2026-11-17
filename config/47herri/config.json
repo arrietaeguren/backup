@@ -2273,6 +2273,22 @@
           "times": "17:00",
           "title": "Aniceta Salaberria Salaberria ",
           "type": "funeral"
+        },
+        {
+          "date": [
+            "2026-11-17"
+          ],
+          "description": "",
+          "id": "evt-b3f2f740-fe0c-4a1b-8fa0-de7292a0c4e3",
+          "images": "",
+          "location": [
+            "e4b7d839-e15d-486d-b1c0-c6ddeb8f2925"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "16:30",
+          "title": "Mari Carmen Iriarte Pellejero ",
+          "type": "funeral"
         }
       ],
       "urls": [
@@ -2751,22 +2767,26 @@
       {
         "account": "11995",
         "id": "285e27e0-703c-4ed0-ace6-ffd5b2aa1680",
-        "title": "Bizum"
+        "title": "Bizum",
+        "type": ""
       },
       {
         "account": "ES15 2100 4941 1222 0005 0326",
         "id": "f5758c73-2db4-4f0a-9c86-68b51a1b9777",
-        "title": "Caixa"
+        "title": "Caixa",
+        "type": ""
       },
       {
         "account": "ES66 3035 0118 8811 8000 2943",
         "id": "62d72dd6-affa-49a1-8e04-7d382e60dae0",
-        "title": "Laboral"
+        "title": "Laboral",
+        "type": ""
       },
       {
         "account": "ES17 3008 0179 2436 5465 8818",
         "id": "65265c27-097e-487f-9e33-40c5bd49c481",
-        "title": "Rural"
+        "title": "Rural",
+        "type": ""
       }
     ],
     "collaborators": [
