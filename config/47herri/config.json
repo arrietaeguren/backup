@@ -2289,6 +2289,22 @@
           "times": "16:30",
           "title": "Mari Carmen Iriarte Pellejero ",
           "type": "funeral"
+        },
+        {
+          "date": [
+            "2026-11-18"
+          ],
+          "description": "",
+          "id": "evt-70d6b990-7544-450b-9780-b0c126bbfa38",
+          "images": "",
+          "location": [
+            "8673e580-852a-432f-b55d-e5f71ba04b55"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "17:00",
+          "title": "Emilio Lakunza Lizaso ",
+          "type": "funeral"
         }
       ],
       "urls": [
