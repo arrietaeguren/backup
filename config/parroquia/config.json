@@ -48,8 +48,11 @@
   "event-types": {
     "list": [
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "Descanse en paz",
           "duration": 45,
@@ -57,9 +60,11 @@
           "image": "/media/undefined",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [
             "never"
           ],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -67,11 +72,16 @@
         "id": "469a9211-73f7-4ca0-b03c-562cc198afc3",
         "label": "Funeral",
         "page": false,
-        "protected": true
+        "protected": true,
+        "registration": false,
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -79,7 +89,9 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -87,11 +99,16 @@
         "id": "a7e773a3-0726-4592-91a7-afafcd379c42",
         "label": "Eucaristía",
         "page": false,
-        "protected": "mass"
+        "protected": "mass",
+        "registration": false,
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -99,7 +116,9 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": ""
         },
@@ -107,11 +126,16 @@
         "id": "150211d9-1bdd-4fd6-a364-6c9e7bf701c4",
         "label": "Confesiones",
         "page": false,
-        "protected": true
+        "protected": true,
+        "registration": false,
+        "sections": []
       },
       {
+        "calendar": "",
+        "createPage": false,
         "defaults": {
           "celebrants": [],
+          "createPage": false,
           "date": "",
           "description": "",
           "duration": 45,
@@ -119,7 +143,9 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
+          "sections": [],
           "times": "",
           "title": "Catequesis"
         },
@@ -127,7 +153,9 @@
         "id": "ef5f6296-5731-4ab8-89fe-9a1320103670",
         "label": "Catequesis",
         "page": false,
-        "protected": true
+        "protected": true,
+        "registration": false,
+        "sections": []
       }
     ]
   },
@@ -268,9 +296,11 @@
   },
   "theme": {
     "accentColor": "#288518",
+    "accentHue": "",
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "",
+    "fontPair": "",
     "footerStyle": "auto",
     "headingFont": "Montserrat",
     "icon": "https://data.parroquia.app/parroquia/media-IMG-20260801-WA0019.webp",
@@ -278,6 +308,7 @@
     "navStyle": "",
     "radius": "",
     "shadow": "",
+    "spacingDensity": 1,
     "styles": []
   }
 }
