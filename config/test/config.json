@@ -631,6 +631,7 @@
           "image": "/media/undefined",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [
             "never"
           ],
@@ -643,6 +644,7 @@
         "label": "Funeral",
         "name": "funeral",
         "protected": "funeral",
+        "registration": false,
         "sections": []
       },
       {
@@ -657,6 +659,7 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -667,6 +670,7 @@
         "label": "Eucaristía",
         "name": "mass",
         "protected": "eucaristía",
+        "registration": false,
         "sections": []
       },
       {
@@ -681,6 +685,7 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -691,6 +696,7 @@
         "label": "Confesiones",
         "name": "confessions",
         "protected": "confesiones",
+        "registration": false,
         "sections": []
       },
       {
@@ -705,6 +711,7 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -715,6 +722,7 @@
         "label": "Catequesis",
         "name": "catechism",
         "protected": "catequesis",
+        "registration": false,
         "sections": []
       },
       {
@@ -729,6 +737,7 @@
           "image": "",
           "images": [],
           "location": "",
+          "registration": false,
           "rrule": [],
           "sections": [],
           "times": "",
@@ -738,6 +747,7 @@
         "id": "special",
         "label": "Especial",
         "protected": "especial",
+        "registration": false,
         "sections": []
       }
     ]
@@ -748,7 +758,8 @@
       {
         "account": "https://www.donoamiiglesia.es",
         "id": "c2ea92a2-f4a9-4bc5-a90d-1a7842dc58bb",
-        "title": "Dono a mi Iglesia "
+        "title": "Dono a mi Iglesia ",
+        "type": ""
       }
     ],
     "collaborators": [
@@ -1036,7 +1047,9 @@
     "image": "https://images.unsplash.com/photo-1520629716099-d147346eb224?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjR8fFBhcmlzaHxlbnwwfHx8fDE3ODgxNTY3OTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Debby%20Hudson",
     "imageTreatment": "grayscale",
     "motionIntensity": 2,
-    "navStyle": "",
+    "navStyle": [
+      "overlay"
+    ],
     "preview": "",
     "radius": 0.9,
     "shadow": "",
