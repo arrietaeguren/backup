@@ -684,6 +684,7 @@
           "duration": null,
           "id": "a82c8465-8982-49eb-bed3-7582cfae1a4e",
           "image": "",
+          "images": [],
           "location": [
             "Lekunberri"
           ],
@@ -2395,7 +2396,7 @@
           "rrule": [],
           "sections": [],
           "times": "",
-          "title": "Katequesia"
+          "title": ""
         },
         "icon": "heroicons-solid:users",
         "id": "catechism",

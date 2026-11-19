@@ -612,6 +612,18 @@
           "times": "09:00",
           "title": "Campaña de Alimentos de Navidad",
           "type": "special"
+        },
+        {
+          "date": "",
+          "description": "",
+          "id": "evt-c18248f2-9a16-4438-a626-80a4e38e9339",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "",
+          "type": "funeral"
         }
       ],
       "urls": []
@@ -941,6 +953,15 @@
             "tags": [],
             "title": "",
             "type": "text"
+          },
+          {
+            "audio": false,
+            "id": "b744dbc4-88b0-4373-bb20-9b3cdb9e40bf",
+            "images": false,
+            "readings": false,
+            "tags": [],
+            "title": "Evangelio de hoy",
+            "type": "gospel"
           }
         ],
         "title": "Portada"
@@ -1024,6 +1045,12 @@
           }
         ],
         "title": "{title}"
+      },
+      {
+        "id": "f33652b5-67da-4fd2-a869-391d581291e6",
+        "image": "",
+        "sections": [],
+        "title": ""
       }
     ],
     "nav": [],
