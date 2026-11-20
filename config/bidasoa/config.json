@@ -735,18 +735,7 @@
           "description": "",
           "id": "evt-6714af98-a1e4-44f6-826f-09cd7f9f08bf",
           "images": "",
-          "location": [
-            "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
-            "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
-            "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
-            "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
-            "006081ce-a00c-4554-98cb-7bd40d0c13d4",
-            "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
-            "07e3751c-2c15-45a8-8fb6-c7cd0f9fb3f5",
-            "026c5627-8a62-4c1e-8623-9f085750d007",
-            "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
-            "27cb795e-8b34-4559-9731-88ccd3e34104"
-          ],
+          "location": [],
           "rrule": "",
           "times": "",
           "title": "Confesiones de Adviento y Cuaresma",
@@ -1120,7 +1109,9 @@
           "description": "",
           "id": "evt-008280b7-1209-4931-a203-a3157d23b2dd",
           "images": "",
-          "location": [],
+          "location": [
+            "e3b56fc9-9286-43c9-b9d9-cc717a46db8c"
+          ],
           "rrule": "",
           "sections": [],
           "times": "",
@@ -2038,9 +2029,9 @@
         "sections": []
       },
       {
-        "address": "",
+        "address": "Plaza, C. Sta. Catalina, 24, 31792 Legasa, Navarra",
         "createPage": true,
-        "geo": "",
+        "geo": "43.12979853292431, -1.6449454861827375",
         "id": "e3b56fc9-9286-43c9-b9d9-cc717a46db8c",
         "images": [
           "https://upload.wikimedia.org/wikipedia/commons/2/27/Legasa_%28Bertizarana%29_-_Legasa_-_Tagzania_-_1785168752716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
