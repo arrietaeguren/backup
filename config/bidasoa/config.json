@@ -563,14 +563,14 @@
           "rrule": "",
           "sections": [
             {
-              "html": "!\\[Pista de hielo Txuri Urdin\\](https://images.pexels.com/photos/6289791/pexels-photo-6289791.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940)  \n  \n### ⛸️ ¡Nos vamos a la pista de hielo! ❄️✨  \n  \n¡Prepárate para una jornada inolvidable de diversión, risas y patinaje! Este año nos juntamos para pasar un día genial sobre el hielo. ¡No te lo puedes perder!  \n  \n\\* \\* \\*  \n  \n### 👶 Edad recomendada  \n  \n\\*   \\*\\*Para todos:\\*\\* ¡Abierto a cualquier edad! Los más pequeños, eso sí, mejor acompañados por sus padres para disfrutar y patinar con total tranquilidad.  \n  \n\\* \\* \\*  \n  \n### 🚌 Transporte y Horarios  \n  \n\\*   \\*\\*Horarios y salidas:\\*\\*  \n    \\*   \\*\\*11:00\\*\\* - Salida en bus desde Santesteban  \n    \\*   \\*\\*11:30\\*\\* - Bera  \n    \\*   \\*\\*12:00\\*\\* - Quedada en San Sebastián  \n\\*   \\*\\*Precio del autobús:\\*\\* 10€ por persona. Se puede pagar por transferencia bancaria a la parroquia indicando el nombre y la actividad o en persona el mismo día. Existen becas en caso de necesidad.  \n  \n\\* \\* \\*  \n  \n### 🗺️ El Plan del Día  \n  \n\\*   \\*\\*Presentación y comida\\*\\*  \n\\*   \\*\\*13:30\\*\\* - Pista de hielo con monitor  \n\\*   \\*\\*15:30\\*\\* - Dinámicas  \n\\*   \\*\\*17:00\\*\\* - Visita al estadio de Anoeta  \n\\*   \\*\\*18:00\\*\\* - Salida de vuelta para nuestras casas  \n  \n\\_Nota especial:\\_ ¡Contaremos también con la presencia de \\*\\*Leitza/Larraun\\*\\*! ¡Nos veremos allí para compartir la experiencia!  \n  \n¡Anímate a participar y apúntate ya! ¡Te esperamos con los brazos abiertos! 🎒💙",
-              "id": "7ff2efa4-0b47-4c21-8c18-8ef5407ed2da",
+              "html": "![Pista de hielo Txuri Urdin](https://images.pexels.com/photos/6289791/pexels-photo-6289791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)\n\n### ⛸️ ¡Nos vamos a la pista de hielo! ❄️✨\n\n¡Prepárate para una jornada inolvidable de diversión, risas y patinaje! Este año nos juntamos para pasar un día genial sobre el hielo. ¡No te lo puedes perder!\n\n---\n\n### 👶 Edad recomendada\n\n- **Para todos:** ¡Abierto a cualquier edad! Contamos con monitor especializado y andadores infantiles para quien los necesite. Los más pequeños mejor acompañados por sus padres para disfrutar y patinar con total tranquilidad.\n\n---\n\n### 🚌 Transporte\n\n- **Horarios y salidas:**\n  - **11:00** - Salida en bus desde Santesteban\n  - **11:30** - Parada en Bera\n  - **12:00** - Quedada en San Sebastián\n- **Precio del autobús:** 10€ por persona. Existen becas en caso de necesidad.\n\n---\n\n### 🗺️ El Plan del Día\n\n- **12:00** - Juegos presentación y comida de bocatas (acuerdate de traer el tuyo :)\n- **13:30** - Pista de hielo. ¡Contamos con monitor y toda la pista de hielo para nosotros!\n\n- **17:00** - Visita al estadio de Anoeta\n- **18:00** - Salida de vuelta para nuestras casas\n\n\n\n¡Contaremos también con la presencia de **Leitza/Larraun**! ¡Nos veremos allí para compartir la experiencia!\n\n¡Anímate a participar y apúntate ya! ¡Te esperamos con los brazos abiertos! 🎒💙\n\n\n\n![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Exterior_Reale_Arena.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Srchocolat)",
+              "id": "377a344e-20d5-483e-8f97-163086f0e423",
               "tags": [],
               "title": "",
               "type": "text"
             }
           ],
-          "times": "",
+          "times": "12:00",
           "title": "Pista de hielo",
           "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
         },
@@ -875,20 +875,20 @@
         },
         {
           "date": "2027-07-11",
-          "description": "Peregrinación Europea de Jóvenes y Camino de Santiago (11-20 de julio de 2027)",
+          "description": "11-20 de julio",
           "id": "evt-pej-2027",
           "images": [],
           "location": [
             "Santiago de Compostela"
           ],
           "rrule": "",
-          "times": "16:30",
-          "title": "Peregrinación a Santiago - PEJ 2027",
+          "times": "",
+          "title": "Camino de Santiago",
           "type": "d29abbbb-7ec5-4905-aba3-699a097691e0"
         },
         {
           "date": "2027-08-06",
-          "description": "Encuentro en Javier conectado con la vigilia y misa de clausura (6-8 de agosto de 2027)",
+          "description": "Jornada Mundial de Juventud desde Javier (6-8 de agosto)",
           "id": "evt-conexion-seul-javier-2027",
           "images": [],
           "location": [
@@ -1063,6 +1063,69 @@
           "times": "09:00",
           "title": "",
           "type": "mass"
+        },
+        {
+          "date": [
+            "2027-05-02"
+          ],
+          "description": "",
+          "id": "evt-7fa35d68-8b0c-4d8f-a1b4-15eee6f94ff2",
+          "images": "",
+          "location": [
+            "026c5627-8a62-4c1e-8623-9f085750d007"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Primera Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": [
+            "2027-05-09"
+          ],
+          "description": "",
+          "id": "evt-a593ecbf-1e91-4e99-9b81-0f52ab2dcbf3",
+          "images": "",
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Primera Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": [
+            "2027-05-16"
+          ],
+          "description": "",
+          "id": "evt-7edcce20-e8e5-461e-a7c9-99342747c5af",
+          "images": "",
+          "location": [
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
+            "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1"
+          ],
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Primera Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": [
+            "2027-05-02"
+          ],
+          "description": "",
+          "id": "evt-008280b7-1209-4931-a203-a3157d23b2dd",
+          "images": "",
+          "location": [],
+          "rrule": "",
+          "sections": [],
+          "times": "",
+          "title": "Primera Comunión",
+          "type": "catechism"
         }
       ],
       "urls": []
@@ -1972,6 +2035,20 @@
           "https://upload.wikimedia.org/wikipedia/commons/e/ed/Putzubeltz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Mazkue004"
         ],
         "name": "Igantzi",
+        "sections": []
+      },
+      {
+        "address": "",
+        "createPage": true,
+        "geo": "",
+        "id": "e3b56fc9-9286-43c9-b9d9-cc717a46db8c",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/2/27/Legasa_%28Bertizarana%29_-_Legasa_-_Tagzania_-_1785168752716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/b/ba/Legasa_%28Bertizarana%29_-_Legasa_-_Tagzania_-_1785168752008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/a/ac/Legasa_%28Bertizarana%29_-_Legasa_-_Tagzania_-_1785168752272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Xabier+%28Tagzania+user+ID%3A+5319%29",
+          "https://upload.wikimedia.org/wikipedia/commons/6/63/Lakoizketa_etxea_%28urrunetik%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ekaitz+Santazilia"
+        ],
+        "name": "Legasa",
         "sections": []
       }
     ],
